@@ -1,28 +1,15 @@
 package com.solvd.mobileoperator.menu;
 
-//import com.solvd.mobileoperator.point.InternetMarket;         // Set, Get, Extension:  
-//import com.solvd.mobileoperator.point.Market;         
-//import com.solvd.mobileoperator.point.Office;         
-//import com.solvd.mobileoperator.point.MarketPlace;    	
 import com.solvd.mobileoperator.staff.Employee;               // Initial Interface Trainee, Extension, Implementation: 
 import com.solvd.mobileoperator.staff.Boss;         		 
 import com.solvd.mobileoperator.staff.ExpiriencedApplicant;   // Class ExpiriencedApplicant extends Abstract Class Unemployed and implements Interface Staff
-//import com.solvd.mobileoperator.user.NoMoneyUser;             // Initial Abstract Class BadUser; 
-//import com.solvd.mobileoperator.user.NoConnectionUser;   
-//import com.solvd.mobileoperator.user.MobilePhoneUser;         // Initial Abstract Class GoodUser; 
-//import com.solvd.mobileoperator.user.MobileInternetUser; 
-//import com.solvd.mobileoperator.user.HomeInternetUser;    
+   
 import com.solvd.mobileoperator.storage.Colleague;            // Polymorphizm: Interface Staff Ar, Li, HS, HM
 import com.solvd.mobileoperator.storage.ColleagueAr;
 import com.solvd.mobileoperator.storage.ColleagueColl;
 import com.solvd.mobileoperator.staff.Staff; 
 import com.solvd.mobileoperator.comparator.StatusCompare;            // Polymorphizm: Interface Staff 
 import com.solvd.mobileoperator.comparator.SexCompare;
-//import com.solvd.mobileoperator.storage.ActiveUser;           // Polymorphizm: Abstract Class GoodUser
-//import com.solvd.mobileoperator.storage.ActiveUserAr;
-//import com.solvd.mobileoperator.storage.ActiveUserLi;
-//import com.solvd.mobileoperator.user.GoodUser;
-
 
 import com.solvd.mobileoperator.exception.EntryCheck;
 import com.solvd.mobileoperator.exception.EntryIsEmptyException;
@@ -36,6 +23,8 @@ import java.util.*; // Scanner, Arrays, List(etc), Set(etc), Map (etc), Collecti
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+
+import com.solvd.mobileoperator.utils.WRFromProp;
  
 //11111
 
@@ -45,9 +34,49 @@ public class Menu {
 
 	}	 
 	
-//	public void showTestCode() {	
-//
-//	}
+	public void showPropertiesTestCode() {	
+		
+		WRFromProp wrhp = new WRFromProp();
+		String valueProp = wrhp.getValueFromProperties("second.properties","login");
+		System.out.println(valueProp);
+		valueProp = wrhp.getValueFromProperties("second.properties","password");
+		System.out.println(valueProp);
+		valueProp = wrhp.getValueFromProperties("second.properties","age");
+		System.out.println(valueProp);
+		
+		wrhp.setThreeValueToProperties("second.properties","login","user2","password","Alligator2","age","22");
+		valueProp = wrhp.getValueFromProperties("second.properties","login");
+		System.out.println(valueProp);
+		valueProp = wrhp.getValueFromProperties("second.properties","password");
+		System.out.println(valueProp);
+		valueProp = wrhp.getValueFromProperties("second.properties","age");
+		System.out.println(valueProp);
+		
+		wrhp.setTwoValueToProperties("second.properties","login","user3","password","Alligator3");
+		valueProp = wrhp.getValueFromProperties("second.properties","login");
+		System.out.println(valueProp);
+		valueProp = wrhp.getValueFromProperties("second.properties","password");
+		System.out.println(valueProp);
+		valueProp = wrhp.getValueFromProperties("second.properties","age");
+		System.out.println(valueProp);
+		
+		wrhp.setValueToProperties("second.properties","login","user4");
+		valueProp = wrhp.getValueFromProperties("second.properties","login");
+		System.out.println(valueProp);
+		valueProp = wrhp.getValueFromProperties("second.properties","password");
+		System.out.println(valueProp);	
+		valueProp = wrhp.getValueFromProperties("second.properties","age");
+		System.out.println(valueProp);	
+		
+		wrhp.setThreeValueToProperties("second.properties","login","user5","password","Alligator5","age","5555");
+		valueProp = wrhp.getValueFromProperties("second.properties","login");
+		System.out.println(valueProp);
+		valueProp = wrhp.getValueFromProperties("second.properties","password");
+		System.out.println(valueProp);
+		valueProp = wrhp.getValueFromProperties("second.properties","age");
+		System.out.println(valueProp);
+		
+	}
 	
 	public void showArrayListOperations() {		
 			
