@@ -32,5 +32,7 @@ public interface Trainee {
 	
 	public void setSex(String sex);
 
-		
+	public void setAge(int age);	
+	
+	public void setSalary(int age);
 }

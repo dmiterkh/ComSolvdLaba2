@@ -15,9 +15,9 @@ public class Employee implements Staff {
 		
 	} 
 	
-	public Employee(int age, String sex) {
-		this.age = age;
-		this.sex = sex;
+	public Employee(int ageArg, String sexArg) {
+		age = ageArg;
+		sex = sexArg;
 	} 
 		
 	@Override
@@ -27,10 +27,10 @@ public class Employee implements Staff {
 	
 	@Override
 	public void printInfo() {
-		System.out.println("I am a(an)_ "  + this.status);
-		System.out.println("I am_  " + this.age + "  _years old");
-		System.out.println("My sex is_ " + this.sex);		
-		System.out.println("My salary is_ " + this.salary);		
+		System.out.println("I am a(an)_ "  + status);
+		System.out.println("I am_  " + age + "  _years old");
+		System.out.println("My sex is_ " + sex);		
+		System.out.println("My salary is_ " + salary);		
 		System.out.println("I can work 8 hours every day!");
 		System.out.println("I can aquire new skills!");
 	}	
@@ -51,15 +51,15 @@ public class Employee implements Staff {
 	}
 	
 	@Override
-	public void setInfoAgain(int age, String sex, int salary, String status) {
-		this.salary = salary;
-		this.age = age;
-		this.sex = sex;
-		this.status = status;
+	public void setInfoAgain(int ageArg, String sexArg, int salaryArg, String statusArg) {
+		salary = salaryArg;
+		age = ageArg;
+		sex = sexArg;
+		status = statusArg;
 	}
 	
 	@Override
-	public double showSalaryMaximum(int age, int salary, String status) {
+	public double showSalaryMaximum(int ageArg, int salaryArg, String statusArg) {
 		double salaryMaximum;
 		double coefficient = 1.0;
 		
@@ -81,49 +81,59 @@ public class Employee implements Staff {
 			coefficient+=0.1;
 		}
 		
-		salaryMaximum = coefficient*salary;
-		this.salary = (int) salaryMaximum;
+		salaryMaximum = coefficient*salaryArg;
+		salary = (int) salaryMaximum;
 		return salaryMaximum;
 	}
 	
 	public int showSalary() {
-		return this.salary;
+		return salary;
 	}
 	
 	// Overloading
-	public void printInfo(int age, String sex, int salary, String status) {
-		System.out.println("I am a(an)_ "  + status);
-		System.out.println("I am_  " + age + "  _years old");
-		System.out.println("My sex is_ " + sex);		
-		System.out.println("My salary is_ " + salary);		
+	public void printInfo(int ageArg, String sexArg, int salaryArg, String statusArg) {
+		System.out.println("I am a(an)_ "  + statusArg);
+		System.out.println("I am_  " + ageArg + "  _years old");
+		System.out.println("My sex is_ " + sexArg);		
+		System.out.println("My salary is_ " + salaryArg);		
 		System.out.println("I can work 8 hours every day!");
 		System.out.println("I can aquire new skills!");
 	}
 	
 	// Overloading
-	public void printInfo(int age, String sex) {
-		System.out.println(age);
-		System.out.println(sex);
+	public void printInfo(int ageArg, String sexArg) {
+		System.out.println(ageArg);
+		System.out.println(sexArg);
 	}
 	
 	//OverLoading
-	public int showAge(int age) { 
-		return age;
+	public int showAge(int ageArg) { 
+		return ageArg;
 	}
 	
 	//OverLoading
-	public String showSex(String sex) {
-		return sex;
+	public String showSex(String sexArg) {
+		return sexArg;
 	}
 	
 	// Overloading
-	public String showStatus(String status) {
-		return status;
+	public String showStatus(String statusArg) {
+		return statusArg;
 	}
 	
 	@Override
-	public void setSex(String sex) {
-		this.sex = sex;	
+	public void setSex(String sexArg) {
+		sex = sexArg;	
+	}
+	
+	@Override
+	public void setAge(int ageArg) {
+		age = ageArg;	
+	}
+	
+	@Override
+	public void setSalary(int salaryArg) {
+		salary = salaryArg;	
 	}
 	
 	@Override
@@ -133,10 +143,10 @@ public class Employee implements Staff {
 
 	@Override
 	public String toString() {
-		return "I am a(an)_ "  + this.status + "\n" + 
-			   "I am_  " + this.age + "  _years old" + "\n" + 
-			   "My sex is_ " + this.sex + "\n" + 
-			   "My salary is_ " + this.salary + "\n" + 
+		return "I am a(an)_ "  + status + "\n" + 
+			   "I am_  " + age + "  _years old" + "\n" + 
+			   "My sex is_ " + sex + "\n" + 
+			   "My salary is_ " + salary + "\n" + 
 			   this.aquire() + "\n" + 
 			   this.work();
 	}

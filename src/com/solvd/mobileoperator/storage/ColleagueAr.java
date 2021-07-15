@@ -27,10 +27,10 @@ public class ColleagueAr {
 			listOfStaff.add(staff1);				
 		}
 		for (int i = index1; i < (index1 + index2); i++) {
-			listOfStaff.add(staff1);				
+			listOfStaff.add(staff2);				
 		}
 		for (int i = (index1 + index2); i < (index1 + index2 + index3); i++) {
-			listOfStaff.add(staff1);				
+			listOfStaff.add(staff3);				
 		}
 	}
 }

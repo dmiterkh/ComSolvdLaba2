@@ -130,6 +130,16 @@ public class ExpiriencedApplicant extends Unemployed implements Staff {
 	}
 	
 	@Override
+	public void setAge(int age) {
+		this.age = age;	
+	}
+	
+	@Override
+	public void setSalary(int salary) {
+		this.salary = salary;	
+	}
+	
+	@Override
 	public String work() {
 		return"I can work 8 hours every day!";
 	}
