@@ -5,6 +5,6 @@ bin
 .project
 src/module-info.java
 module-info.java
-target
+target/*
 mobile_outputfile
 second_outputfile
