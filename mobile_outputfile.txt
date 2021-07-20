@@ -1,0 +1,8 @@
+================================Scanner_1_ArrayList_Colleague_Properties================================
+Enter the whole number of Employees
+2
+Enter the whole number of Bosses
+3
+Enter the whole number of Expirienced Applicants
+1
+====================================
