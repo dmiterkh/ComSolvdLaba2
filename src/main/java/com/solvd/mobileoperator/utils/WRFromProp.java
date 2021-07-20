@@ -10,7 +10,7 @@ import java.util.Properties;
 public class WRFromProp {
 	
 //	path to our file
-	public static final String PATH_TO_FILE = "second.properties";
+	public static final String PATH_TO_FILE = "src/main/resources/second.properties";
 
 	public String getValueFromProperties(String pass, String key) {
 	
@@ -34,10 +34,6 @@ public class WRFromProp {
 	}	
 
 	public void setValueToProperties(String path, String key, String value) {
-	
-		PrintWriter outPutFile;
-		try {
-			outPutFile = new PrintWriter(new FileWriter("second_outputfile.txt"));
 			
 		Properties prop = new Properties();
 		try {
@@ -45,30 +41,16 @@ public class WRFromProp {
 			prop.setProperty(key, value);
 			prop.store(foutst, "");
 			foutst.close();		
-			System.out.println(prop + "\n" + "======");	
-			
-			outPutFile.println(prop + "\n" + "======");
-			
+			System.out.println(prop + "\n" + "======");				
 		} catch (IOException e) {
 			System.out.println("An error occurs: file " + PATH_TO_FILE + " is not found!!!");
 			e.printStackTrace();	
 		}
-		
-			outPutFile.close();		
-		} catch (IOException e) {
-			System.out.println("An error occurs: file outputfile.txt is not found!!!");
-			e.printStackTrace();	
-		}
-
-		
-		
 	}
 	
+	
+	
 	public void setTwoValueToProperties(String path, String key, String value, String key1, String value1) {
-		
-		PrintWriter outPutFile;
-		try {
-			outPutFile = new PrintWriter(new FileWriter("second_outputfile.txt"));
 			
 		Properties prop = new Properties();
 		try {
@@ -77,28 +59,14 @@ public class WRFromProp {
 			prop.setProperty(key1, value1);
 			prop.store(foutst, "");
 			foutst.close();		
-			System.out.println(prop);	
-			
-			outPutFile.println(prop);
-			
+			System.out.println(prop);				
 		} catch (IOException e) {
 			System.out.println("An error occurs: file " + PATH_TO_FILE + " is not found!!!");
 			e.printStackTrace();	
 		}
-		
-			outPutFile.close();		
-		} catch (IOException e) {
-			System.out.println("An error occurs: file outputfile.txt is not found!!!");
-			e.printStackTrace();	
-		}
-
 	}
 
 	public void setThreeValueToProperties(String path, String key, String value, String key1, String value1, String key2, String value2) {
-		
-		PrintWriter outPutFile;
-		try {
-			outPutFile = new PrintWriter(new FileWriter("second_outputfile.txt"));
 		
 		Properties prop = new Properties();
 		try {
@@ -108,20 +76,10 @@ public class WRFromProp {
 			prop.setProperty(key2, value2);
 			prop.store(foutst, "");
 			foutst.close();		
-			System.out.println(prop);	
-			
-			outPutFile.println(prop);
-			
+			System.out.println(prop);			
 		} catch (IOException e) {
 			System.out.println("An error occurs: file " + PATH_TO_FILE + " is not found!!!");
 			e.printStackTrace();	
 		}
-		
-			outPutFile.close();		
-		} catch (IOException e) {
-			System.out.println("An error occurs: file outputfile.txt is not found!!!");
-			e.printStackTrace();	
-		}
 	}
-
 }	

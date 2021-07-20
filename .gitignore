@@ -6,3 +6,5 @@ bin
 src/module-info.java
 module-info.java
 target
+mobile_outputfile
+second_outputfile

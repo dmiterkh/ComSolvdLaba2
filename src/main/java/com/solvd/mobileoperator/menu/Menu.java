@@ -62,7 +62,7 @@ public class Menu {
 		
 		PrintWriter outPutFile;
 		try {
-			outPutFile = new PrintWriter(new FileWriter("second_outputfile.txt"));
+			outPutFile = new PrintWriter(new FileWriter("src/main/resources/second_outputfile.txt"));
 			outPutFile.println(valueProp + "\n" + valueProp1 + "\n" + valueProp2 + "\n" + "======");
 			outPutFile.close();		
 		} catch (IOException e) {
@@ -140,7 +140,7 @@ public void showArrayListOperations() {
 		
 		PrintWriter outPutFile;
 		try {
-			outPutFile = new PrintWriter(new FileWriter("mobile_outputfile.txt"));
+			outPutFile = new PrintWriter(new FileWriter("src/main/resources/mobile_outputfile.txt"));
 			outPutFile.println("================================Scanner_1_ArrayList_Colleague_Properties================================");	
 			outPutFile.println("Enter the whole number of Employees"  + "\n" + employeeIndex);
 			outPutFile.println("Enter the whole number of Bosses"  + "\n" + bossIndex);

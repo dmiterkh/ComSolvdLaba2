@@ -10,7 +10,7 @@ import java.util.Properties;
 
 public class ColleagueArrayProp {
 
-	public static final String PATH_TO_FILE = "mobile.properties";
+	public static final String PATH_TO_FILE = "src/main/resources/mobile.properties";
 
 	public String getValueFromProperties(String key, String value) {
 	
@@ -31,10 +31,6 @@ public class ColleagueArrayProp {
 
 	public void setValueToProperties(String path, String key, String value) {
 	
-		
-		PrintWriter outPutFile;
-		try {
-			outPutFile = new PrintWriter(new FileWriter("outputfile.txt"));
 			
 		Properties prop = new Properties();
 		try {
@@ -42,28 +38,18 @@ public class ColleagueArrayProp {
 			prop.setProperty(key, value);
 			prop.store(foutst, "");
 			foutst.close();		
-			System.out.println(prop);
-		
-			outPutFile.println(prop);
-		
+			System.out.println(prop);		
 		} catch (IOException e) {
 			System.out.println("An error occurs: file " + PATH_TO_FILE + " is not found!!!");
 			e.printStackTrace();	
 		}
 		
-			outPutFile.close();		
-		} catch (IOException e) {
-			System.out.println("An error occurs: file outputfile.txt is not found!!!");
-			e.printStackTrace();	
-		} 
 	}
 	
 //  OverLoading
 	public void setValueToProperties(String path, String key, int intValue) {
 		
-		PrintWriter outPutFile;
-		try {
-			outPutFile = new PrintWriter(new FileWriter("mobile_outputfile.txt"));
+		
 			
 		Properties prop = new Properties();
 		try {
@@ -72,27 +58,18 @@ public class ColleagueArrayProp {
 			prop.setProperty(key, value);
 			prop.store(foutst, "");
 			foutst.close();		
-			System.out.println(prop);	
-		
-			outPutFile.println(prop);
-		
+			System.out.println(prop);			
 		} catch (IOException e) {
 			System.out.println("An error occurs: file " + PATH_TO_FILE + " is not found!!!");
 			e.printStackTrace();	
 		}
-		
-			outPutFile.close();		
-		} catch (IOException e) {
-			System.out.println("An error occurs: file outputfile.txt is not found!!!");
-			e.printStackTrace();	
-		} 
+
 	}
+	
 	
 	public void setAllValuesToProperties(String path, String keyId, int valueId, String keyStatus, String valueStatus, String keyAge, int valueAge, String keySex, String valueSex, String keySalary, int valueSalary, String keyAquire, String valueAquire, String keyWork, String valueWork) {
 		
-		PrintWriter outPutFile;
-		try {
-			outPutFile = new PrintWriter(new FileWriter("outputfile.txt"));
+		
 		
 		Properties prop = new Properties();
 		try {
@@ -110,18 +87,11 @@ public class ColleagueArrayProp {
 			prop.store(foutst, "");
 			foutst.close();		
 			System.out.println(prop);	
-		
-			outPutFile.println(prop);
 
 		} catch (IOException e) {
 			System.out.println("An error occurs: file " + PATH_TO_FILE + " is not found!!!");
 			e.printStackTrace();	
 		}
 		
-			outPutFile.close();		
-		} catch (IOException e) {
-			System.out.println("An error occurs: file outputfile.txt is not found!!!");
-			e.printStackTrace();	
-		} 
 	}
 }	

@@ -118,3 +118,304 @@ I can work 8 hours every day!
 2021-07-20 19:52:11 INFO  Executor:170 - ======
 2021-07-20 19:52:11 INFO  Executor:180 - ====================================
 2021-07-20 19:52:11 INFO  Executor:188 - Would you like to set data to all of the Colleagues? (y/n)
+2021-07-20 20:09:32 INFO  Executor:57 - default
+2021-07-20 20:09:32 INFO  Executor:59 - default
+2021-07-20 20:09:32 INFO  Executor:61 - default
+2021-07-20 20:09:32 INFO  Executor:75 - user2
+2021-07-20 20:09:32 INFO  Executor:77 - Alligator2
+2021-07-20 20:09:32 INFO  Executor:79 - 22
+2021-07-20 20:09:32 INFO  Executor:83 - user3
+2021-07-20 20:09:32 INFO  Executor:85 - Alligator3
+2021-07-20 20:09:32 INFO  Executor:87 - 
+2021-07-20 20:09:32 INFO  Executor:91 - user4
+2021-07-20 20:09:32 INFO  Executor:93 - 
+2021-07-20 20:09:32 INFO  Executor:95 - 
+2021-07-20 20:09:32 INFO  Executor:99 - user5
+2021-07-20 20:09:32 INFO  Executor:101 - Alligator5
+2021-07-20 20:09:32 INFO  Executor:103 - 55
+2021-07-20 20:09:32 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:09:32 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:16:11 INFO  Executor:57 - default
+2021-07-20 20:16:11 INFO  Executor:59 - default
+2021-07-20 20:16:11 INFO  Executor:61 - default
+2021-07-20 20:16:11 INFO  Executor:69 - An error occurs: file second_outputfile.txt is not found!!!
+2021-07-20 20:16:11 INFO  Executor:75 - default
+2021-07-20 20:16:11 INFO  Executor:77 - default
+2021-07-20 20:16:11 INFO  Executor:79 - default
+2021-07-20 20:16:11 INFO  Executor:83 - default
+2021-07-20 20:16:11 INFO  Executor:85 - default
+2021-07-20 20:16:11 INFO  Executor:87 - default
+2021-07-20 20:16:11 INFO  Executor:91 - default
+2021-07-20 20:16:11 INFO  Executor:93 - default
+2021-07-20 20:16:11 INFO  Executor:95 - default
+2021-07-20 20:16:11 INFO  Executor:99 - default
+2021-07-20 20:16:11 INFO  Executor:101 - default
+2021-07-20 20:16:11 INFO  Executor:103 - default
+2021-07-20 20:16:11 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:16:11 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:17:02 INFO  Executor:57 - user5
+2021-07-20 20:17:02 INFO  Executor:59 - Alligator5
+2021-07-20 20:17:02 INFO  Executor:61 - 55
+2021-07-20 20:17:02 INFO  Executor:69 - An error occurs: file second_outputfile.txt is not found!!!
+2021-07-20 20:17:02 INFO  Executor:75 - user5
+2021-07-20 20:17:02 INFO  Executor:77 - Alligator5
+2021-07-20 20:17:02 INFO  Executor:79 - 55
+2021-07-20 20:17:02 INFO  Executor:83 - user5
+2021-07-20 20:17:02 INFO  Executor:85 - Alligator5
+2021-07-20 20:17:02 INFO  Executor:87 - 55
+2021-07-20 20:17:02 INFO  Executor:91 - user5
+2021-07-20 20:17:02 INFO  Executor:93 - Alligator5
+2021-07-20 20:17:02 INFO  Executor:95 - 55
+2021-07-20 20:17:02 INFO  Executor:99 - user5
+2021-07-20 20:17:02 INFO  Executor:101 - Alligator5
+2021-07-20 20:17:02 INFO  Executor:103 - 55
+2021-07-20 20:17:02 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:17:02 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:20:13 INFO  Executor:57 - user5
+2021-07-20 20:20:13 INFO  Executor:59 - Alligator5
+2021-07-20 20:20:13 INFO  Executor:61 - 55
+2021-07-20 20:20:13 INFO  Executor:75 - user5
+2021-07-20 20:20:13 INFO  Executor:77 - Alligator5
+2021-07-20 20:20:13 INFO  Executor:79 - 55
+2021-07-20 20:20:13 INFO  Executor:83 - user5
+2021-07-20 20:20:13 INFO  Executor:85 - Alligator5
+2021-07-20 20:20:13 INFO  Executor:87 - 55
+2021-07-20 20:20:13 INFO  Executor:91 - user5
+2021-07-20 20:20:13 INFO  Executor:93 - Alligator5
+2021-07-20 20:20:13 INFO  Executor:95 - 55
+2021-07-20 20:20:13 INFO  Executor:99 - user5
+2021-07-20 20:20:13 INFO  Executor:101 - Alligator5
+2021-07-20 20:20:13 INFO  Executor:103 - 55
+2021-07-20 20:20:14 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:20:14 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:23:10 INFO  Executor:57 - user5
+2021-07-20 20:23:10 INFO  Executor:59 - Alligator5
+2021-07-20 20:23:10 INFO  Executor:61 - 55
+2021-07-20 20:23:10 INFO  Executor:75 - user5
+2021-07-20 20:23:10 INFO  Executor:77 - Alligator5
+2021-07-20 20:23:10 INFO  Executor:79 - 55
+2021-07-20 20:23:10 INFO  Executor:83 - user5
+2021-07-20 20:23:10 INFO  Executor:85 - Alligator5
+2021-07-20 20:23:10 INFO  Executor:87 - 55
+2021-07-20 20:23:10 INFO  Executor:91 - user5
+2021-07-20 20:23:10 INFO  Executor:93 - Alligator5
+2021-07-20 20:23:10 INFO  Executor:95 - 55
+2021-07-20 20:23:10 INFO  Executor:99 - user5
+2021-07-20 20:23:10 INFO  Executor:101 - Alligator5
+2021-07-20 20:23:10 INFO  Executor:103 - 55
+2021-07-20 20:23:10 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:23:10 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:23:37 INFO  Executor:57 - user5
+2021-07-20 20:23:37 INFO  Executor:59 - Alligator5
+2021-07-20 20:23:37 INFO  Executor:61 - 55
+2021-07-20 20:23:37 INFO  Executor:75 - user5
+2021-07-20 20:23:37 INFO  Executor:77 - Alligator5
+2021-07-20 20:23:37 INFO  Executor:79 - 55
+2021-07-20 20:23:37 INFO  Executor:83 - user5
+2021-07-20 20:23:37 INFO  Executor:85 - Alligator5
+2021-07-20 20:23:37 INFO  Executor:87 - 55
+2021-07-20 20:23:37 INFO  Executor:91 - user5
+2021-07-20 20:23:37 INFO  Executor:93 - Alligator5
+2021-07-20 20:23:37 INFO  Executor:95 - 55
+2021-07-20 20:23:37 INFO  Executor:99 - user5
+2021-07-20 20:23:37 INFO  Executor:101 - Alligator5
+2021-07-20 20:23:37 INFO  Executor:103 - 55
+2021-07-20 20:23:37 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:23:37 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:24:50 INFO  Executor:57 - user5
+2021-07-20 20:24:50 INFO  Executor:59 - Alligator5
+2021-07-20 20:24:50 INFO  Executor:61 - 55
+2021-07-20 20:24:50 INFO  Executor:75 - user5
+2021-07-20 20:24:50 INFO  Executor:77 - Alligator5
+2021-07-20 20:24:50 INFO  Executor:79 - 55
+2021-07-20 20:24:50 INFO  Executor:83 - user5
+2021-07-20 20:24:50 INFO  Executor:85 - Alligator5
+2021-07-20 20:24:50 INFO  Executor:87 - 55
+2021-07-20 20:24:50 INFO  Executor:91 - user5
+2021-07-20 20:24:50 INFO  Executor:93 - Alligator5
+2021-07-20 20:24:50 INFO  Executor:95 - 55
+2021-07-20 20:24:50 INFO  Executor:99 - user5
+2021-07-20 20:24:50 INFO  Executor:101 - Alligator5
+2021-07-20 20:24:50 INFO  Executor:103 - 55
+2021-07-20 20:24:50 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:24:50 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:31:51 INFO  Executor:57 - user5
+2021-07-20 20:31:51 INFO  Executor:59 - Alligator5
+2021-07-20 20:31:51 INFO  Executor:61 - 55
+2021-07-20 20:31:51 INFO  Executor:75 - user2
+2021-07-20 20:31:51 INFO  Executor:77 - Alligator2
+2021-07-20 20:31:51 INFO  Executor:79 - 22
+2021-07-20 20:31:51 INFO  Executor:83 - user3
+2021-07-20 20:31:51 INFO  Executor:85 - Alligator3
+2021-07-20 20:31:51 INFO  Executor:87 - 
+2021-07-20 20:31:51 INFO  Executor:91 - user4
+2021-07-20 20:31:51 INFO  Executor:93 - 
+2021-07-20 20:31:51 INFO  Executor:95 - 
+2021-07-20 20:31:51 INFO  Executor:99 - user5
+2021-07-20 20:31:51 INFO  Executor:101 - Alligator5
+2021-07-20 20:31:51 INFO  Executor:103 - 55
+2021-07-20 20:31:51 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:31:51 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:32:18 INFO  Executor:57 - default
+2021-07-20 20:32:18 INFO  Executor:59 - default
+2021-07-20 20:32:18 INFO  Executor:61 - default
+2021-07-20 20:32:18 INFO  Executor:75 - default
+2021-07-20 20:32:18 INFO  Executor:77 - default
+2021-07-20 20:32:18 INFO  Executor:79 - default
+2021-07-20 20:32:18 INFO  Executor:83 - default
+2021-07-20 20:32:18 INFO  Executor:85 - default
+2021-07-20 20:32:18 INFO  Executor:87 - default
+2021-07-20 20:32:18 INFO  Executor:91 - default
+2021-07-20 20:32:18 INFO  Executor:93 - default
+2021-07-20 20:32:18 INFO  Executor:95 - default
+2021-07-20 20:32:18 INFO  Executor:99 - default
+2021-07-20 20:32:18 INFO  Executor:101 - default
+2021-07-20 20:32:18 INFO  Executor:103 - default
+2021-07-20 20:32:18 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:32:18 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:32:55 INFO  Executor:57 - user5
+2021-07-20 20:32:55 INFO  Executor:59 - Alligator5
+2021-07-20 20:32:55 INFO  Executor:61 - 55
+2021-07-20 20:32:55 INFO  Executor:75 - user2
+2021-07-20 20:32:55 INFO  Executor:77 - Alligator2
+2021-07-20 20:32:55 INFO  Executor:79 - 22
+2021-07-20 20:32:55 INFO  Executor:83 - user3
+2021-07-20 20:32:55 INFO  Executor:85 - Alligator3
+2021-07-20 20:32:55 INFO  Executor:87 - 
+2021-07-20 20:32:55 INFO  Executor:91 - user4
+2021-07-20 20:32:55 INFO  Executor:93 - 
+2021-07-20 20:32:55 INFO  Executor:95 - 
+2021-07-20 20:32:55 INFO  Executor:99 - user5
+2021-07-20 20:32:55 INFO  Executor:101 - Alligator5
+2021-07-20 20:32:55 INFO  Executor:103 - 55
+2021-07-20 20:32:55 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:32:55 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:33:20 INFO  Executor:57 - default
+2021-07-20 20:33:20 INFO  Executor:59 - default
+2021-07-20 20:33:20 INFO  Executor:61 - default
+2021-07-20 20:33:20 INFO  Executor:75 - default
+2021-07-20 20:33:20 INFO  Executor:77 - default
+2021-07-20 20:33:20 INFO  Executor:79 - default
+2021-07-20 20:33:20 INFO  Executor:83 - default
+2021-07-20 20:33:20 INFO  Executor:85 - default
+2021-07-20 20:33:20 INFO  Executor:87 - default
+2021-07-20 20:33:20 INFO  Executor:91 - default
+2021-07-20 20:33:20 INFO  Executor:93 - default
+2021-07-20 20:33:20 INFO  Executor:95 - default
+2021-07-20 20:33:20 INFO  Executor:99 - default
+2021-07-20 20:33:20 INFO  Executor:101 - default
+2021-07-20 20:33:20 INFO  Executor:103 - default
+2021-07-20 20:33:20 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:33:20 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:34:03 INFO  Executor:57 - user5
+2021-07-20 20:34:03 INFO  Executor:59 - Alligator5
+2021-07-20 20:34:03 INFO  Executor:61 - 55
+2021-07-20 20:34:03 INFO  Executor:75 - user2
+2021-07-20 20:34:03 INFO  Executor:77 - Alligator2
+2021-07-20 20:34:03 INFO  Executor:79 - 22
+2021-07-20 20:34:03 INFO  Executor:83 - user3
+2021-07-20 20:34:03 INFO  Executor:85 - Alligator3
+2021-07-20 20:34:03 INFO  Executor:87 - 
+2021-07-20 20:34:03 INFO  Executor:91 - user4
+2021-07-20 20:34:03 INFO  Executor:93 - 
+2021-07-20 20:34:03 INFO  Executor:95 - 
+2021-07-20 20:34:03 INFO  Executor:99 - user5
+2021-07-20 20:34:03 INFO  Executor:101 - Alligator5
+2021-07-20 20:34:03 INFO  Executor:103 - 55
+2021-07-20 20:34:03 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:34:03 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:34:14 INFO  Executor:57 - user5
+2021-07-20 20:34:14 INFO  Executor:59 - Alligator5
+2021-07-20 20:34:14 INFO  Executor:61 - 55
+2021-07-20 20:34:14 INFO  Executor:75 - user2
+2021-07-20 20:34:14 INFO  Executor:77 - Alligator2
+2021-07-20 20:34:14 INFO  Executor:79 - 22
+2021-07-20 20:34:14 INFO  Executor:83 - user3
+2021-07-20 20:34:14 INFO  Executor:85 - Alligator3
+2021-07-20 20:34:14 INFO  Executor:87 - 
+2021-07-20 20:34:14 INFO  Executor:91 - user4
+2021-07-20 20:34:14 INFO  Executor:93 - 
+2021-07-20 20:34:14 INFO  Executor:95 - 
+2021-07-20 20:34:14 INFO  Executor:99 - user5
+2021-07-20 20:34:14 INFO  Executor:101 - Alligator5
+2021-07-20 20:34:14 INFO  Executor:103 - 55
+2021-07-20 20:34:14 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:34:14 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 20:35:18 INFO  Executor:57 - user5
+2021-07-20 20:35:18 INFO  Executor:59 - Alligator5
+2021-07-20 20:35:18 INFO  Executor:61 - 55
+2021-07-20 20:35:18 INFO  Executor:75 - user2
+2021-07-20 20:35:18 INFO  Executor:77 - Alligator2
+2021-07-20 20:35:18 INFO  Executor:79 - 22
+2021-07-20 20:35:18 INFO  Executor:83 - user3
+2021-07-20 20:35:18 INFO  Executor:85 - Alligator3
+2021-07-20 20:35:18 INFO  Executor:87 - 
+2021-07-20 20:35:18 INFO  Executor:91 - user4
+2021-07-20 20:35:18 INFO  Executor:93 - 
+2021-07-20 20:35:18 INFO  Executor:95 - 
+2021-07-20 20:35:18 INFO  Executor:99 - user5
+2021-07-20 20:35:18 INFO  Executor:101 - Alligator5
+2021-07-20 20:35:18 INFO  Executor:103 - 55
+2021-07-20 20:35:18 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 20:35:18 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 21:01:53 INFO  Executor:57 - user5
+2021-07-20 21:01:53 INFO  Executor:59 - Alligator5
+2021-07-20 21:01:53 INFO  Executor:61 - 55
+2021-07-20 21:01:53 INFO  Executor:75 - user2
+2021-07-20 21:01:53 INFO  Executor:77 - Alligator2
+2021-07-20 21:01:53 INFO  Executor:79 - 22
+2021-07-20 21:01:53 INFO  Executor:83 - user3
+2021-07-20 21:01:53 INFO  Executor:85 - Alligator3
+2021-07-20 21:01:53 INFO  Executor:87 - 
+2021-07-20 21:01:53 INFO  Executor:91 - user4
+2021-07-20 21:01:53 INFO  Executor:93 - 
+2021-07-20 21:01:53 INFO  Executor:95 - 
+2021-07-20 21:01:53 INFO  Executor:99 - user5
+2021-07-20 21:01:53 INFO  Executor:101 - Alligator5
+2021-07-20 21:01:53 INFO  Executor:103 - 55
+2021-07-20 21:01:53 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 21:01:53 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 21:02:19 INFO  Executor:57 - user5
+2021-07-20 21:02:19 INFO  Executor:59 - Alligator5
+2021-07-20 21:02:19 INFO  Executor:61 - 55
+2021-07-20 21:02:19 INFO  Executor:75 - user2
+2021-07-20 21:02:19 INFO  Executor:77 - Alligator2
+2021-07-20 21:02:19 INFO  Executor:79 - 22
+2021-07-20 21:02:19 INFO  Executor:83 - user3
+2021-07-20 21:02:19 INFO  Executor:85 - Alligator3
+2021-07-20 21:02:19 INFO  Executor:87 - 
+2021-07-20 21:02:19 INFO  Executor:91 - user4
+2021-07-20 21:02:19 INFO  Executor:93 - 
+2021-07-20 21:02:19 INFO  Executor:95 - 
+2021-07-20 21:02:19 INFO  Executor:99 - user5
+2021-07-20 21:02:19 INFO  Executor:101 - Alligator5
+2021-07-20 21:02:19 INFO  Executor:103 - 55
+2021-07-20 21:02:19 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-20 21:02:19 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-20 21:02:25 INFO  Executor:133 - Enter the whole number of Bosses
+2021-07-20 21:02:25 INFO  Executor:135 - Enter the whole number of Expirienced Applicants
+2021-07-20 21:02:25 INFO  Executor:159 - ====================================
+2021-07-20 21:02:25 INFO  Executor:161 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-20 21:02:26 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-20 21:02:26 INFO  Executor:170 - ======
+2021-07-20 21:02:26 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-20 21:02:26 INFO  Executor:170 - ======
+2021-07-20 21:02:26 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-20 21:02:26 INFO  Executor:170 - ======
+2021-07-20 21:02:26 INFO  Executor:180 - ====================================
+2021-07-20 21:02:26 INFO  Executor:188 - Would you like to set data to all of the Colleagues? (y/n)
