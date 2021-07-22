@@ -2,8 +2,8 @@ package com.solvd.mobileoperator.staff;
 
 public class Boss extends Employee {
 
-	private String status = "boss";
-	private String power = "power";
+	public String status = "boss";
+	public String power = "power";
 	
 	public Boss() {
 		

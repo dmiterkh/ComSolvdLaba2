@@ -10,10 +10,10 @@ public class Employee implements Staff {
 
 	private final static Logger LOGGER = Logger.getLogger(Animal.class);
 	
-	protected int salary;
-	protected int age; 
-	protected String sex; 
-	protected String status = "employee"; 
+	public int salary;
+	public int age; 
+	public String sex; 
+	public String status = "employee"; 
 		
 	public Employee() {
 		

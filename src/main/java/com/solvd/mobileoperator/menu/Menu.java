@@ -212,24 +212,29 @@ public class Menu {
 //		JsonExecAnimal jsonAction = new JsonExecAnimal();
 		
 		String jsonSrt = jsonAction.convertJavaToJsonStr(employee);
-//		String jsonSrt1 = jsonAction.convertJavaToJsonStr(boss);
-//		String jsonSrt2 = jsonAction.convertJavaToJsonStr(expiriencedApplicant);
-//		
-//		LOGGER.info(jsonSrt);
-//		LOGGER.info("================================================================");
-//		
-//		jsonAction.convertJavaToJsonFile(employee, "employee.json");
-//		jsonAction.convertJavaToJsonFile(boss, "boss.json");
-//		jsonAction.convertJavaToJsonFile(expiriencedApplicant, "expiriencedApplicant.json");
-//		jsonAction.convertJavaToJsonFile(staff, "staff.json");
-//				
+		String jsonSrt1 = jsonAction.convertJavaToJsonStr(boss);
+		String jsonSrt2 = jsonAction.convertJavaToJsonStr(expiriencedApplicant);
+		String jsonSrt3 = jsonAction.convertJavaToJsonStr(staff);
+		
+		LOGGER.info(jsonSrt);
+		LOGGER.info(jsonSrt1);
+		LOGGER.info(jsonSrt2);
+		LOGGER.info(jsonSrt3);
+		
+		LOGGER.info("================================================================");
+		
+		jsonAction.convertJavaToJsonFile(employee, "src/main/resources/employee.json");
+		jsonAction.convertJavaToJsonFile(boss, "src/main/resources/boss.json");
+		jsonAction.convertJavaToJsonFile(expiriencedApplicant, "src/main/resources/expiriencedApplicant.json");
+		jsonAction.convertJavaToJsonFile(staff, "src/main/resources/staff.json");
+				
 //		String jsonStrEmp = "";
 //		String jsonStrBos = "";
 //		String jsonStrExp = "";
 //				
-////		String jsonStrEmp = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
-////		String jsonStrBos = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
-////		String jsonStrExp = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
+//		String jsonStrEmp = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
+//		String jsonStrBos = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
+//		String jsonStrExp = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
 //		
 //		Employee employee2 = jsonAction.convertJsonStrToEmployeePOJO(jsonStrEmp);
 //		Boss boss2 = jsonAction.convertJsonStrToBossPOJO(jsonStrBos);
@@ -239,24 +244,24 @@ public class Menu {
 //		LOGGER.info("Name from POJO: " + employee2.showAge());
 //		LOGGER.info("Name from POJO: " + employee2.showSex());
 //		LOGGER.info("Name from POJO: " + employee2.showSalary());
-//		LOGGER.info("Name from POJO: " + employee2.work());
-//		LOGGER.info("Name from POJO: " + employee2.aquire());
+////		LOGGER.info("Name from POJO: " + employee2.work());
+////		LOGGER.info("Name from POJO: " + employee2.aquire());
 //		
 //		LOGGER.info("Name from POJO: " + boss2.showStatus());
 //		LOGGER.info("Name from POJO: " + boss2.showAge());
 //		LOGGER.info("Name from POJO: " + boss2.showSex());
 //		LOGGER.info("Name from POJO: " + boss2.showSalary());
-//		LOGGER.info("Name from POJO: " + boss2.work());
-//		LOGGER.info("Name from POJO: " + boss2.aquire());
-//		LOGGER.info("Name from POJO: " + boss2.hirePeople());
-//		LOGGER.info("Name from POJO: " + boss2.firePeople());
+////		LOGGER.info("Name from POJO: " + boss2.work());
+////		LOGGER.info("Name from POJO: " + boss2.aquire());
+////		LOGGER.info("Name from POJO: " + boss2.hirePeople());
+////		LOGGER.info("Name from POJO: " + boss2.firePeople());
 //		
 //		LOGGER.info("Name from POJO: " + experiencedApplicant2.showStatus());
 //		LOGGER.info("Name from POJO: " + experiencedApplicant2.showAge());
 //		LOGGER.info("Name from POJO: " + experiencedApplicant2.showSex());
 //		LOGGER.info("Name from POJO: " + experiencedApplicant2.showSalary());
-//		LOGGER.info("Name from POJO: " + experiencedApplicant2.work());
-//		LOGGER.info("Name from POJO: " + experiencedApplicant2.aquire());
+////		LOGGER.info("Name from POJO: " + experiencedApplicant2.work());
+////		LOGGER.info("Name from POJO: " + experiencedApplicant2.aquire());
 		
 	}	
 		

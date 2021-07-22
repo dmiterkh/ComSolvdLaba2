@@ -31,22 +31,22 @@ public class JsonExec {
 		return jsonStr;
 	}
 
-//	public void convertJavaToJsonFile(Object obj, String pathToFile) {
-//
-//		try {
-//			ObjectMapper mapper = new ObjectMapper();
-//			mapper.writeValue(Paths.get(pathToFile).toFile(), obj);
-//			LOGGER.info("Writing to file finished!");
-//
-//		} catch (JsonProcessingException e) {
-//			e.printStackTrace();
-//			LOGGER.info("Writing to file encountered some problems!");
-//			
-//		} catch (IOException e) {
-//			e.printStackTrace();
-//			LOGGER.info("Writing to file encountered some problems!");
-//		}
-//	}
+	public void convertJavaToJsonFile(Object obj, String pathToFile) {
+
+		try {
+			ObjectMapper mapper = new ObjectMapper();
+			mapper.writeValue(Paths.get(pathToFile).toFile(), obj);
+			LOGGER.info("Writing to file finished!");
+
+		} catch (JsonProcessingException e) {
+			e.printStackTrace();
+			LOGGER.info("Writing to file encountered some problems!");
+			
+		} catch (IOException e) {
+			e.printStackTrace();
+			LOGGER.info("Writing to file encountered some problems!");
+		}
+	}
 //	
 //	
 //	public Employee convertJsonStrToEmployeePOJO(String jsonStr) {

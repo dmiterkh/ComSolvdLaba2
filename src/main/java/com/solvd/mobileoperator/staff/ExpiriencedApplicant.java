@@ -2,10 +2,10 @@ package com.solvd.mobileoperator.staff;
 
 public class ExpiriencedApplicant extends Unemployed implements Staff {
 	
-	protected int salary;
-	protected int age; 
-	protected String sex; 
-	private String status = "expirienced applicant"; 
+	public int salary;
+	public int age; 
+	public String sex; 
+	public String status = "expirienced applicant"; 
 		
 	public ExpiriencedApplicant() {
 		
