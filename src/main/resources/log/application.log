@@ -3103,3 +3103,97 @@ I'm looking for job!]
 2021-07-22 19:17:33 INFO  JsonExec:39 - Writing to file finished!
 2021-07-22 19:17:33 INFO  JsonExec:39 - Writing to file finished!
 2021-07-22 19:17:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:33:41 INFO  Executor:156 - =======================================
+2021-07-22 19:33:41 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:33:41 INFO  Executor:158 - =======================================
+2021-07-22 19:33:41 INFO  Executor:159 - 13213
+2021-07-22 19:33:41 INFO  Executor:160 - =============
+2021-07-22 19:33:41 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:33:41 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:33:41 INFO  Executor:168 - ================
+2021-07-22 19:33:41 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:33:41 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:33:42 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:33:42 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:33:42 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:33:42 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:33:42 INFO  Executor:187 - =======================================
+2021-07-22 19:33:42 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:33:42 INFO  Executor:189 - =======================================
+2021-07-22 19:33:42 INFO  Executor:206 - =============
+2021-07-22 19:33:42 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:33:42 INFO  Executor:208 - =============
+2021-07-22 19:33:42 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:33:42 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:33:42 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:33:42 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:33:42 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:33:42 INFO  Executor:219 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-22 19:33:42 INFO  Executor:220 - {"salary":3000,"age":46,"sex":"m","status":"boss"}
+2021-07-22 19:33:42 INFO  Executor:221 - {"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}
+2021-07-22 19:33:42 INFO  Executor:222 - [{"salary":2000,"age":26,"sex":"f","status":"employee"},{"salary":3000,"age":46,"sex":"m","status":"boss"},{"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}]
+2021-07-22 19:33:42 INFO  Executor:224 - ================================================================
+2021-07-22 19:33:42 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:33:42 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:33:42 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:33:42 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:33:42 INFO  JsonExec:58 - Convertation to POJO finished!
+2021-07-22 19:33:42 INFO  JsonExec:73 - Convertation to POJO finished!
+2021-07-22 19:33:42 INFO  JsonExec:88 - Convertation to POJO finished!
+2021-07-22 19:33:42 INFO  JsonExec:88 - Convertation to POJO finished!
+2021-07-22 19:33:42 INFO  Executor:241 - I am a(an)_ employee
+I am_  27  _years old
+My sex is_ trans
+My salary is_ 2500
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:33:42 INFO  Executor:242 - I am a(an)_ boss
+I am_  37  _years old
+My sex is_ f
+My salary is_ 3500
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!
+2021-07-22 19:33:42 INFO  Executor:243 - I am a(an)_ expirienced applicant
+I am_  15  _years old
+My sex is_ m
+My salary is_ 1700
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!
+2021-07-22 19:33:42 INFO  Executor:244 - I am a(an)_ expirienced applicant
+I am_  15  _years old
+My sex is_ m
+My salary is_ 1700
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!

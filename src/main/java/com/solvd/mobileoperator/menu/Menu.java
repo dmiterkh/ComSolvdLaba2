@@ -228,40 +228,39 @@ public class Menu {
 		jsonAction.convertJavaToJsonFile(expiriencedApplicant, "src/main/resources/expiriencedApplicant.json");
 		jsonAction.convertJavaToJsonFile(staff, "src/main/resources/staff.json");
 				
-//		String jsonStrEmp = "";
-//		String jsonStrBos = "";
-//		String jsonStrExp = "";
-//				
-//		String jsonStrEmp = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
-//		String jsonStrBos = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
-//		String jsonStrExp = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
-//		
-//		Employee employee2 = jsonAction.convertJsonStrToEmployeePOJO(jsonStrEmp);
-//		Boss boss2 = jsonAction.convertJsonStrToBossPOJO(jsonStrBos);
-//		ExpiriencedApplicant experiencedApplicant2 = jsonAction.convertJsonStrToExpiriencedApplicantPOJO(jsonStrExp);
-//																
+		String jsonStrEmp = "{\"salary\":2500,\"age\":27,\"sex\":\"trans\",\"status\":\"employee\"}";
+		String jsonStrBos = "{\"salary\":3500,\"age\":37,\"sex\":\"f\",\"status\":\"boss\"}";
+		String jsonStrExp = "{\"salary\":1700,\"age\":15,\"sex\":\"m\",\"status\":\"expirienced applicant\"}";
+		String jsonStrSta = "[{\"salary\":2500,\"age\":26,\"sex\":\"trans\",\"status\":\"employee\"},{\"salary\":3500,\"age\":37,\"sex\":\"f\",\"status\":\"boss\"},{\"salary\":1700,\"age\":15,\"sex\":\"m\",\"status\":\"expirienced applicant\"}]";
+		
+		Employee employee2 = jsonAction.convertJsonStrToEmployeePOJO(jsonStrEmp);
+		Boss boss2 = jsonAction.convertJsonStrToBossPOJO(jsonStrBos);
+		ExpiriencedApplicant experiencedApplicant2 = jsonAction.convertJsonStrToExpiriencedApplicantPOJO(jsonStrExp);
+		Staff staff2 = jsonAction.convertJsonStrToExpiriencedApplicantPOJO(jsonStrExp);
+		
+		LOGGER.info(employee2);
+		LOGGER.info(boss2);
+		LOGGER.info(experiencedApplicant2);
+		LOGGER.info(staff2);
+		
+																
 //		LOGGER.info("Name from POJO: " + employee2.showStatus());
 //		LOGGER.info("Name from POJO: " + employee2.showAge());
 //		LOGGER.info("Name from POJO: " + employee2.showSex());
 //		LOGGER.info("Name from POJO: " + employee2.showSalary());
-////		LOGGER.info("Name from POJO: " + employee2.work());
-////		LOGGER.info("Name from POJO: " + employee2.aquire());
+
 //		
 //		LOGGER.info("Name from POJO: " + boss2.showStatus());
 //		LOGGER.info("Name from POJO: " + boss2.showAge());
 //		LOGGER.info("Name from POJO: " + boss2.showSex());
 //		LOGGER.info("Name from POJO: " + boss2.showSalary());
-////		LOGGER.info("Name from POJO: " + boss2.work());
-////		LOGGER.info("Name from POJO: " + boss2.aquire());
-////		LOGGER.info("Name from POJO: " + boss2.hirePeople());
-////		LOGGER.info("Name from POJO: " + boss2.firePeople());
+
 //		
 //		LOGGER.info("Name from POJO: " + experiencedApplicant2.showStatus());
 //		LOGGER.info("Name from POJO: " + experiencedApplicant2.showAge());
 //		LOGGER.info("Name from POJO: " + experiencedApplicant2.showSex());
 //		LOGGER.info("Name from POJO: " + experiencedApplicant2.showSalary());
-////		LOGGER.info("Name from POJO: " + experiencedApplicant2.work());
-////		LOGGER.info("Name from POJO: " + experiencedApplicant2.aquire());
+
 		
 	}	
 		
