@@ -50,6 +50,7 @@ import com.fasterxml.jackson.databind.ser.impl.ObjectIdWriter;
 import com.fasterxml.jackson.databind.ser.impl.UnwrappingBeanSerializer;
 import com.fasterxml.jackson.databind.ser.std.BeanSerializerBase;
 import com.fasterxml.jackson.databind.util.NameTransformer;
+import java.lang.Object.*;
 
 public class Menu {
 	
@@ -152,8 +153,9 @@ public class Menu {
 		animals.add(animal);
 		animals.add(animal1);
 		animals.add(animal2);
-		
-		
+		LOGGER.info("=======================================");
+		LOGGER.info("======showJsonTestCodeAnimal()========");
+		LOGGER.info("=======================================");
 		LOGGER.info(animal.getId());
 		LOGGER.info("=============");
 		
@@ -181,10 +183,10 @@ public class Menu {
 		
 	
 	public void showJsonTestCodeStaff() {
-	
-		LOGGER.info("====================================");
-		LOGGER.info("Json Part");
-		LOGGER.info("====================================");
+		LOGGER.info("\n\n\n");
+		LOGGER.info("=======================================");
+		LOGGER.info("======showJsonTestCodeStaff()========");
+		LOGGER.info("=======================================");
 		
 		
 		Employee employee = new Employee(25, "f"); 
