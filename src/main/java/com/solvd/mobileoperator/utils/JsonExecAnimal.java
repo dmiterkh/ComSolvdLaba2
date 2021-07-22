@@ -9,7 +9,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.*;
 import com.solvd.mobileoperator.staff.Animal;
-
+import com.solvd.mobileoperator.staff.*;
 
 public class JsonExecAnimal {
 	

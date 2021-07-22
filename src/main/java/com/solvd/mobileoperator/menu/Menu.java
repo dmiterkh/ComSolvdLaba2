@@ -42,7 +42,14 @@ import java.util.List;
 import org.apache.log4j.Logger;
 
 import com.solvd.mobileoperator.utils.JsonExec;
+import com.fasterxml.jackson.core.JsonGenerator;
 
+import com.fasterxml.jackson.databind.*;
+import com.fasterxml.jackson.databind.ser.impl.BeanAsArraySerializer;
+import com.fasterxml.jackson.databind.ser.impl.ObjectIdWriter;
+import com.fasterxml.jackson.databind.ser.impl.UnwrappingBeanSerializer;
+import com.fasterxml.jackson.databind.ser.std.BeanSerializerBase;
+import com.fasterxml.jackson.databind.util.NameTransformer;
 
 public class Menu {
 	
@@ -200,6 +207,7 @@ public class Menu {
 		LOGGER.info("\n" + staff);
 		
 		JsonExec jsonAction = new JsonExec();
+//		JsonExecAnimal jsonAction = new JsonExecAnimal();
 		
 		String jsonSrt = jsonAction.convertJavaToJsonStr(employee);
 //		String jsonSrt1 = jsonAction.convertJavaToJsonStr(boss);
