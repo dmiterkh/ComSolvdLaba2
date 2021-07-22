@@ -119,30 +119,30 @@ public class Menu {
 	public void showJsonTestCodeAnimal() {	
 		
 		AnimalPlace place = new AnimalPlace();
-		place.setTitle("World");
+		place.setTitle("Worldd");
 		
 		AnimalPlace place1 = new AnimalPlace();
-		place1.setTitle("Europe");
+		place1.setTitle("Europee");
 		
 		AnimalPlace place2 = new AnimalPlace();
-		place2.setTitle("Asia");
+		place2.setTitle("Asiaa");
 		
 		Animal animal = new Animal();
 		animal.setId(13213);
-		animal.setName("Rex");
+		animal.setName("Rex_Rexie");
 		animal.getName();
 		animal.setPlace(place);
 		
 		
 		Animal animal1 = new Animal();
 		animal1.setId(14324);
-		animal1.setName("Rex1");
+		animal1.setName("Rex1_Rexie");
 		animal1.getName();
 		animal1.setPlace(place1);
 		
 		Animal animal2 = new Animal();
 		animal2.setId(15435);
-		animal2.setName("Rex2");
+		animal2.setName("Rex2_Rexie");
 		animal2.getName();
 		animal2.setPlace(place2);
 		
@@ -166,9 +166,9 @@ public class Menu {
 		
 		LOGGER.info(jsonSrt);
 		LOGGER.info("================");
-		jsonAction.convertJavaToJsonFile(animal, "animal.json");
+		jsonAction.convertJavaToJsonFile(animal, "src/main/resources/animal.json");
 		
-		jsonAction.convertJavaToJsonFile(animals, "animals.json");
+		jsonAction.convertJavaToJsonFile(animals, "src/main/resources/animals.json");
 		
 		
 		String jsonStr1 = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";

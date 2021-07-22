@@ -31,67 +31,67 @@ public class JsonExec {
 		return jsonStr;
 	}
 
-	public void convertJavaToJsonFile(Object obj, String pathToFile) {
-
-		try {
-			ObjectMapper mapper = new ObjectMapper();
-			mapper.writeValue(Paths.get(pathToFile).toFile(), obj);
-			LOGGER.info("Writing to file finished!");
-
-		} catch (JsonProcessingException e) {
-			e.printStackTrace();
-			LOGGER.info("Writing to file encountered some problems!");
-			
-		} catch (IOException e) {
-			e.printStackTrace();
-			LOGGER.info("Writing to file encountered some problems!");
-		}
-	}
-	
-	
-	public Employee convertJsonStrToEmployeePOJO(String jsonStr) {
-
-		Employee employee = null;
-		try {
-			ObjectMapper mapper = new ObjectMapper();
-			employee  = mapper.readValue(jsonStr, Employee.class);
-			LOGGER.info("Convertation to POJO finished!");
-		} catch (JsonProcessingException e) {
-			e.printStackTrace();
-			LOGGER.info("Convertation to POJO encountered some problems!");
-		}
-
-		return employee;
-	}
-	
-	public Boss convertJsonStrToBossPOJO(String jsonStr) {
-
-		Boss boss = null;
-		try {
-			ObjectMapper mapper = new ObjectMapper();
-			boss  = mapper.readValue(jsonStr, Boss.class);
-			LOGGER.info("Convertation to POJO finished!");
-		} catch (JsonProcessingException e) {
-			e.printStackTrace();
-			LOGGER.info("Convertation to POJO encountered some problems!");
-		}
-
-		return boss;
-	}
-	
-	public ExpiriencedApplicant convertJsonStrToExpiriencedApplicantPOJO(String jsonStr) {
-
-		ExpiriencedApplicant expiriencedApplicant = null;
-		try {
-			ObjectMapper mapper = new ObjectMapper();
-			expiriencedApplicant  = mapper.readValue(jsonStr, ExpiriencedApplicant.class);
-			LOGGER.info("Convertation to POJO finished!");
-		} catch (JsonProcessingException e) {
-			e.printStackTrace();
-			LOGGER.info("Convertation to POJO encountered some problems!");
-		}
-
-		return expiriencedApplicant;
-	}
+//	public void convertJavaToJsonFile(Object obj, String pathToFile) {
+//
+//		try {
+//			ObjectMapper mapper = new ObjectMapper();
+//			mapper.writeValue(Paths.get(pathToFile).toFile(), obj);
+//			LOGGER.info("Writing to file finished!");
+//
+//		} catch (JsonProcessingException e) {
+//			e.printStackTrace();
+//			LOGGER.info("Writing to file encountered some problems!");
+//			
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//			LOGGER.info("Writing to file encountered some problems!");
+//		}
+//	}
+//	
+//	
+//	public Employee convertJsonStrToEmployeePOJO(String jsonStr) {
+//
+//		Employee employee = null;
+//		try {
+//			ObjectMapper mapper = new ObjectMapper();
+//			employee  = mapper.readValue(jsonStr, Employee.class);
+//			LOGGER.info("Convertation to POJO finished!");
+//		} catch (JsonProcessingException e) {
+//			e.printStackTrace();
+//			LOGGER.info("Convertation to POJO encountered some problems!");
+//		}
+//
+//		return employee;
+//	}
+//	
+//	public Boss convertJsonStrToBossPOJO(String jsonStr) {
+//
+//		Boss boss = null;
+//		try {
+//			ObjectMapper mapper = new ObjectMapper();
+//			boss  = mapper.readValue(jsonStr, Boss.class);
+//			LOGGER.info("Convertation to POJO finished!");
+//		} catch (JsonProcessingException e) {
+//			e.printStackTrace();
+//			LOGGER.info("Convertation to POJO encountered some problems!");
+//		}
+//
+//		return boss;
+//	}
+//	
+//	public ExpiriencedApplicant convertJsonStrToExpiriencedApplicantPOJO(String jsonStr) {
+//
+//		ExpiriencedApplicant expiriencedApplicant = null;
+//		try {
+//			ObjectMapper mapper = new ObjectMapper();
+//			expiriencedApplicant  = mapper.readValue(jsonStr, ExpiriencedApplicant.class);
+//			LOGGER.info("Convertation to POJO finished!");
+//		} catch (JsonProcessingException e) {
+//			e.printStackTrace();
+//			LOGGER.info("Convertation to POJO encountered some problems!");
+//		}
+//
+//		return expiriencedApplicant;
+//	}
 
 }

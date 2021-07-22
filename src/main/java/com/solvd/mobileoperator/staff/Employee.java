@@ -13,7 +13,7 @@ public class Employee implements Staff {
 	protected int salary;
 	protected int age; 
 	protected String sex; 
-	private String status = "employee"; 
+	protected String status = "employee"; 
 		
 	public Employee() {
 		
