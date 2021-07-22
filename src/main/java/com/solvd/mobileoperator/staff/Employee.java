@@ -1,11 +1,15 @@
 package com.solvd.mobileoperator.staff;
 
 import java.lang.Object;
+import org.apache.log4j.Logger;
+import com.solvd.mobileoperator.utils.*;
 //import com.google.common.base.Objects.hashCode;
 //import java.util.Objects.hash;
 
 public class Employee implements Staff {
 
+	private final static Logger LOGGER = Logger.getLogger(Animal.class);
+	
 	protected int salary;
 	protected int age; 
 	protected String sex; 

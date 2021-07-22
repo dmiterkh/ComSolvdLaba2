@@ -33,8 +33,15 @@ import java.io.PrintWriter;
 import com.solvd.mobileoperator.utils.WRFromProp;
 import com.solvd.mobileoperator.utils.ColleagueArrayProp;
 import java.io.*;
+
+import com.solvd.mobileoperator.utils.JsonExecAnimal;
+import com.solvd.mobileoperator.staff.Animal;
+import com.solvd.mobileoperator.staff.AnimalPlace;
+import java.util.ArrayList;
+import java.util.List;
 import org.apache.log4j.Logger;
 
+import com.solvd.mobileoperator.utils.JsonExec;
 
 
 public class Menu {
@@ -46,12 +53,8 @@ public class Menu {
 	}	 
 	
 	
-	
-	
 	public void showPropertiesTestCode() {	
-		
-		
-		
+	
 		WRFromProp wrhp = new WRFromProp();
 		String valueProp = wrhp.getValueFromProperties("second.properties","login");
 		LOGGER.info(valueProp);
@@ -104,12 +107,151 @@ public class Menu {
 			
 	}
 	
+	
+	public void showJsonTestCodeAnimal() {	
+		
+		AnimalPlace place = new AnimalPlace();
+		place.setTitle("World");
+		
+		AnimalPlace place1 = new AnimalPlace();
+		place1.setTitle("Europe");
+		
+		AnimalPlace place2 = new AnimalPlace();
+		place2.setTitle("Asia");
+		
+		Animal animal = new Animal();
+		animal.setId(13213);
+		animal.setName("Rex");
+		animal.getName();
+		animal.setPlace(place);
+		
+		
+		Animal animal1 = new Animal();
+		animal1.setId(14324);
+		animal1.setName("Rex1");
+		animal1.getName();
+		animal1.setPlace(place1);
+		
+		Animal animal2 = new Animal();
+		animal2.setId(15435);
+		animal2.setName("Rex2");
+		animal2.getName();
+		animal2.setPlace(place2);
+		
+		
+		
+		List<Animal> animals = new ArrayList<Animal>();
+		
+		animals.add(animal);
+		animals.add(animal1);
+		animals.add(animal2);
+		
+		
+		LOGGER.info(animal.getId());
+		LOGGER.info("=============");
+		
+		
+		JsonExecAnimal jsonAction = new JsonExecAnimal();
+		
+		String jsonSrt = jsonAction.convertJavaToJsonStr(animal);
+		
+		LOGGER.info(jsonSrt);
+		LOGGER.info("================");
+		jsonAction.convertJavaToJsonFile(animal, "animal.json");
+		
+		jsonAction.convertJavaToJsonFile(animals, "animals.json");
+		
+		
+		String jsonStr1 = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
+		
+		Animal animal4 = jsonAction.convertJsonStrToAnimalPOJO(jsonStr1);
+		
+		LOGGER.info("Name from POJO: " + animal4.getName());
+		LOGGER.info("Name place from POJO: " + animal4.getPlace().getTitle());		
+		
+			
+	}
+		
+	
+	public void showJsonTestCodeStaff() {
+	
+		LOGGER.info("====================================");
+		LOGGER.info("Json Part");
+		LOGGER.info("====================================");
+		
+		
+		Employee employee = new Employee(25, "f"); 
+		employee.setInfoAgain(26, "f", 2000, "employee");
+		Boss boss = new Boss(76, "m"); 
+		boss.setInfoAgain(46, "m", 3000, "boss");
+		ExpiriencedApplicant expiriencedApplicant = new ExpiriencedApplicant(56, "trans");
+		expiriencedApplicant.setInfoAgain(16, "trans", 1500, "expirienced applicant");
 
-	
-	
 		
+		List<Staff> staff = new ArrayList<Staff>();
 		
-public void showArrayListOperations() {			
+		staff.add(employee);
+		staff.add(boss);
+		staff.add(expiriencedApplicant);
+				
+		LOGGER.info("=============");
+		LOGGER.info("\n" + employee);
+		LOGGER.info("=============");
+		LOGGER.info("\n" + staff);
+		
+		JsonExec jsonAction = new JsonExec();
+		
+		String jsonSrt = jsonAction.convertJavaToJsonStr(employee);
+//		String jsonSrt1 = jsonAction.convertJavaToJsonStr(boss);
+//		String jsonSrt2 = jsonAction.convertJavaToJsonStr(expiriencedApplicant);
+//		
+//		LOGGER.info(jsonSrt);
+//		LOGGER.info("================================================================");
+//		
+//		jsonAction.convertJavaToJsonFile(employee, "employee.json");
+//		jsonAction.convertJavaToJsonFile(boss, "boss.json");
+//		jsonAction.convertJavaToJsonFile(expiriencedApplicant, "expiriencedApplicant.json");
+//		jsonAction.convertJavaToJsonFile(staff, "staff.json");
+//				
+//		String jsonStrEmp = "";
+//		String jsonStrBos = "";
+//		String jsonStrExp = "";
+//				
+////		String jsonStrEmp = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
+////		String jsonStrBos = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
+////		String jsonStrExp = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
+//		
+//		Employee employee2 = jsonAction.convertJsonStrToEmployeePOJO(jsonStrEmp);
+//		Boss boss2 = jsonAction.convertJsonStrToBossPOJO(jsonStrBos);
+//		ExpiriencedApplicant experiencedApplicant2 = jsonAction.convertJsonStrToExpiriencedApplicantPOJO(jsonStrExp);
+//																
+//		LOGGER.info("Name from POJO: " + employee2.showStatus());
+//		LOGGER.info("Name from POJO: " + employee2.showAge());
+//		LOGGER.info("Name from POJO: " + employee2.showSex());
+//		LOGGER.info("Name from POJO: " + employee2.showSalary());
+//		LOGGER.info("Name from POJO: " + employee2.work());
+//		LOGGER.info("Name from POJO: " + employee2.aquire());
+//		
+//		LOGGER.info("Name from POJO: " + boss2.showStatus());
+//		LOGGER.info("Name from POJO: " + boss2.showAge());
+//		LOGGER.info("Name from POJO: " + boss2.showSex());
+//		LOGGER.info("Name from POJO: " + boss2.showSalary());
+//		LOGGER.info("Name from POJO: " + boss2.work());
+//		LOGGER.info("Name from POJO: " + boss2.aquire());
+//		LOGGER.info("Name from POJO: " + boss2.hirePeople());
+//		LOGGER.info("Name from POJO: " + boss2.firePeople());
+//		
+//		LOGGER.info("Name from POJO: " + experiencedApplicant2.showStatus());
+//		LOGGER.info("Name from POJO: " + experiencedApplicant2.showAge());
+//		LOGGER.info("Name from POJO: " + experiencedApplicant2.showSex());
+//		LOGGER.info("Name from POJO: " + experiencedApplicant2.showSalary());
+//		LOGGER.info("Name from POJO: " + experiencedApplicant2.work());
+//		LOGGER.info("Name from POJO: " + experiencedApplicant2.aquire());
+		
+	}	
+		
+	
+	public void showArrayListOperations() {			
 
 	
 	
@@ -253,84 +395,90 @@ public void showArrayListOperations() {
 		
 		indexColleague = 1;
 		
-		do {
-			LOGGER.info("Would you like to put all of the information about all of the Colleagues to FILE? (y/n)");
-			index = in.nextLine();
-			index = "y";
-		} while((!("y".equals(index)))&&(!("n".equals(index))));
+//		do {
+//			LOGGER.info("Would you like to put all of the information about all of the Colleagues to FILE? (y/n)");
+//			index = in.nextLine();
+//			index = "y";
+//		} while((!("y".equals(index)))&&(!("n".equals(index))));
+//		
+//		
+//		String valueProp = "abc";
+//		String valueProp1 = "abc";
+//		String valueProp2 = "abc";
+//		String valueProp3 = "abc";
+//		String valueProp4 = "abc";
+//		String valueProp5 = "abc";
+//		String valueProp6 = "abc";
+//		
+//		LOGGER.info(valueProp);
+//		LOGGER.info(valueProp1 + "\n" +valueProp2 + "\n" +valueProp3 + "\n" +valueProp4 + "\n" +valueProp5 + "\n" + valueProp6);
+//
+//		LOGGER.info("======");
+//		
+//		ColleagueArrayProp colArProp = new ColleagueArrayProp();
+//		
+//		valueProp = colArProp.getValueFromProperties("mobile.properties","age");
+//		valueProp1 = colArProp.getValueFromProperties("mobile.properties","status");
+//		valueProp2 = colArProp.getValueFromProperties("mobile.properties","age");
+//		valueProp3 = colArProp.getValueFromProperties("mobile.properties","sex");
+//		valueProp4 = colArProp.getValueFromProperties("mobile.properties","salary");
+//		valueProp5 = colArProp.getValueFromProperties("mobile.properties","aquire");
+//		valueProp6 = colArProp.getValueFromProperties("mobile.properties","work");
+//		
+//		LOGGER.info(valueProp);
+//		LOGGER.info(valueProp1 + "\n" +valueProp2 + "\n" +valueProp3 + "\n" +valueProp4 + "\n" +valueProp5 + "\n" + valueProp6);
+//
+//		
+//		if ("y".equals(index)) {
+//			if ((colleagueAr1 != null)&&(!colleagueAr1.getListOfStaff().isEmpty())) {
+//				for(Staff staff : colleagueAr1.getListOfStaff()) {
+//					
+//					LOGGER.info("======Colleague " + indexColleague + "======");
+//					
+//					valueProp = colArProp.getValueFromProperties("mobile.properties","colleague");
+//					valueProp1 = colArProp.getValueFromProperties("mobile.properties","status");
+//					valueProp2 = colArProp.getValueFromProperties("mobile.properties","age");
+//					valueProp3 = colArProp.getValueFromProperties("mobile.properties","sex");
+//					valueProp4 = colArProp.getValueFromProperties("mobile.properties","salary");
+//					valueProp5 = colArProp.getValueFromProperties("mobile.properties","aquire");
+//					valueProp6 = colArProp.getValueFromProperties("mobile.properties","work");
+//					
+//					LOGGER.info(valueProp);
+//					LOGGER.info(valueProp1 + "\n" +valueProp2 + "\n" +valueProp3 + "\n" +valueProp4 + "\n" +valueProp5 + "\n" + valueProp6);
+//
+//					
+//					colArProp.setValueToProperties("mobile.properties","colleague", indexColleague);
+//					colArProp.setValueToProperties("mobile.properties","status", staff.showStatus());
+//					colArProp.setValueToProperties("mobile.properties","age", staff.showAge());
+//					colArProp.setValueToProperties("mobile.properties","sex", staff.showSex());
+//					colArProp.setValueToProperties("mobile.properties","salary", staff.showSalary());
+//					colArProp.setValueToProperties("mobile.properties","aquire", staff.aquire());
+//					colArProp.setValueToProperties("mobile.properties","work", staff.work());
+//					
+//					colArProp.setAllValuesToProperties("mobile.properties","colleague", indexColleague,"status", staff.showStatus(),"age", staff.showAge(),"sex", staff.showSex(),"salary", staff.showSalary(),"aquire", staff.aquire(),"work", staff.work());
+//					
+////					String valueProp = wrhp.getValueFromProperties("second.properties","age");
+//					
+//
+//
+//					indexColleague++;
+//				}
+//			} else {
+//				LOGGER.info("The required Storage is Null or Empty");	
+//			}				
+//		} else {
+//			LOGGER.info("OK, move forward!");
+//		}
 		
-		
-		String valueProp = "abc";
-		String valueProp1 = "abc";
-		String valueProp2 = "abc";
-		String valueProp3 = "abc";
-		String valueProp4 = "abc";
-		String valueProp5 = "abc";
-		String valueProp6 = "abc";
-		
-		LOGGER.info(valueProp);
-		LOGGER.info(valueProp1 + "\n" +valueProp2 + "\n" +valueProp3 + "\n" +valueProp4 + "\n" +valueProp5 + "\n" + valueProp6);
 
-		LOGGER.info("======");
-		
-		ColleagueArrayProp colArProp = new ColleagueArrayProp();
-		
-		valueProp = colArProp.getValueFromProperties("mobile.properties","age");
-		valueProp1 = colArProp.getValueFromProperties("mobile.properties","status");
-		valueProp2 = colArProp.getValueFromProperties("mobile.properties","age");
-		valueProp3 = colArProp.getValueFromProperties("mobile.properties","sex");
-		valueProp4 = colArProp.getValueFromProperties("mobile.properties","salary");
-		valueProp5 = colArProp.getValueFromProperties("mobile.properties","aquire");
-		valueProp6 = colArProp.getValueFromProperties("mobile.properties","work");
-		
-		LOGGER.info(valueProp);
-		LOGGER.info(valueProp1 + "\n" +valueProp2 + "\n" +valueProp3 + "\n" +valueProp4 + "\n" +valueProp5 + "\n" + valueProp6);
-
-		
-		if ("y".equals(index)) {
-			if ((colleagueAr1 != null)&&(!colleagueAr1.getListOfStaff().isEmpty())) {
-				for(Staff staff : colleagueAr1.getListOfStaff()) {
-					
-					LOGGER.info("======Colleague " + indexColleague + "======");
-					
-					valueProp = colArProp.getValueFromProperties("mobile.properties","colleague");
-					valueProp1 = colArProp.getValueFromProperties("mobile.properties","status");
-					valueProp2 = colArProp.getValueFromProperties("mobile.properties","age");
-					valueProp3 = colArProp.getValueFromProperties("mobile.properties","sex");
-					valueProp4 = colArProp.getValueFromProperties("mobile.properties","salary");
-					valueProp5 = colArProp.getValueFromProperties("mobile.properties","aquire");
-					valueProp6 = colArProp.getValueFromProperties("mobile.properties","work");
-					
-					LOGGER.info(valueProp);
-					LOGGER.info(valueProp1 + "\n" +valueProp2 + "\n" +valueProp3 + "\n" +valueProp4 + "\n" +valueProp5 + "\n" + valueProp6);
-
-					
-					colArProp.setValueToProperties("mobile.properties","colleague", indexColleague);
-					colArProp.setValueToProperties("mobile.properties","status", staff.showStatus());
-					colArProp.setValueToProperties("mobile.properties","age", staff.showAge());
-					colArProp.setValueToProperties("mobile.properties","sex", staff.showSex());
-					colArProp.setValueToProperties("mobile.properties","salary", staff.showSalary());
-					colArProp.setValueToProperties("mobile.properties","aquire", staff.aquire());
-					colArProp.setValueToProperties("mobile.properties","work", staff.work());
-					
-					colArProp.setAllValuesToProperties("mobile.properties","colleague", indexColleague,"status", staff.showStatus(),"age", staff.showAge(),"sex", staff.showSex(),"salary", staff.showSalary(),"aquire", staff.aquire(),"work", staff.work());
-					
-//					String valueProp = wrhp.getValueFromProperties("second.properties","age");
-					
-
-
-					indexColleague++;
-				}
-			} else {
-				LOGGER.info("The required Storage is Null or Empty");	
-			}				
-		} else {
-			LOGGER.info("OK, move forward!");
-		}
-		
-		LOGGER.info("====================================");
-		LOGGER.info("THAT'S IT for Scanner_1_ArrayList_Colleague_Properties");
-		LOGGER.info("====================================");	
+//
+//		
+//		
+//		
+//		
+//		LOGGER.info("====================================");
+//		LOGGER.info("THAT'S IT for Scanner_1_ArrayList_Colleague_Properties");
+//		LOGGER.info("====================================");	
 		
 
 
