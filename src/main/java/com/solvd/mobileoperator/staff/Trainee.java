@@ -30,6 +30,8 @@ public interface Trainee {
 //OverLoading
 	public String showStatus(String status);
 
+	public void setId(int id);
+	
 	public void setAge(int age);	
 	
 	public void setSex(String sex);
@@ -38,6 +40,8 @@ public interface Trainee {
 	
 	public void setStatus(String status);
 	
+	public int getId();
+
 	public int getAge();
 	
 	public String getSex();

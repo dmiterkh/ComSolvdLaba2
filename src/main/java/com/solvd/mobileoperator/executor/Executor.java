@@ -13,7 +13,7 @@ public class Executor {
 		
 		Menu menu = new Menu();
 		menu.showConnectionRaviDaoFunctions();
-//		menu.showConnectorFunctions();
+		
 //		menu.showSeleniumDriverFunctions();
 //		menu.showPropertiesFunctions();
 //		menu.showJsonFunctions();		

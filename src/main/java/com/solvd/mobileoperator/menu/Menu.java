@@ -47,9 +47,16 @@ public class Menu {
 		
 		ConnectionRaviDao crd = new ConnectionRaviDao();
 		//crd.functionInsertDao1();
-		//crd.functionInsertDao2();
+		crd.functionInsertDao2();
+		
 		crd.functionSelectDao1();
 		crd.functionSelectDao2();
+		
+		crd.functionGetEmployeeDao1(14);
+		crd.functionGetEmployeeDao2(18);
+		
+		crd.functionGetEmployeeByAgeAndSexDao(36,"m");
+		crd.functionGetAllEmployeesDao();
 	}
 	
 	

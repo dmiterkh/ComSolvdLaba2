@@ -8,8 +8,9 @@ import com.solvd.mobileoperator.utils.*;
 
 public class Employee implements Staff {
 
-	private final static Logger LOGGER = Logger.getLogger(Animal.class);
+	private final static Logger LOGGER = Logger.getLogger(Employee.class);
 	
+	public int id; 
 	public int age; 
 	public String sex; 
 	public int salary;
@@ -126,8 +127,14 @@ public class Employee implements Staff {
 	}
 		
 	@Override
+	public void setId(int idArg) {
+		LOGGER.info("My id has been set");
+		id = idArg;	
+	}
+	
+	@Override
 	public void setAge(int ageArg) {
-		LOGGER.info("My Age has been set");
+		LOGGER.info("My age has been set");
 		age = ageArg;	
 	}
 	
@@ -147,6 +154,11 @@ public class Employee implements Staff {
 	public void setStatus(String statusArg) {
 		LOGGER.info("My status has been set");
 		status = statusArg;	
+	}
+	
+	@Override
+	public int getId() {
+		return id;
 	}
 	
 	@Override

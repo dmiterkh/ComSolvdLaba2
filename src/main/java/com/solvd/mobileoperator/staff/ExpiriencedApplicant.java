@@ -1,7 +1,12 @@
 package com.solvd.mobileoperator.staff;
 
+import org.apache.log4j.Logger;
+
 public class ExpiriencedApplicant extends Unemployed implements Staff {
 
+	private final static Logger LOGGER = Logger.getLogger(ExpiriencedApplicant.class);
+	
+	public int id; 
 	public int age; 
 	public String sex; 
 	public int salary;
@@ -123,7 +128,12 @@ public class ExpiriencedApplicant extends Unemployed implements Staff {
 	public String showStatus(String status) {;
 		return status;
 	} 
-		
+	
+	@Override
+	public void setId(int idArg) {
+		id = idArg;	
+	}
+
 	@Override
 	public void setAge(int ageArg) {
 		age = ageArg;	
@@ -142,6 +152,11 @@ public class ExpiriencedApplicant extends Unemployed implements Staff {
 	@Override
 	public void setStatus(String statusArg) {
 		status = statusArg;	
+	}
+	
+	@Override
+	public int getId() {
+		return id;
 	}
 	
 	@Override
