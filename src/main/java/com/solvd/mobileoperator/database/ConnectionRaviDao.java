@@ -13,7 +13,7 @@ public class ConnectionRaviDao {
 	
 	private final static Logger LOGGER = Logger.getLogger(Executor.class);
 	
-	public void functionInsertDao1() {
+	public void functionInsertRaviDao1() {
 	
 		String sqlQuery = "INSERT INTO staff (st_age, st_sex, st_salary, st_status) VALUES (34, 'f', 1500, 'employee')";
 		String sqlQuery1 = "INSERT INTO staff (st_age, st_sex, st_salary, st_status) VALUES (29, 'm', 2500, 'boss')";
@@ -48,7 +48,7 @@ public class ConnectionRaviDao {
 			
 	
 	
-	public void functionInsertDao2() {
+	public void functionInsertRaviDao2() {
 	
 		String sqlQuery = "INSERT INTO staff (st_age, st_sex, st_salary, st_status) VALUES (?, ?, ?, ?)";
 		Connector conn = new Connector();
@@ -77,7 +77,7 @@ public class ConnectionRaviDao {
 	
 	
 	
-	public void functionSelectDao1() {
+	public void functionSelectVitaliDao1() {
 		
 		String sqlQuery = "Select * FROM staff";
 		Connector conn = new Connector();
@@ -105,7 +105,7 @@ public class ConnectionRaviDao {
 
 	
 	
-	public void functionSelectDao2() {
+	public void functionSelectRaviDao2() {
 		
 		String sqlQuery = "Select * FROM staff";
 		Connector conn = new Connector();
@@ -213,16 +213,19 @@ public class ConnectionRaviDao {
 	}
 	
 	
+	
 	public Employee functionGetEmployeeByAgeAndSexDao(int age, String sex) {
     
 		String sqlQuery = "SELECT * FROM staff WHERE st_age = ? AND st_sex = ?";
 		Connector connector = new Connector();
     
-		LOGGER.info("The GetEmployeeByAgeAndSexDao function has been launched.");
+		LOGGER.info("The GetEmployeeByAgeAndSex function has been launched.");
 		try {
 			PreparedStatement pst = connector.connect().prepareStatement(sqlQuery);
+			
 			pst.setInt(1, age);
 			pst.setString(2, sex);
+			
 			ResultSet res = pst.executeQuery();
 
 //			Statement st = connector.connect().createStatement();
@@ -237,18 +240,20 @@ public class ConnectionRaviDao {
             e.printStackTrace();
 			LOGGER.info("An error has been occured.");
 		} finally {
-			LOGGER.info("The GetEmployee 2 function has been finished.");
+			LOGGER.info("The GetEmployeeByAgeAndSex function has been finished.");
 		}
 
 		return null;
 	}
 
+	
+	
 	public Set functionGetAllEmployeesDao() {
 		
 		String sqlQuery = "SELECT * FROM staff";
 		Connector conn = new Connector();
 		
-		LOGGER.info("The GetAllEmployeesDao function has been launched.");
+		LOGGER.info("The GetAllEmployees function has been launched.");
 		try {
 			Statement st = conn.connect().createStatement();
 			ResultSet res = st.executeQuery(sqlQuery);
@@ -268,74 +273,103 @@ public class ConnectionRaviDao {
             e.printStackTrace();
 			LOGGER.info("An error has been occured.");
 		} finally {
-			LOGGER.info("The GetEmployee 2 function has been finished.");
+			LOGGER.info("The GetAllEmployees function has been finished.");
 		}
 
-    return null;
-}
+		return null;
+	}
 	
 	
 	
-//	public boolean insertUser(User user) {
-//	    Connector connector = new Connector();
-//	    Connection connection = connector.getConnection();
-//	    try {
-//	        PreparedStatement ps = connection.prepareStatement("INSERT INTO user VALUES (NULL, ?, ?, ?)");
-//	        ps.setString(1, user.getName());
-//	        ps.setString(2, user.getPass());
-//	        ps.setInt(3, user.getAge());
-//	        int i = ps.executeUpdate();
-//
-//	      if(i == 1) {
-//	        return true;
-//	      }
-//
-//	    } catch (SQLException ex) {
-//	        ex.printStackTrace();
-//	    }
-//
-//	    return false;
-//	}
+	public boolean functionInsertEmployeeDao(Employee employee) {
+	    
+		String sqlQuery = "INSERT INTO staff (st_age, st_sex, st_salary, st_status) VALUES (?, ?, ?, ?)";
+		Connector conn = new Connector();
+		
+		LOGGER.info("The InsertEmployee function has been launched.");
+	    try {
+//	        PreparedStatement pst = conn.connect().prepareStatement(sqlQuery);
+//	       
+//	        pst.setInt(1, employee.getAge());
+//	        pst.setString(2, employee.getSex());
+//	        pst.setInt(3, employee.getSalary());
+//	        pst.setString(4, employee.getStatus());
+//	        
+//	        int i = pst.executeUpdate();
+
+			Statement st = conn.connect().createStatement();
+			int i = st.executeUpdate(sqlQuery);
+	        
+	        if(i == 1) {
+	        	return true;
+	        }
+
+	    } catch (SQLException e) {
+            e.printStackTrace();
+			LOGGER.info("An error has been occured.");
+		} finally {
+			LOGGER.info("The InsertEmployee function has been finished.");
+		}
+
+	    return false;
+	}
 	
 	
-//	public boolean updateUser(User user) {
-//    Connector connector = new Connector();
-//    Connection connection = connector.getConnection();
-//    try {
-//        PreparedStatement ps = connection.prepareStatement("UPDATE user SET name=?, pass=?, age=? WHERE id=?");
-//        ps.setString(1, user.getName());
-//        ps.setString(2, user.getPass());
-//        ps.setInt(3, user.getAge());
-//        ps.setInt(4, user.getId());
-//        int i = ps.executeUpdate();
-//
-//      if(i == 1) {
-//    return true;
-//      }
-//
-//    } catch (SQLException ex) {
-//        ex.printStackTrace();
-//    }
-//
-//    return false;
-//}
-//
-//public boolean deleteUser(int id) {
-//    Connector connector = new Connector();
-//    Connection connection = connector.getConnection();
-//    try {
-//        Statement stmt = connection.createStatement();
-//        int i = stmt.executeUpdate("DELETE FROM user WHERE id=" + id);
-//
-//      if(i == 1) {
-//    return true;
-//      }
-//
-//    } catch (SQLException ex) {
-//        ex.printStackTrace();
-//    }
-//
-//    return false;
-//}	
+	public boolean functionUpdateEmployeeDao(Employee employee) {
+		
+		String sqlQuery = "UPDATE staff SET st_age = ?, st_sex = ?, st_salary = ?, st_status = ? WHERE st_id = ?";
+		Connector conn = new Connector();
+		
+		LOGGER.info("The UpdateEmployee function has been launched.");
+		try {
+			PreparedStatement pst = conn.connect().prepareStatement(sqlQuery);
+			
+			pst.setInt(1, employee.getAge());
+			pst.setString(2, employee.getSex());
+			pst.setInt(3, employee.getSalary());
+			pst.setString(4, employee.getStatus());
+			pst.setInt(5, employee.getId());
+			
+			int i = pst.executeUpdate();
+			
+			
+
+			if(i == 1) {
+				return true;
+			}
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+			LOGGER.info("An error has been occured.");
+		} finally {
+			LOGGER.info("The UpdateEmployee function has been finished.");
+		}
+
+		return false;
+	}
+
+	public boolean functionDeleteEmployeeDao(int id) {
+		
+		String sqlQuery = "DELETE FROM staff WHERE st_id = " + id;
+		Connector conn = new Connector();
+		
+		LOGGER.info("The DeleteEmployee function has been launched.");
+		try {
+			Statement st = conn.connect().createStatement();
+			int i = st.executeUpdate(sqlQuery);
+
+			if(i == 1) {
+				return true;
+			}	
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+			LOGGER.info("An error has been occured.");
+		} finally {
+			LOGGER.info("The DeleteEmployee function has been finished.");
+		}
+
+    	return false;
+	}	
 	
 }

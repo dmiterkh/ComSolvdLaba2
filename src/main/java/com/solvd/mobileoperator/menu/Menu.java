@@ -46,17 +46,31 @@ public class Menu {
 	public void showConnectionRaviDaoFunctions() {	
 		
 		ConnectionRaviDao crd = new ConnectionRaviDao();
-		//crd.functionInsertDao1();
-		crd.functionInsertDao2();
+//		crd.functionInsertRaviDao1();
+//		crd.functionInsertRaviDao2();
 		
-		crd.functionSelectDao1();
-		crd.functionSelectDao2();
+		crd.functionSelectVitaliDao1();
+		crd.functionSelectRaviDao2();
 		
-		crd.functionGetEmployeeDao1(14);
-		crd.functionGetEmployeeDao2(18);
+		crd.functionGetEmployeeDao1(3);
+		crd.functionGetEmployeeDao2(4);
 		
 		crd.functionGetEmployeeByAgeAndSexDao(36,"m");
-		crd.functionGetAllEmployeesDao();
+//		crd.functionGetAllEmployeesDao();
+		crd.functionDeleteEmployeeDao(15);
+//		crd.functionDeleteEmployeeDao(16);
+		
+		Employee employee1 = new Employee(); 
+		employee1.setInfoAgain(28, "m", 2050, "employee");
+//		crd.functionInsertEmployeeDao(employee1);
+				
+		employee1.setAge(29);
+		crd.functionUpdateEmployeeDao(employee1);
+		
+		crd.functionSelectVitaliDao1();
+		LOGGER.info("======");
+		LOGGER.info(employee1);
+		LOGGER.info("======");
 	}
 	
 	
