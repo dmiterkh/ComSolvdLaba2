@@ -463,3 +463,2737 @@ I can work 8 hours every day!
 2021-07-20 21:02:39 INFO  Executor:170 - ======
 2021-07-20 21:02:39 INFO  Executor:180 - ====================================
 2021-07-20 21:02:39 INFO  Executor:188 - Would you like to set data to all of the Colleagues? (y/n)
+2021-07-21 01:34:24 INFO  Executor:57 - user5
+2021-07-21 01:34:24 INFO  Executor:59 - Alligator5
+2021-07-21 01:34:24 INFO  Executor:61 - 55
+2021-07-21 01:34:25 INFO  Executor:75 - user2
+2021-07-21 01:34:25 INFO  Executor:77 - Alligator2
+2021-07-21 01:34:25 INFO  Executor:79 - 22
+2021-07-21 01:34:25 INFO  Executor:83 - user3
+2021-07-21 01:34:25 INFO  Executor:85 - Alligator3
+2021-07-21 01:34:25 INFO  Executor:87 - 
+2021-07-21 01:34:25 INFO  Executor:91 - user4
+2021-07-21 01:34:25 INFO  Executor:93 - 
+2021-07-21 01:34:25 INFO  Executor:95 - 
+2021-07-21 01:34:25 INFO  Executor:99 - user5
+2021-07-21 01:34:25 INFO  Executor:101 - Alligator5
+2021-07-21 01:34:25 INFO  Executor:103 - 55
+2021-07-21 01:35:35 INFO  Executor:57 - user5
+2021-07-21 01:35:35 INFO  Executor:59 - Alligator5
+2021-07-21 01:35:35 INFO  Executor:61 - 55
+2021-07-21 01:35:35 INFO  Executor:75 - user2
+2021-07-21 01:35:35 INFO  Executor:77 - Alligator2
+2021-07-21 01:35:35 INFO  Executor:79 - 22
+2021-07-21 01:35:35 INFO  Executor:83 - user3
+2021-07-21 01:35:35 INFO  Executor:85 - Alligator3
+2021-07-21 01:35:35 INFO  Executor:87 - 
+2021-07-21 01:35:35 INFO  Executor:91 - user4
+2021-07-21 01:35:35 INFO  Executor:93 - 
+2021-07-21 01:35:35 INFO  Executor:95 - 
+2021-07-21 01:35:35 INFO  Executor:99 - user5
+2021-07-21 01:35:35 INFO  Executor:101 - Alligator5
+2021-07-21 01:35:35 INFO  Executor:103 - 55
+2021-07-21 01:35:35 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-21 01:35:35 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-21 01:35:41 INFO  Executor:133 - Enter the whole number of Bosses
+2021-07-21 01:35:43 INFO  Executor:135 - Enter the whole number of Expirienced Applicants
+2021-07-21 01:35:50 INFO  Executor:57 - user5
+2021-07-21 01:35:50 INFO  Executor:59 - Alligator5
+2021-07-21 01:35:50 INFO  Executor:61 - 55
+2021-07-21 01:35:50 INFO  Executor:75 - user2
+2021-07-21 01:35:50 INFO  Executor:77 - Alligator2
+2021-07-21 01:35:50 INFO  Executor:79 - 22
+2021-07-21 01:35:50 INFO  Executor:83 - user3
+2021-07-21 01:35:50 INFO  Executor:85 - Alligator3
+2021-07-21 01:35:50 INFO  Executor:87 - 
+2021-07-21 01:35:50 INFO  Executor:91 - user4
+2021-07-21 01:35:50 INFO  Executor:93 - 
+2021-07-21 01:35:50 INFO  Executor:95 - 
+2021-07-21 01:35:50 INFO  Executor:99 - user5
+2021-07-21 01:35:50 INFO  Executor:101 - Alligator5
+2021-07-21 01:35:50 INFO  Executor:103 - 55
+2021-07-21 01:35:50 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-21 01:35:50 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-21 01:35:56 INFO  Executor:133 - Enter the whole number of Bosses
+2021-07-21 01:35:56 INFO  Executor:135 - Enter the whole number of Expirienced Applicants
+2021-07-21 01:35:57 INFO  Executor:159 - ====================================
+2021-07-21 01:35:57 INFO  Executor:161 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:36:00 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:36:00 INFO  Executor:170 - ======
+2021-07-21 01:36:00 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:36:00 INFO  Executor:170 - ======
+2021-07-21 01:36:00 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:36:00 INFO  Executor:170 - ======
+2021-07-21 01:36:00 INFO  Executor:180 - ====================================
+2021-07-21 01:36:00 INFO  Executor:188 - Would you like to set data to all of the Colleagues? (y/n)
+2021-07-21 01:36:02 INFO  Executor:197 - colleague 1
+2021-07-21 01:36:02 INFO  Executor:198 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:36:02 INFO  Executor:199 - ======
+2021-07-21 01:36:02 INFO  Executor:203 - Set sex to colleague 1 (employee): (f/m/trans)
+2021-07-21 01:36:08 INFO  Executor:210 - Set age to colleague 1
+2021-07-21 01:36:14 INFO  Executor:214 - Set salary to colleague 1
+2021-07-21 01:36:18 INFO  Executor:219 - ======
+2021-07-21 01:36:18 INFO  Executor:197 - colleague 2
+2021-07-21 01:36:18 INFO  Executor:198 - I am a(an)_ employee
+I am_  34  _years old
+My sex is_ f
+My salary is_ 2300
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:36:18 INFO  Executor:199 - ======
+2021-07-21 01:36:18 INFO  Executor:203 - Set sex to colleague 2 (employee): (f/m/trans)
+2021-07-21 01:36:21 INFO  Executor:210 - Set age to colleague 2
+2021-07-21 01:36:24 INFO  Executor:214 - Set salary to colleague 2
+2021-07-21 01:36:27 INFO  Executor:219 - ======
+2021-07-21 01:36:27 INFO  Executor:197 - colleague 3
+2021-07-21 01:36:27 INFO  Executor:198 - I am a(an)_ employee
+I am_  24  _years old
+My sex is_ m
+My salary is_ 1700
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:36:27 INFO  Executor:199 - ======
+2021-07-21 01:36:27 INFO  Executor:203 - Set sex to colleague 3 (employee): (f/m/trans)
+2021-07-21 01:36:32 INFO  Executor:210 - Set age to colleague 3
+2021-07-21 01:36:38 INFO  Executor:214 - Set salary to colleague 3
+2021-07-21 01:36:42 INFO  Executor:219 - ======
+2021-07-21 01:36:42 INFO  Executor:228 - ====================================
+2021-07-21 01:36:42 INFO  Executor:233 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:36:46 INFO  Executor:242 - colleague 1
+2021-07-21 01:36:46 INFO  Executor:243 - I am a(an)_ employee
+I am_  42  _years old
+My sex is_ trans
+My salary is_ 5000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:36:46 INFO  Executor:244 - ======
+2021-07-21 01:36:46 INFO  Executor:242 - colleague 1
+2021-07-21 01:36:46 INFO  Executor:243 - I am a(an)_ employee
+I am_  42  _years old
+My sex is_ trans
+My salary is_ 5000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:36:46 INFO  Executor:244 - ======
+2021-07-21 01:36:46 INFO  Executor:242 - colleague 1
+2021-07-21 01:36:46 INFO  Executor:243 - I am a(an)_ employee
+I am_  42  _years old
+My sex is_ trans
+My salary is_ 5000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:36:46 INFO  Executor:244 - ======
+2021-07-21 01:36:46 INFO  Executor:257 - Would you like to put all of the information about all of the Colleagues to FILE? (y/n)
+2021-07-21 01:37:00 INFO  Executor:271 - abc
+2021-07-21 01:37:00 INFO  Executor:272 - abc
+abc
+abc
+abc
+abc
+abc
+2021-07-21 01:37:00 INFO  Executor:274 - ======
+2021-07-21 01:37:00 INFO  Executor:286 - 
+2021-07-21 01:37:00 INFO  Executor:287 - null
+null
+null
+null
+null
+null
+2021-07-21 01:37:00 INFO  Executor:294 - ======Colleague 1======
+2021-07-21 01:37:00 INFO  Executor:304 - 
+2021-07-21 01:37:00 INFO  Executor:305 - null
+null
+null
+null
+null
+null
+2021-07-21 01:37:00 INFO  Executor:294 - ======Colleague 2======
+2021-07-21 01:37:00 INFO  Executor:304 - 
+2021-07-21 01:37:00 INFO  Executor:305 - null
+null
+null
+null
+null
+null
+2021-07-21 01:37:00 INFO  Executor:294 - ======Colleague 3======
+2021-07-21 01:37:00 INFO  Executor:304 - 
+2021-07-21 01:37:00 INFO  Executor:305 - null
+null
+null
+null
+null
+null
+2021-07-21 01:37:00 INFO  Executor:331 - ====================================
+2021-07-21 01:37:00 INFO  Executor:332 - Json Part
+2021-07-21 01:37:00 INFO  Executor:333 - ====================================
+2021-07-21 01:37:00 INFO  Executor:341 - =============
+2021-07-21 01:37:02 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-21 01:37:02 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-21 01:37:02 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-21 01:37:02 INFO  Executor:349 - 
+2021-07-21 01:37:02 INFO  Executor:350 - ================
+2021-07-21 01:37:02 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:37:02 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:37:02 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:37:02 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:37:02 INFO  JsonExec:60 - Convertation to POJO encountered some problems!
+2021-07-21 01:37:02 INFO  JsonExec:75 - Convertation to POJO encountered some problems!
+2021-07-21 01:37:02 INFO  JsonExec:90 - Convertation to POJO encountered some problems!
+2021-07-21 01:38:11 INFO  Executor:57 - user5
+2021-07-21 01:38:11 INFO  Executor:59 - Alligator5
+2021-07-21 01:38:11 INFO  Executor:61 - 55
+2021-07-21 01:38:11 INFO  Executor:75 - user2
+2021-07-21 01:38:11 INFO  Executor:77 - Alligator2
+2021-07-21 01:38:11 INFO  Executor:79 - 22
+2021-07-21 01:38:11 INFO  Executor:83 - user3
+2021-07-21 01:38:11 INFO  Executor:85 - Alligator3
+2021-07-21 01:38:11 INFO  Executor:87 - 
+2021-07-21 01:38:11 INFO  Executor:91 - user4
+2021-07-21 01:38:11 INFO  Executor:93 - 
+2021-07-21 01:38:11 INFO  Executor:95 - 
+2021-07-21 01:38:11 INFO  Executor:99 - user5
+2021-07-21 01:38:11 INFO  Executor:101 - Alligator5
+2021-07-21 01:38:11 INFO  Executor:103 - 55
+2021-07-21 01:38:11 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-21 01:38:11 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-21 01:38:17 INFO  Executor:133 - Enter the whole number of Bosses
+2021-07-21 01:38:18 INFO  Executor:135 - Enter the whole number of Expirienced Applicants
+2021-07-21 01:38:18 INFO  Executor:159 - ====================================
+2021-07-21 01:38:18 INFO  Executor:161 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:38:20 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:38:20 INFO  Executor:170 - ======
+2021-07-21 01:38:20 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:38:20 INFO  Executor:170 - ======
+2021-07-21 01:38:20 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:38:20 INFO  Executor:170 - ======
+2021-07-21 01:38:20 INFO  Executor:180 - ====================================
+2021-07-21 01:38:20 INFO  Executor:188 - Would you like to set data to all of the Colleagues? (y/n)
+2021-07-21 01:38:21 INFO  Executor:197 - colleague 1
+2021-07-21 01:38:21 INFO  Executor:198 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:38:21 INFO  Executor:199 - ======
+2021-07-21 01:38:21 INFO  Executor:203 - Set sex to colleague 1 (employee): (f/m/trans)
+2021-07-21 01:38:23 INFO  Executor:210 - Set age to colleague 1
+2021-07-21 01:38:25 INFO  Executor:214 - Set salary to colleague 1
+2021-07-21 01:38:27 INFO  Executor:219 - ======
+2021-07-21 01:38:27 INFO  Executor:197 - colleague 2
+2021-07-21 01:38:27 INFO  Executor:198 - I am a(an)_ employee
+I am_  23  _years old
+My sex is_ f
+My salary is_ 3400
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:38:27 INFO  Executor:199 - ======
+2021-07-21 01:38:27 INFO  Executor:203 - Set sex to colleague 2 (employee): (f/m/trans)
+2021-07-21 01:38:30 INFO  Executor:210 - Set age to colleague 2
+2021-07-21 01:38:34 INFO  Executor:214 - Set salary to colleague 2
+2021-07-21 01:38:41 INFO  Executor:219 - ======
+2021-07-21 01:38:41 INFO  Executor:197 - colleague 3
+2021-07-21 01:38:41 INFO  Executor:198 - I am a(an)_ employee
+I am_  34  _years old
+My sex is_ m
+My salary is_ 2300
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:38:41 INFO  Executor:199 - ======
+2021-07-21 01:38:41 INFO  Executor:203 - Set sex to colleague 3 (employee): (f/m/trans)
+2021-07-21 01:38:45 INFO  Executor:210 - Set age to colleague 3
+2021-07-21 01:38:54 INFO  Executor:57 - user5
+2021-07-21 01:38:54 INFO  Executor:59 - Alligator5
+2021-07-21 01:38:54 INFO  Executor:61 - 55
+2021-07-21 01:38:54 INFO  Executor:75 - user2
+2021-07-21 01:38:54 INFO  Executor:77 - Alligator2
+2021-07-21 01:38:54 INFO  Executor:79 - 22
+2021-07-21 01:38:54 INFO  Executor:83 - user3
+2021-07-21 01:38:54 INFO  Executor:85 - Alligator3
+2021-07-21 01:38:54 INFO  Executor:87 - 
+2021-07-21 01:38:54 INFO  Executor:91 - user4
+2021-07-21 01:38:54 INFO  Executor:93 - 
+2021-07-21 01:38:54 INFO  Executor:95 - 
+2021-07-21 01:38:54 INFO  Executor:99 - user5
+2021-07-21 01:38:54 INFO  Executor:101 - Alligator5
+2021-07-21 01:38:54 INFO  Executor:103 - 55
+2021-07-21 01:38:54 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-21 01:38:54 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-21 01:38:59 INFO  Executor:133 - Enter the whole number of Bosses
+2021-07-21 01:38:59 INFO  Executor:135 - Enter the whole number of Expirienced Applicants
+2021-07-21 01:39:00 INFO  Executor:159 - ====================================
+2021-07-21 01:39:00 INFO  Executor:161 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:39:00 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:39:00 INFO  Executor:170 - ======
+2021-07-21 01:39:00 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:39:00 INFO  Executor:170 - ======
+2021-07-21 01:39:00 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:39:00 INFO  Executor:170 - ======
+2021-07-21 01:39:00 INFO  Executor:180 - ====================================
+2021-07-21 01:39:00 INFO  Executor:188 - Would you like to set data to all of the Colleagues? (y/n)
+2021-07-21 01:39:01 INFO  Executor:197 - colleague 1
+2021-07-21 01:39:01 INFO  Executor:198 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:39:01 INFO  Executor:199 - ======
+2021-07-21 01:39:01 INFO  Executor:203 - Set sex to colleague 1 (employee): (f/m/trans)
+2021-07-21 01:39:03 INFO  Executor:210 - Set age to colleague 1
+2021-07-21 01:39:04 INFO  Executor:214 - Set salary to colleague 1
+2021-07-21 01:39:06 INFO  Executor:219 - ======
+2021-07-21 01:39:06 INFO  Executor:197 - colleague 2
+2021-07-21 01:39:06 INFO  Executor:198 - I am a(an)_ employee
+I am_  23  _years old
+My sex is_ f
+My salary is_ 2300
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:39:06 INFO  Executor:199 - ======
+2021-07-21 01:39:06 INFO  Executor:203 - Set sex to colleague 2 (employee): (f/m/trans)
+2021-07-21 01:39:08 INFO  Executor:210 - Set age to colleague 2
+2021-07-21 01:39:09 INFO  Executor:214 - Set salary to colleague 2
+2021-07-21 01:39:11 INFO  Executor:219 - ======
+2021-07-21 01:39:11 INFO  Executor:197 - colleague 3
+2021-07-21 01:39:11 INFO  Executor:198 - I am a(an)_ employee
+I am_  34  _years old
+My sex is_ m
+My salary is_ 3400
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:39:11 INFO  Executor:199 - ======
+2021-07-21 01:39:11 INFO  Executor:203 - Set sex to colleague 3 (employee): (f/m/trans)
+2021-07-21 01:39:16 INFO  Executor:210 - Set age to colleague 3
+2021-07-21 01:39:20 INFO  Executor:214 - Set salary to colleague 3
+2021-07-21 01:39:23 INFO  Executor:219 - ======
+2021-07-21 01:39:23 INFO  Executor:228 - ====================================
+2021-07-21 01:39:23 INFO  Executor:233 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:39:26 INFO  Executor:242 - colleague 1
+2021-07-21 01:39:26 INFO  Executor:243 - I am a(an)_ employee
+I am_  45  _years old
+My sex is_ trans
+My salary is_ 4500
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:39:26 INFO  Executor:244 - ======
+2021-07-21 01:39:26 INFO  Executor:242 - colleague 1
+2021-07-21 01:39:26 INFO  Executor:243 - I am a(an)_ employee
+I am_  45  _years old
+My sex is_ trans
+My salary is_ 4500
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:39:26 INFO  Executor:244 - ======
+2021-07-21 01:39:26 INFO  Executor:242 - colleague 1
+2021-07-21 01:39:26 INFO  Executor:243 - I am a(an)_ employee
+I am_  45  _years old
+My sex is_ trans
+My salary is_ 4500
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:39:26 INFO  Executor:244 - ======
+2021-07-21 01:39:26 INFO  Executor:331 - ====================================
+2021-07-21 01:39:26 INFO  Executor:332 - Json Part
+2021-07-21 01:39:26 INFO  Executor:333 - ====================================
+2021-07-21 01:39:26 INFO  Executor:341 - =============
+2021-07-21 01:39:27 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-21 01:39:27 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-21 01:39:27 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-21 01:39:27 INFO  Executor:349 - 
+2021-07-21 01:39:27 INFO  Executor:350 - ================
+2021-07-21 01:39:27 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:39:27 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:39:27 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:39:27 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:39:27 INFO  JsonExec:60 - Convertation to POJO encountered some problems!
+2021-07-21 01:39:27 INFO  JsonExec:75 - Convertation to POJO encountered some problems!
+2021-07-21 01:39:27 INFO  JsonExec:90 - Convertation to POJO encountered some problems!
+2021-07-21 01:50:33 INFO  Executor:57 - user5
+2021-07-21 01:50:33 INFO  Executor:59 - Alligator5
+2021-07-21 01:50:33 INFO  Executor:61 - 55
+2021-07-21 01:50:33 INFO  Executor:75 - user2
+2021-07-21 01:50:33 INFO  Executor:77 - Alligator2
+2021-07-21 01:50:33 INFO  Executor:79 - 22
+2021-07-21 01:50:33 INFO  Executor:83 - user3
+2021-07-21 01:50:33 INFO  Executor:85 - Alligator3
+2021-07-21 01:50:33 INFO  Executor:87 - 
+2021-07-21 01:50:33 INFO  Executor:91 - user4
+2021-07-21 01:50:33 INFO  Executor:93 - 
+2021-07-21 01:50:33 INFO  Executor:95 - 
+2021-07-21 01:50:33 INFO  Executor:99 - user5
+2021-07-21 01:50:33 INFO  Executor:101 - Alligator5
+2021-07-21 01:50:33 INFO  Executor:103 - 55
+2021-07-21 01:50:33 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-21 01:50:33 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-21 01:50:38 INFO  Executor:133 - Enter the whole number of Bosses
+2021-07-21 01:50:38 INFO  Executor:135 - Enter the whole number of Expirienced Applicants
+2021-07-21 01:50:39 INFO  Executor:159 - ====================================
+2021-07-21 01:50:39 INFO  Executor:161 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:50:40 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:50:40 INFO  Executor:170 - ======
+2021-07-21 01:50:40 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:50:40 INFO  Executor:170 - ======
+2021-07-21 01:50:40 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:50:40 INFO  Executor:170 - ======
+2021-07-21 01:50:40 INFO  Executor:180 - ====================================
+2021-07-21 01:50:40 INFO  Executor:188 - Would you like to set data to all of the Colleagues? (y/n)
+2021-07-21 01:50:40 INFO  Executor:197 - colleague 1
+2021-07-21 01:50:40 INFO  Executor:198 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:50:40 INFO  Executor:199 - ======
+2021-07-21 01:50:40 INFO  Executor:203 - Set sex to colleague 1 (employee): (f/m/trans)
+2021-07-21 01:50:44 INFO  Executor:210 - Set age to colleague 1
+2021-07-21 01:50:44 INFO  Executor:214 - Set salary to colleague 1
+2021-07-21 01:50:46 INFO  Executor:219 - ======
+2021-07-21 01:50:46 INFO  Executor:197 - colleague 2
+2021-07-21 01:50:46 INFO  Executor:198 - I am a(an)_ employee
+I am_  23  _years old
+My sex is_ f
+My salary is_ 234
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:50:46 INFO  Executor:199 - ======
+2021-07-21 01:50:46 INFO  Executor:203 - Set sex to colleague 2 (employee): (f/m/trans)
+2021-07-21 01:50:48 INFO  Executor:210 - Set age to colleague 2
+2021-07-21 01:50:49 INFO  Executor:214 - Set salary to colleague 2
+2021-07-21 01:50:51 INFO  Executor:219 - ======
+2021-07-21 01:50:51 INFO  Executor:197 - colleague 3
+2021-07-21 01:50:51 INFO  Executor:198 - I am a(an)_ employee
+I am_  34  _years old
+My sex is_ m
+My salary is_ 345
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:50:51 INFO  Executor:199 - ======
+2021-07-21 01:50:51 INFO  Executor:203 - Set sex to colleague 3 (employee): (f/m/trans)
+2021-07-21 01:50:54 INFO  Executor:210 - Set age to colleague 3
+2021-07-21 01:50:59 INFO  Executor:214 - Set salary to colleague 3
+2021-07-21 01:51:02 INFO  Executor:219 - ======
+2021-07-21 01:51:02 INFO  Executor:228 - ====================================
+2021-07-21 01:51:02 INFO  Executor:233 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:51:04 INFO  Executor:242 - colleague 1
+2021-07-21 01:51:04 INFO  Executor:243 - I am a(an)_ employee
+I am_  45  _years old
+My sex is_ trans
+My salary is_ 456
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:51:04 INFO  Executor:244 - ======
+2021-07-21 01:51:04 INFO  Executor:242 - colleague 1
+2021-07-21 01:51:04 INFO  Executor:243 - I am a(an)_ employee
+I am_  45  _years old
+My sex is_ trans
+My salary is_ 456
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:51:04 INFO  Executor:244 - ======
+2021-07-21 01:51:04 INFO  Executor:242 - colleague 1
+2021-07-21 01:51:04 INFO  Executor:243 - I am a(an)_ employee
+I am_  45  _years old
+My sex is_ trans
+My salary is_ 456
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:51:04 INFO  Executor:244 - ======
+2021-07-21 01:51:04 INFO  Executor:331 - ====================================
+2021-07-21 01:51:04 INFO  Executor:332 - Json Part
+2021-07-21 01:51:04 INFO  Executor:333 - ====================================
+2021-07-21 01:51:04 INFO  Executor:341 - =============
+2021-07-21 01:51:05 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-21 01:51:05 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-21 01:51:05 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-21 01:51:05 INFO  Executor:349 - 
+2021-07-21 01:51:05 INFO  Executor:350 - ================
+2021-07-21 01:51:05 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:51:05 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:51:05 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:51:05 INFO  JsonExec:43 - Writing to file encountered some problems!
+2021-07-21 01:51:05 INFO  JsonExec:60 - Convertation to POJO encountered some problems!
+2021-07-21 01:51:05 INFO  JsonExec:75 - Convertation to POJO encountered some problems!
+2021-07-21 01:51:05 INFO  JsonExec:90 - Convertation to POJO encountered some problems!
+2021-07-21 01:52:34 INFO  Executor:57 - user5
+2021-07-21 01:52:34 INFO  Executor:59 - Alligator5
+2021-07-21 01:52:34 INFO  Executor:61 - 55
+2021-07-21 01:52:34 INFO  Executor:75 - user2
+2021-07-21 01:52:34 INFO  Executor:77 - Alligator2
+2021-07-21 01:52:34 INFO  Executor:79 - 22
+2021-07-21 01:52:34 INFO  Executor:83 - user3
+2021-07-21 01:52:34 INFO  Executor:85 - Alligator3
+2021-07-21 01:52:34 INFO  Executor:87 - 
+2021-07-21 01:52:34 INFO  Executor:91 - user4
+2021-07-21 01:52:34 INFO  Executor:93 - 
+2021-07-21 01:52:34 INFO  Executor:95 - 
+2021-07-21 01:52:34 INFO  Executor:99 - user5
+2021-07-21 01:52:34 INFO  Executor:101 - Alligator5
+2021-07-21 01:52:34 INFO  Executor:103 - 55
+2021-07-21 01:52:34 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-21 01:52:34 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-21 01:52:46 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-21 01:52:46 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-21 01:52:50 INFO  Executor:133 - Enter the whole number of Bosses
+2021-07-21 01:52:51 INFO  Executor:135 - Enter the whole number of Expirienced Applicants
+2021-07-21 01:52:51 INFO  Executor:159 - ====================================
+2021-07-21 01:52:51 INFO  Executor:161 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:52:54 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:52:54 INFO  Executor:170 - ======
+2021-07-21 01:52:54 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:52:54 INFO  Executor:170 - ======
+2021-07-21 01:52:54 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:52:54 INFO  Executor:170 - ======
+2021-07-21 01:52:54 INFO  Executor:180 - ====================================
+2021-07-21 01:52:54 INFO  Executor:188 - Would you like to set data to all of the Colleagues? (y/n)
+2021-07-21 01:52:57 INFO  Executor:197 - colleague 1
+2021-07-21 01:52:57 INFO  Executor:198 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:52:57 INFO  Executor:199 - ======
+2021-07-21 01:52:57 INFO  Executor:203 - Set sex to colleague 1 (employee): (f/m/trans)
+2021-07-21 01:52:58 INFO  Executor:210 - Set age to colleague 1
+2021-07-21 01:52:59 INFO  Executor:214 - Set salary to colleague 1
+2021-07-21 01:52:59 INFO  Executor:219 - ======
+2021-07-21 01:52:59 INFO  Executor:197 - colleague 2
+2021-07-21 01:52:59 INFO  Executor:198 - I am a(an)_ employee
+I am_  1  _years old
+My sex is_ f
+My salary is_ 1
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:52:59 INFO  Executor:199 - ======
+2021-07-21 01:52:59 INFO  Executor:203 - Set sex to colleague 2 (employee): (f/m/trans)
+2021-07-21 01:53:01 INFO  Executor:210 - Set age to colleague 2
+2021-07-21 01:53:01 INFO  Executor:214 - Set salary to colleague 2
+2021-07-21 01:53:02 INFO  Executor:219 - ======
+2021-07-21 01:53:02 INFO  Executor:197 - colleague 3
+2021-07-21 01:53:02 INFO  Executor:198 - I am a(an)_ employee
+I am_  2  _years old
+My sex is_ m
+My salary is_ 2
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:53:02 INFO  Executor:199 - ======
+2021-07-21 01:53:02 INFO  Executor:203 - Set sex to colleague 3 (employee): (f/m/trans)
+2021-07-21 01:53:05 INFO  Executor:210 - Set age to colleague 3
+2021-07-21 01:53:09 INFO  Executor:214 - Set salary to colleague 3
+2021-07-21 01:53:10 INFO  Executor:219 - ======
+2021-07-21 01:53:10 INFO  Executor:228 - ====================================
+2021-07-21 01:53:10 INFO  Executor:233 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:53:12 INFO  Executor:242 - colleague 1
+2021-07-21 01:53:12 INFO  Executor:243 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ trans
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:53:12 INFO  Executor:244 - ======
+2021-07-21 01:53:12 INFO  Executor:242 - colleague 1
+2021-07-21 01:53:12 INFO  Executor:243 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ trans
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:53:12 INFO  Executor:244 - ======
+2021-07-21 01:53:12 INFO  Executor:242 - colleague 1
+2021-07-21 01:53:12 INFO  Executor:243 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ trans
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:53:12 INFO  Executor:244 - ======
+2021-07-21 01:53:12 INFO  Executor:331 - ====================================
+2021-07-21 01:53:12 INFO  Executor:332 - Json Part
+2021-07-21 01:53:12 INFO  Executor:333 - ====================================
+2021-07-21 01:53:12 INFO  Executor:341 - =============
+2021-07-21 01:53:13 INFO  JsonExec:29 - Convertation to string encountered some problems!
+2021-07-21 01:53:13 INFO  JsonExec:29 - Convertation to string encountered some problems!
+2021-07-21 01:53:13 INFO  JsonExec:29 - Convertation to string encountered some problems!
+2021-07-21 01:53:13 INFO  Executor:349 - 
+2021-07-21 01:53:13 INFO  Executor:350 - ================
+2021-07-21 01:53:13 INFO  JsonExec:44 - Writing to file encountered some problems!
+2021-07-21 01:53:13 INFO  JsonExec:44 - Writing to file encountered some problems!
+2021-07-21 01:53:13 INFO  JsonExec:44 - Writing to file encountered some problems!
+2021-07-21 01:53:13 INFO  JsonExec:44 - Writing to file encountered some problems!
+2021-07-21 01:53:13 INFO  JsonExec:61 - Convertation to POJO encountered some problems!
+2021-07-21 01:53:13 INFO  JsonExec:76 - Convertation to POJO encountered some problems!
+2021-07-21 01:53:13 INFO  JsonExec:91 - Convertation to POJO encountered some problems!
+2021-07-21 01:53:58 INFO  Executor:129 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-21 01:53:58 INFO  Executor:133 - Enter the whole number of Employees
+2021-07-21 01:54:01 INFO  Executor:135 - Enter the whole number of Bosses
+2021-07-21 01:54:01 INFO  Executor:137 - Enter the whole number of Expirienced Applicants
+2021-07-21 01:54:02 INFO  Executor:161 - ====================================
+2021-07-21 01:54:02 INFO  Executor:163 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:54:03 INFO  Executor:171 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:54:03 INFO  Executor:172 - ======
+2021-07-21 01:54:03 INFO  Executor:171 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:54:03 INFO  Executor:172 - ======
+2021-07-21 01:54:03 INFO  Executor:171 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:54:03 INFO  Executor:172 - ======
+2021-07-21 01:54:03 INFO  Executor:182 - ====================================
+2021-07-21 01:54:03 INFO  Executor:190 - Would you like to set data to all of the Colleagues? (y/n)
+2021-07-21 01:54:05 INFO  Executor:199 - colleague 1
+2021-07-21 01:54:05 INFO  Executor:200 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:54:05 INFO  Executor:201 - ======
+2021-07-21 01:54:05 INFO  Executor:205 - Set sex to colleague 1 (employee): (f/m/trans)
+2021-07-21 01:54:06 INFO  Executor:212 - Set age to colleague 1
+2021-07-21 01:54:07 INFO  Executor:216 - Set salary to colleague 1
+2021-07-21 01:54:07 INFO  Executor:221 - ======
+2021-07-21 01:54:07 INFO  Executor:199 - colleague 2
+2021-07-21 01:54:07 INFO  Executor:200 - I am a(an)_ employee
+I am_  1  _years old
+My sex is_ f
+My salary is_ 1
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:54:07 INFO  Executor:201 - ======
+2021-07-21 01:54:07 INFO  Executor:205 - Set sex to colleague 2 (employee): (f/m/trans)
+2021-07-21 01:54:08 INFO  Executor:212 - Set age to colleague 2
+2021-07-21 01:54:08 INFO  Executor:216 - Set salary to colleague 2
+2021-07-21 01:54:08 INFO  Executor:221 - ======
+2021-07-21 01:54:08 INFO  Executor:199 - colleague 3
+2021-07-21 01:54:08 INFO  Executor:200 - I am a(an)_ employee
+I am_  2  _years old
+My sex is_ m
+My salary is_ 2
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:54:08 INFO  Executor:201 - ======
+2021-07-21 01:54:08 INFO  Executor:205 - Set sex to colleague 3 (employee): (f/m/trans)
+2021-07-21 01:54:12 INFO  Executor:212 - Set age to colleague 3
+2021-07-21 01:54:13 INFO  Executor:216 - Set salary to colleague 3
+2021-07-21 01:54:13 INFO  Executor:221 - ======
+2021-07-21 01:54:13 INFO  Executor:230 - ====================================
+2021-07-21 01:54:13 INFO  Executor:235 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:54:18 INFO  Executor:244 - colleague 1
+2021-07-21 01:54:18 INFO  Executor:245 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ trans
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:54:18 INFO  Executor:246 - ======
+2021-07-21 01:54:18 INFO  Executor:244 - colleague 1
+2021-07-21 01:54:18 INFO  Executor:245 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ trans
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:54:18 INFO  Executor:246 - ======
+2021-07-21 01:54:18 INFO  Executor:244 - colleague 1
+2021-07-21 01:54:18 INFO  Executor:245 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ trans
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:54:18 INFO  Executor:246 - ======
+2021-07-21 01:54:18 INFO  Executor:333 - ====================================
+2021-07-21 01:54:18 INFO  Executor:334 - Json Part
+2021-07-21 01:54:18 INFO  Executor:335 - ====================================
+2021-07-21 01:54:18 INFO  Executor:343 - =============
+2021-07-21 01:54:19 INFO  JsonExec:29 - Convertation to string encountered some problems!
+2021-07-21 01:54:19 INFO  JsonExec:29 - Convertation to string encountered some problems!
+2021-07-21 01:54:19 INFO  JsonExec:29 - Convertation to string encountered some problems!
+2021-07-21 01:54:19 INFO  Executor:351 - 
+2021-07-21 01:54:19 INFO  Executor:352 - ================
+2021-07-21 01:54:19 INFO  JsonExec:44 - Writing to file encountered some problems!
+2021-07-21 01:54:19 INFO  JsonExec:44 - Writing to file encountered some problems!
+2021-07-21 01:54:19 INFO  JsonExec:44 - Writing to file encountered some problems!
+2021-07-21 01:54:19 INFO  JsonExec:44 - Writing to file encountered some problems!
+2021-07-21 01:54:19 INFO  JsonExec:61 - Convertation to POJO encountered some problems!
+2021-07-21 01:54:19 INFO  JsonExec:76 - Convertation to POJO encountered some problems!
+2021-07-21 01:54:19 INFO  JsonExec:91 - Convertation to POJO encountered some problems!
+2021-07-21 01:55:39 INFO  Executor:129 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-21 01:55:39 INFO  Executor:133 - Enter the whole number of Employees
+2021-07-21 01:55:45 INFO  Executor:135 - Enter the whole number of Bosses
+2021-07-21 01:55:45 INFO  Executor:137 - Enter the whole number of Expirienced Applicants
+2021-07-21 01:55:46 INFO  Executor:161 - ====================================
+2021-07-21 01:55:46 INFO  Executor:163 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:55:48 INFO  Executor:171 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:55:48 INFO  Executor:172 - ======
+2021-07-21 01:55:48 INFO  Executor:171 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:55:48 INFO  Executor:172 - ======
+2021-07-21 01:55:48 INFO  Executor:171 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:55:48 INFO  Executor:172 - ======
+2021-07-21 01:55:48 INFO  Executor:182 - ====================================
+2021-07-21 01:55:48 INFO  Executor:190 - Would you like to set data to all of the Colleagues? (y/n)
+2021-07-21 01:55:49 INFO  Executor:199 - colleague 1
+2021-07-21 01:55:49 INFO  Executor:200 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:55:49 INFO  Executor:201 - ======
+2021-07-21 01:55:49 INFO  Executor:205 - Set sex to colleague 1 (employee): (f/m/trans)
+2021-07-21 01:55:55 INFO  Executor:212 - Set age to colleague 1
+2021-07-21 01:55:56 INFO  Executor:216 - Set salary to colleague 1
+2021-07-21 01:55:57 INFO  Executor:221 - ======
+2021-07-21 01:55:57 INFO  Executor:199 - colleague 2
+2021-07-21 01:55:57 INFO  Executor:200 - I am a(an)_ employee
+I am_  1  _years old
+My sex is_ f
+My salary is_ 1
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:55:57 INFO  Executor:201 - ======
+2021-07-21 01:55:57 INFO  Executor:205 - Set sex to colleague 2 (employee): (f/m/trans)
+2021-07-21 01:55:58 INFO  Executor:212 - Set age to colleague 2
+2021-07-21 01:55:59 INFO  Executor:216 - Set salary to colleague 2
+2021-07-21 01:55:59 INFO  Executor:221 - ======
+2021-07-21 01:55:59 INFO  Executor:199 - colleague 3
+2021-07-21 01:55:59 INFO  Executor:200 - I am a(an)_ employee
+I am_  1  _years old
+My sex is_ m
+My salary is_ 1
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:55:59 INFO  Executor:201 - ======
+2021-07-21 01:55:59 INFO  Executor:205 - Set sex to colleague 3 (employee): (f/m/trans)
+2021-07-21 01:56:07 INFO  Executor:212 - Set age to colleague 3
+2021-07-21 01:56:08 INFO  Executor:216 - Set salary to colleague 3
+2021-07-21 01:56:09 INFO  Executor:221 - ======
+2021-07-21 01:56:09 INFO  Executor:230 - ====================================
+2021-07-21 01:56:09 INFO  Executor:235 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:56:11 INFO  Executor:244 - colleague 1
+2021-07-21 01:56:11 INFO  Executor:245 - I am a(an)_ employee
+I am_  1  _years old
+My sex is_ trans
+My salary is_ 1
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:56:11 INFO  Executor:246 - ======
+2021-07-21 01:56:11 INFO  Executor:244 - colleague 1
+2021-07-21 01:56:11 INFO  Executor:245 - I am a(an)_ employee
+I am_  1  _years old
+My sex is_ trans
+My salary is_ 1
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:56:11 INFO  Executor:246 - ======
+2021-07-21 01:56:11 INFO  Executor:244 - colleague 1
+2021-07-21 01:56:11 INFO  Executor:245 - I am a(an)_ employee
+I am_  1  _years old
+My sex is_ trans
+My salary is_ 1
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:56:11 INFO  Executor:246 - ======
+2021-07-21 01:56:11 INFO  Executor:333 - ====================================
+2021-07-21 01:56:11 INFO  Executor:334 - Json Part
+2021-07-21 01:56:11 INFO  Executor:335 - ====================================
+2021-07-21 01:56:11 INFO  Executor:343 - =============
+2021-07-21 01:56:12 INFO  JsonExec:29 - Convertation to string encountered some problems!
+2021-07-21 01:56:12 INFO  JsonExec:29 - Convertation to string encountered some problems!
+2021-07-21 01:56:12 INFO  JsonExec:29 - Convertation to string encountered some problems!
+2021-07-21 01:56:12 INFO  Executor:351 - 
+2021-07-21 01:56:12 INFO  Executor:352 - ================================================================
+2021-07-21 01:57:45 INFO  Executor:129 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-21 01:57:45 INFO  Executor:133 - Enter the whole number of Employees
+2021-07-21 01:57:48 INFO  Executor:135 - Enter the whole number of Bosses
+2021-07-21 01:57:48 INFO  Executor:137 - Enter the whole number of Expirienced Applicants
+2021-07-21 01:57:48 INFO  Executor:161 - ====================================
+2021-07-21 01:57:48 INFO  Executor:163 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:57:48 INFO  Executor:171 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:57:48 INFO  Executor:172 - ======
+2021-07-21 01:57:48 INFO  Executor:171 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:57:48 INFO  Executor:172 - ======
+2021-07-21 01:57:48 INFO  Executor:171 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:57:48 INFO  Executor:172 - ======
+2021-07-21 01:57:48 INFO  Executor:182 - ====================================
+2021-07-21 01:57:48 INFO  Executor:190 - Would you like to set data to all of the Colleagues? (y/n)
+2021-07-21 01:57:52 INFO  Executor:199 - colleague 1
+2021-07-21 01:57:52 INFO  Executor:200 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:57:52 INFO  Executor:201 - ======
+2021-07-21 01:57:52 INFO  Executor:205 - Set sex to colleague 1 (employee): (f/m/trans)
+2021-07-21 01:57:54 INFO  Executor:212 - Set age to colleague 1
+2021-07-21 01:57:55 INFO  Executor:216 - Set salary to colleague 1
+2021-07-21 01:57:55 INFO  Executor:221 - ======
+2021-07-21 01:57:55 INFO  Executor:199 - colleague 2
+2021-07-21 01:57:55 INFO  Executor:200 - I am a(an)_ employee
+I am_  1  _years old
+My sex is_ f
+My salary is_ 1
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:57:55 INFO  Executor:201 - ======
+2021-07-21 01:57:55 INFO  Executor:205 - Set sex to colleague 2 (employee): (f/m/trans)
+2021-07-21 01:57:57 INFO  Executor:212 - Set age to colleague 2
+2021-07-21 01:57:57 INFO  Executor:216 - Set salary to colleague 2
+2021-07-21 01:57:58 INFO  Executor:221 - ======
+2021-07-21 01:57:58 INFO  Executor:199 - colleague 3
+2021-07-21 01:57:58 INFO  Executor:200 - I am a(an)_ employee
+I am_  2  _years old
+My sex is_ m
+My salary is_ 2
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:57:58 INFO  Executor:201 - ======
+2021-07-21 01:57:58 INFO  Executor:205 - Set sex to colleague 3 (employee): (f/m/trans)
+2021-07-21 01:58:00 INFO  Executor:212 - Set age to colleague 3
+2021-07-21 01:58:01 INFO  Executor:216 - Set salary to colleague 3
+2021-07-21 01:58:02 INFO  Executor:221 - ======
+2021-07-21 01:58:02 INFO  Executor:230 - ====================================
+2021-07-21 01:58:02 INFO  Executor:235 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 01:58:04 INFO  Executor:244 - colleague 1
+2021-07-21 01:58:04 INFO  Executor:245 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ trans
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:58:04 INFO  Executor:246 - ======
+2021-07-21 01:58:04 INFO  Executor:244 - colleague 1
+2021-07-21 01:58:04 INFO  Executor:245 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ trans
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:58:04 INFO  Executor:246 - ======
+2021-07-21 01:58:04 INFO  Executor:244 - colleague 1
+2021-07-21 01:58:04 INFO  Executor:245 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ trans
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 01:58:04 INFO  Executor:246 - ======
+2021-07-21 01:58:04 INFO  Executor:333 - ====================================
+2021-07-21 01:58:04 INFO  Executor:334 - Json Part
+2021-07-21 01:58:04 INFO  Executor:335 - ====================================
+2021-07-21 01:58:04 INFO  Executor:343 - =============
+2021-07-21 01:58:05 INFO  JsonExec:29 - Convertation to string encountered some problems!
+2021-07-21 01:58:05 INFO  Executor:351 - 
+2021-07-21 01:58:05 INFO  Executor:352 - ================================================================
+2021-07-21 02:02:35 INFO  Executor:127 - ================================Scanner_1_ArrayList_Colleague_Properties================================
+2021-07-21 02:02:35 INFO  Executor:131 - Enter the whole number of Employees
+2021-07-21 02:02:38 INFO  Executor:133 - Enter the whole number of Bosses
+2021-07-21 02:02:38 INFO  Executor:135 - Enter the whole number of Expirienced Applicants
+2021-07-21 02:02:39 INFO  Executor:159 - ====================================
+2021-07-21 02:02:39 INFO  Executor:161 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 02:02:43 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 02:02:43 INFO  Executor:170 - ======
+2021-07-21 02:02:43 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 02:02:43 INFO  Executor:170 - ======
+2021-07-21 02:02:43 INFO  Executor:169 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 02:02:43 INFO  Executor:170 - ======
+2021-07-21 02:02:43 INFO  Executor:180 - ====================================
+2021-07-21 02:02:43 INFO  Executor:188 - Would you like to set data to all of the Colleagues? (y/n)
+2021-07-21 02:02:45 INFO  Executor:197 - colleague 1
+2021-07-21 02:02:45 INFO  Executor:198 - I am a(an)_ employee
+I am_  0  _years old
+My sex is_ null
+My salary is_ 0
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 02:02:45 INFO  Executor:199 - ======
+2021-07-21 02:02:45 INFO  Executor:203 - Set sex to colleague 1 (employee): (f/m/trans)
+2021-07-21 02:02:48 INFO  Executor:210 - Set age to colleague 1
+2021-07-21 02:02:48 INFO  Executor:214 - Set salary to colleague 1
+2021-07-21 02:02:49 INFO  Executor:219 - ======
+2021-07-21 02:02:49 INFO  Executor:197 - colleague 2
+2021-07-21 02:02:49 INFO  Executor:198 - I am a(an)_ employee
+I am_  1  _years old
+My sex is_ f
+My salary is_ 1
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 02:02:49 INFO  Executor:199 - ======
+2021-07-21 02:02:49 INFO  Executor:203 - Set sex to colleague 2 (employee): (f/m/trans)
+2021-07-21 02:02:50 INFO  Executor:210 - Set age to colleague 2
+2021-07-21 02:02:50 INFO  Executor:214 - Set salary to colleague 2
+2021-07-21 02:02:51 INFO  Executor:219 - ======
+2021-07-21 02:02:51 INFO  Executor:197 - colleague 3
+2021-07-21 02:02:51 INFO  Executor:198 - I am a(an)_ employee
+I am_  2  _years old
+My sex is_ m
+My salary is_ 2
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 02:02:51 INFO  Executor:199 - ======
+2021-07-21 02:02:51 INFO  Executor:203 - Set sex to colleague 3 (employee): (f/m/trans)
+2021-07-21 02:02:51 INFO  Executor:210 - Set age to colleague 3
+2021-07-21 02:02:52 INFO  Executor:214 - Set salary to colleague 3
+2021-07-21 02:02:52 INFO  Executor:219 - ======
+2021-07-21 02:02:52 INFO  Executor:228 - ====================================
+2021-07-21 02:02:52 INFO  Executor:233 - Would you like to get all of the information about all of the Colleagues? (y/n)
+2021-07-21 02:02:55 INFO  Executor:242 - colleague 1
+2021-07-21 02:02:55 INFO  Executor:243 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ m
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 02:02:55 INFO  Executor:244 - ======
+2021-07-21 02:02:55 INFO  Executor:242 - colleague 1
+2021-07-21 02:02:55 INFO  Executor:243 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ m
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 02:02:55 INFO  Executor:244 - ======
+2021-07-21 02:02:55 INFO  Executor:242 - colleague 1
+2021-07-21 02:02:55 INFO  Executor:243 - I am a(an)_ employee
+I am_  3  _years old
+My sex is_ m
+My salary is_ 3
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-21 02:02:55 INFO  Executor:244 - ======
+2021-07-21 02:02:55 INFO  Executor:331 - ====================================
+2021-07-21 02:02:55 INFO  Executor:332 - Json Part
+2021-07-21 02:02:55 INFO  Executor:333 - ====================================
+2021-07-21 02:02:55 INFO  Executor:341 - =============
+2021-07-21 02:02:56 INFO  JsonExec:29 - Convertation to string encountered some problems!
+2021-07-21 02:02:56 INFO  Executor:349 - 
+2021-07-21 02:02:56 INFO  Executor:350 - ================================================================
+2021-07-22 13:15:34 INFO  Executor:151 - 13213
+2021-07-22 13:15:35 INFO  Executor:152 - =============
+2021-07-22 13:15:41 INFO  JsonExecAnimal:22 - convert to string, finished!
+2021-07-22 13:15:41 INFO  Executor:159 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 13:15:41 INFO  Executor:160 - ================
+2021-07-22 13:15:41 INFO  JsonExecAnimal:36 - write to file, finished!
+2021-07-22 13:15:41 INFO  JsonExecAnimal:36 - write to file, finished!
+2021-07-22 13:15:41 INFO  JsonExecAnimal:51 - convert to POJO, finished!
+2021-07-22 13:15:41 INFO  Executor:170 - Name from POJO: Jack
+2021-07-22 13:15:41 INFO  Executor:171 - Name place from POJO: North America
+2021-07-22 13:27:41 INFO  Executor:151 - 13213
+2021-07-22 13:27:41 INFO  Executor:152 - =============
+2021-07-22 13:27:43 INFO  JsonExecAnimal:22 - convert to string, finished!
+2021-07-22 13:27:43 INFO  Executor:159 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 13:27:43 INFO  Executor:160 - ================
+2021-07-22 13:27:43 INFO  JsonExecAnimal:37 - write to file, finished!
+2021-07-22 13:27:43 INFO  JsonExecAnimal:37 - write to file, finished!
+2021-07-22 13:27:44 INFO  JsonExecAnimal:56 - convert to POJO, finished!
+2021-07-22 13:27:44 INFO  Executor:170 - Name from POJO: Jack
+2021-07-22 13:27:44 INFO  Executor:171 - Name place from POJO: North America
+2021-07-22 13:27:44 INFO  Executor:178 - ====================================
+2021-07-22 13:27:44 INFO  Executor:179 - Json Part
+2021-07-22 13:27:44 INFO  Executor:180 - ====================================
+2021-07-22 13:27:44 INFO  Executor:197 - =============
+2021-07-22 13:27:44 INFO  JsonExec:26 - Convertation to string encountered some problems!
+2021-07-22 13:27:44 INFO  JsonExec:26 - Convertation to string encountered some problems!
+2021-07-22 13:27:44 INFO  JsonExec:26 - Convertation to string encountered some problems!
+2021-07-22 13:27:44 INFO  Executor:205 - 
+2021-07-22 13:27:44 INFO  Executor:206 - ================================================================
+2021-07-22 13:27:44 INFO  JsonExec:41 - Writing to file encountered some problems!
+2021-07-22 13:27:44 INFO  JsonExec:41 - Writing to file encountered some problems!
+2021-07-22 13:27:44 INFO  JsonExec:41 - Writing to file encountered some problems!
+2021-07-22 13:27:44 INFO  JsonExec:41 - Writing to file encountered some problems!
+2021-07-22 13:27:44 INFO  JsonExec:59 - Convertation to POJO encountered some problems!
+2021-07-22 13:27:44 INFO  JsonExec:74 - Convertation to POJO encountered some problems!
+2021-07-22 13:27:44 INFO  JsonExec:89 - Convertation to POJO encountered some problems!
+2021-07-22 13:29:45 INFO  Executor:151 - 13213
+2021-07-22 13:29:45 INFO  Executor:152 - =============
+2021-07-22 13:29:48 INFO  JsonExecAnimal:22 - convert to string, finished!
+2021-07-22 13:29:48 INFO  Executor:159 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 13:29:48 INFO  Executor:160 - ================
+2021-07-22 13:29:48 INFO  JsonExecAnimal:37 - write to file, finished!
+2021-07-22 13:29:48 INFO  JsonExecAnimal:37 - write to file, finished!
+2021-07-22 13:29:48 INFO  JsonExecAnimal:56 - convert to POJO, finished!
+2021-07-22 13:29:48 INFO  Executor:170 - Name from POJO: Jack
+2021-07-22 13:29:48 INFO  Executor:171 - Name place from POJO: North America
+2021-07-22 13:29:48 INFO  Executor:178 - ====================================
+2021-07-22 13:29:48 INFO  Executor:179 - Json Part
+2021-07-22 13:29:48 INFO  Executor:180 - ====================================
+2021-07-22 13:29:48 INFO  Executor:197 - =============
+2021-07-22 13:29:48 INFO  Executor:198 - I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 13:29:48 INFO  JsonExec:26 - Convertation to string encountered some problems!
+2021-07-22 13:30:58 INFO  Executor:151 - 13213
+2021-07-22 13:30:58 INFO  Executor:152 - =============
+2021-07-22 13:31:00 INFO  JsonExecAnimal:22 - convert to string, finished!
+2021-07-22 13:31:00 INFO  Executor:159 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 13:31:00 INFO  Executor:160 - ================
+2021-07-22 13:31:00 INFO  JsonExecAnimal:37 - write to file, finished!
+2021-07-22 13:31:00 INFO  JsonExecAnimal:37 - write to file, finished!
+2021-07-22 13:31:01 INFO  JsonExecAnimal:56 - convert to POJO, finished!
+2021-07-22 13:31:01 INFO  Executor:170 - Name from POJO: Jack
+2021-07-22 13:31:01 INFO  Executor:171 - Name place from POJO: North America
+2021-07-22 13:31:01 INFO  Executor:178 - ====================================
+2021-07-22 13:31:01 INFO  Executor:179 - Json Part
+2021-07-22 13:31:01 INFO  Executor:180 - ====================================
+2021-07-22 13:31:01 INFO  Executor:197 - =============
+2021-07-22 13:31:01 INFO  Executor:198 - I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 13:31:01 INFO  JsonExec:26 - Convertation to string encountered some problems!
+2021-07-22 13:39:38 INFO  Executor:150 - 13213
+2021-07-22 13:39:38 INFO  Executor:151 - =============
+2021-07-22 13:39:44 INFO  JsonExecAnimal:23 - convert to string, finished!
+2021-07-22 13:39:44 INFO  Executor:158 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 13:39:44 INFO  Executor:159 - ================
+2021-07-22 13:39:44 INFO  JsonExecAnimal:38 - write to file, finished!
+2021-07-22 13:39:44 INFO  JsonExecAnimal:38 - write to file, finished!
+2021-07-22 13:39:45 INFO  JsonExecAnimal:57 - convert to POJO, finished!
+2021-07-22 13:39:45 INFO  Executor:169 - Name from POJO: Jack
+2021-07-22 13:39:45 INFO  Executor:170 - Name place from POJO: North America
+2021-07-22 13:39:45 INFO  Executor:178 - ====================================
+2021-07-22 13:39:45 INFO  Executor:179 - Json Part
+2021-07-22 13:39:45 INFO  Executor:180 - ====================================
+2021-07-22 13:39:45 INFO  Executor:197 - =============
+2021-07-22 13:39:45 INFO  Executor:198 - I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 13:39:45 INFO  JsonExec:27 - Convertation to string encountered some problems!
+2021-07-22 13:41:56 INFO  Executor:150 - 13213
+2021-07-22 13:41:56 INFO  Executor:151 - =============
+2021-07-22 13:41:57 INFO  JsonExecAnimal:23 - convert to string, finished!
+2021-07-22 13:41:57 INFO  Executor:158 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 13:41:57 INFO  Executor:159 - ================
+2021-07-22 13:41:57 INFO  JsonExecAnimal:38 - write to file, finished!
+2021-07-22 13:41:57 INFO  JsonExecAnimal:38 - write to file, finished!
+2021-07-22 13:41:58 INFO  JsonExecAnimal:57 - convert to POJO, finished!
+2021-07-22 13:41:58 INFO  Executor:169 - Name from POJO: Jack
+2021-07-22 13:41:58 INFO  Executor:170 - Name place from POJO: North America
+2021-07-22 13:41:58 INFO  Executor:178 - ====================================
+2021-07-22 13:41:58 INFO  Executor:179 - Json Part
+2021-07-22 13:41:58 INFO  Executor:180 - ====================================
+2021-07-22 13:41:58 INFO  Executor:197 - =============
+2021-07-22 13:41:58 INFO  Executor:198 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 13:41:58 INFO  Executor:199 - =============
+2021-07-22 13:41:58 INFO  Executor:200 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 13:41:58 INFO  JsonExec:27 - Convertation to string encountered some problems!
+2021-07-22 13:43:18 INFO  Executor:150 - 13213
+2021-07-22 13:43:18 INFO  Executor:151 - =============
+2021-07-22 13:43:20 INFO  JsonExecAnimal:23 - convert to string, finished!
+2021-07-22 13:43:20 INFO  Executor:158 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 13:43:20 INFO  Executor:159 - ================
+2021-07-22 13:43:20 INFO  JsonExecAnimal:38 - write to file, finished!
+2021-07-22 13:43:20 INFO  JsonExecAnimal:38 - write to file, finished!
+2021-07-22 13:43:20 INFO  JsonExecAnimal:57 - convert to POJO, finished!
+2021-07-22 13:43:20 INFO  Executor:169 - Name from POJO: Jack
+2021-07-22 13:43:20 INFO  Executor:170 - Name place from POJO: North America
+2021-07-22 13:43:20 INFO  Executor:178 - ====================================
+2021-07-22 13:43:20 INFO  Executor:179 - Json Part
+2021-07-22 13:43:20 INFO  Executor:180 - ====================================
+2021-07-22 13:43:20 INFO  Executor:197 - =============
+2021-07-22 13:43:20 INFO  Executor:198 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 13:43:20 INFO  Executor:199 - =============
+2021-07-22 13:43:20 INFO  Executor:200 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 13:43:20 INFO  JsonExec:27 - Convertation to string encountered some problems!
+2021-07-22 13:51:08 INFO  Executor:150 - 13213
+2021-07-22 13:51:08 INFO  Executor:151 - =============
+2021-07-22 13:51:13 INFO  JsonExecAnimal:23 - convert to string, finished!
+2021-07-22 13:51:13 INFO  Executor:158 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 13:51:13 INFO  Executor:159 - ================
+2021-07-22 13:51:13 INFO  JsonExecAnimal:38 - write to file, finished!
+2021-07-22 13:51:13 INFO  JsonExecAnimal:38 - write to file, finished!
+2021-07-22 13:51:13 INFO  JsonExecAnimal:57 - convert to POJO, finished!
+2021-07-22 13:51:13 INFO  Executor:169 - Name from POJO: Jack
+2021-07-22 13:51:13 INFO  Executor:170 - Name place from POJO: North America
+2021-07-22 13:51:13 INFO  Executor:178 - ====================================
+2021-07-22 13:51:13 INFO  Executor:179 - Json Part
+2021-07-22 13:51:13 INFO  Executor:180 - ====================================
+2021-07-22 13:51:13 INFO  Executor:197 - =============
+2021-07-22 13:51:13 INFO  Executor:198 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 13:51:13 INFO  Executor:199 - =============
+2021-07-22 13:51:13 INFO  Executor:200 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 13:51:13 INFO  JsonExec:27 - Convertation to string encountered some problems!
+2021-07-22 13:52:04 INFO  Executor:150 - 13213
+2021-07-22 13:52:04 INFO  Executor:151 - =============
+2021-07-22 13:52:07 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 13:52:07 INFO  Executor:158 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 13:52:07 INFO  Executor:159 - ================
+2021-07-22 13:52:07 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 13:52:07 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 13:52:07 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 13:52:07 INFO  Executor:169 - Name from POJO: Jack
+2021-07-22 13:52:07 INFO  Executor:170 - Name place from POJO: North America
+2021-07-22 13:52:07 INFO  Executor:178 - ====================================
+2021-07-22 13:52:07 INFO  Executor:179 - Json Part
+2021-07-22 13:52:07 INFO  Executor:180 - ====================================
+2021-07-22 13:52:08 INFO  Executor:197 - =============
+2021-07-22 13:52:08 INFO  Executor:198 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 13:52:08 INFO  Executor:199 - =============
+2021-07-22 13:52:08 INFO  Executor:200 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 13:52:08 INFO  JsonExec:27 - Convertation to string encountered some problems!
+2021-07-22 13:55:42 INFO  Executor:150 - 13213
+2021-07-22 13:55:42 INFO  Executor:151 - =============
+2021-07-22 13:55:43 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 13:55:43 INFO  Executor:158 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 13:55:43 INFO  Executor:159 - ================
+2021-07-22 13:55:43 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 13:55:43 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 13:55:44 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 13:55:44 INFO  Executor:169 - Name from POJO: Jack
+2021-07-22 13:55:44 INFO  Executor:170 - Name place from POJO: North America
+2021-07-22 13:55:44 INFO  Executor:178 - ====================================
+2021-07-22 13:55:44 INFO  Executor:179 - Json Part
+2021-07-22 13:55:44 INFO  Executor:180 - ====================================
+2021-07-22 13:55:44 INFO  Executor:197 - =============
+2021-07-22 13:55:44 INFO  Executor:198 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 13:55:44 INFO  Executor:199 - =============
+2021-07-22 13:55:44 INFO  Executor:200 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 13:55:45 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 13:56:36 INFO  Executor:150 - 13213
+2021-07-22 13:56:36 INFO  Executor:151 - =============
+2021-07-22 13:56:38 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 13:56:38 INFO  Executor:158 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 13:56:38 INFO  Executor:159 - ================
+2021-07-22 13:56:38 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 13:56:38 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 13:56:38 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 13:56:38 INFO  Executor:169 - Name from POJO: Jack
+2021-07-22 13:56:38 INFO  Executor:170 - Name place from POJO: North America
+2021-07-22 13:56:38 INFO  Executor:178 - ====================================
+2021-07-22 13:56:38 INFO  Executor:179 - Json Part
+2021-07-22 13:56:38 INFO  Executor:180 - ====================================
+2021-07-22 13:56:39 INFO  Executor:197 - =============
+2021-07-22 13:56:39 INFO  Executor:198 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 13:56:39 INFO  Executor:199 - =============
+2021-07-22 13:56:39 INFO  Executor:200 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 13:56:39 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 14:01:39 INFO  Executor:150 - 13213
+2021-07-22 14:01:39 INFO  Executor:151 - =============
+2021-07-22 14:01:42 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 14:01:42 INFO  Executor:158 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 14:01:42 INFO  Executor:159 - ================
+2021-07-22 14:01:42 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:01:42 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:01:42 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 14:01:42 INFO  Executor:169 - Name from POJO: Jack
+2021-07-22 14:01:42 INFO  Executor:170 - Name place from POJO: North America
+2021-07-22 14:01:42 INFO  Executor:178 - ====================================
+2021-07-22 14:01:42 INFO  Executor:179 - Json Part
+2021-07-22 14:01:42 INFO  Executor:180 - ====================================
+2021-07-22 14:01:42 INFO  Executor:197 - =============
+2021-07-22 14:01:42 INFO  Executor:198 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 14:01:42 INFO  Executor:199 - =============
+2021-07-22 14:01:42 INFO  Executor:200 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 14:01:43 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 14:11:34 INFO  Executor:150 - 13213
+2021-07-22 14:11:34 INFO  Executor:151 - =============
+2021-07-22 14:11:36 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 14:11:36 INFO  Executor:158 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 14:11:36 INFO  Executor:159 - ================
+2021-07-22 14:11:36 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:11:36 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:11:36 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 14:11:36 INFO  Executor:169 - Name from POJO: Jack
+2021-07-22 14:11:36 INFO  Executor:170 - Name place from POJO: North America
+2021-07-22 14:13:10 INFO  Executor:150 - 13213
+2021-07-22 14:13:10 INFO  Executor:151 - =============
+2021-07-22 14:13:12 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 14:13:12 INFO  Executor:158 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 14:13:12 INFO  Executor:159 - ================
+2021-07-22 14:13:12 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:13:12 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:13:12 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 14:13:12 INFO  Executor:169 - Name from POJO: Jack
+2021-07-22 14:13:12 INFO  Executor:170 - Name place from POJO: North America
+2021-07-22 14:13:59 INFO  Executor:150 - 13213
+2021-07-22 14:13:59 INFO  Executor:151 - =============
+2021-07-22 14:14:01 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 14:14:01 INFO  Executor:158 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 14:14:01 INFO  Executor:159 - ================
+2021-07-22 14:14:01 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:14:01 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:14:01 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 14:14:01 INFO  Executor:169 - Name from POJO: Jack
+2021-07-22 14:14:01 INFO  Executor:170 - Name place from POJO: North America
+2021-07-22 14:14:01 INFO  Executor:178 - ====================================
+2021-07-22 14:14:01 INFO  Executor:179 - Json Part
+2021-07-22 14:14:01 INFO  Executor:180 - ====================================
+2021-07-22 14:14:01 INFO  Executor:197 - =============
+2021-07-22 14:14:01 INFO  Executor:198 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 14:14:01 INFO  Executor:199 - =============
+2021-07-22 14:14:01 INFO  Executor:200 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 14:24:06 INFO  Executor:157 - 13213
+2021-07-22 14:24:06 INFO  Executor:158 - =============
+2021-07-22 14:24:11 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 14:24:11 INFO  Executor:165 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 14:24:11 INFO  Executor:166 - ================
+2021-07-22 14:24:11 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:24:11 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:24:11 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 14:24:11 INFO  Executor:176 - Name from POJO: Jack
+2021-07-22 14:24:11 INFO  Executor:177 - Name place from POJO: North America
+2021-07-22 14:24:11 INFO  Executor:185 - ====================================
+2021-07-22 14:24:11 INFO  Executor:186 - Json Part
+2021-07-22 14:24:11 INFO  Executor:187 - ====================================
+2021-07-22 14:24:11 INFO  Executor:204 - =============
+2021-07-22 14:24:11 INFO  Executor:205 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 14:24:11 INFO  Executor:206 - =============
+2021-07-22 14:24:11 INFO  Executor:207 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 14:24:11 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 14:49:38 INFO  Executor:157 - 13213
+2021-07-22 14:49:38 INFO  Executor:158 - =============
+2021-07-22 14:49:39 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 14:49:39 INFO  Executor:165 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 14:49:39 INFO  Executor:166 - ================
+2021-07-22 14:49:39 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:49:40 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:49:40 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 14:49:40 INFO  Executor:176 - Name from POJO: Jack
+2021-07-22 14:49:40 INFO  Executor:177 - Name place from POJO: North America
+2021-07-22 14:49:40 INFO  Executor:185 - ====================================
+2021-07-22 14:49:40 INFO  Executor:186 - Json Part
+2021-07-22 14:49:40 INFO  Executor:187 - ====================================
+2021-07-22 14:49:40 INFO  Executor:204 - =============
+2021-07-22 14:49:40 INFO  Executor:205 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 14:49:40 INFO  Executor:206 - =============
+2021-07-22 14:49:40 INFO  Executor:207 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 14:59:53 INFO  Executor:157 - 13213
+2021-07-22 14:59:53 INFO  Executor:158 - =============
+2021-07-22 14:59:55 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 14:59:55 INFO  Executor:165 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 14:59:55 INFO  Executor:166 - ================
+2021-07-22 14:59:55 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:59:56 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 14:59:56 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 14:59:56 INFO  Executor:176 - Name from POJO: Jack
+2021-07-22 14:59:56 INFO  Executor:177 - Name place from POJO: North America
+2021-07-22 14:59:56 INFO  Executor:185 - ====================================
+2021-07-22 14:59:56 INFO  Executor:186 - Json Part
+2021-07-22 14:59:56 INFO  Executor:187 - ====================================
+2021-07-22 14:59:56 INFO  Executor:204 - =============
+2021-07-22 14:59:56 INFO  Executor:205 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 14:59:56 INFO  Executor:206 - =============
+2021-07-22 14:59:56 INFO  Executor:207 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 14:59:56 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 15:01:18 INFO  Executor:157 - 13213
+2021-07-22 15:01:18 INFO  Executor:158 - =============
+2021-07-22 15:01:19 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 15:01:19 INFO  Executor:165 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 15:01:19 INFO  Executor:166 - ================
+2021-07-22 15:01:19 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:01:19 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:01:19 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 15:01:19 INFO  Executor:176 - Name from POJO: Jack
+2021-07-22 15:01:19 INFO  Executor:177 - Name place from POJO: North America
+2021-07-22 15:01:19 INFO  Executor:185 - ====================================
+2021-07-22 15:01:19 INFO  Executor:186 - Json Part
+2021-07-22 15:01:19 INFO  Executor:187 - ====================================
+2021-07-22 15:01:19 INFO  Executor:204 - =============
+2021-07-22 15:01:19 INFO  Executor:205 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 15:01:19 INFO  Executor:206 - =============
+2021-07-22 15:01:19 INFO  Executor:207 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 15:08:57 INFO  Executor:158 - 13213
+2021-07-22 15:08:57 INFO  Executor:159 - =============
+2021-07-22 15:09:10 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 15:09:10 INFO  Executor:166 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 15:09:10 INFO  Executor:167 - ================
+2021-07-22 15:09:10 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:09:10 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:09:10 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 15:09:10 INFO  Executor:177 - Name from POJO: Jack
+2021-07-22 15:09:10 INFO  Executor:178 - Name place from POJO: North America
+2021-07-22 15:09:10 INFO  Executor:186 - ====================================
+2021-07-22 15:09:10 INFO  Executor:187 - Json Part
+2021-07-22 15:09:10 INFO  Executor:188 - ====================================
+2021-07-22 15:09:10 INFO  Executor:205 - =============
+2021-07-22 15:09:10 INFO  Executor:206 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 15:09:10 INFO  Executor:207 - =============
+2021-07-22 15:09:10 INFO  Executor:208 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 15:10:32 INFO  Executor:158 - 13213
+2021-07-22 15:10:32 INFO  Executor:159 - =============
+2021-07-22 15:10:36 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 15:10:36 INFO  Executor:166 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 15:10:36 INFO  Executor:167 - ================
+2021-07-22 15:10:36 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:10:37 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:10:37 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 15:10:37 INFO  Executor:177 - Name from POJO: Jack
+2021-07-22 15:10:37 INFO  Executor:178 - Name place from POJO: North America
+2021-07-22 15:10:37 INFO  Executor:186 - ====================================
+2021-07-22 15:10:37 INFO  Executor:187 - Json Part
+2021-07-22 15:10:37 INFO  Executor:188 - ====================================
+2021-07-22 15:10:37 INFO  Executor:205 - =============
+2021-07-22 15:10:37 INFO  Executor:206 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 15:10:37 INFO  Executor:207 - =============
+2021-07-22 15:10:37 INFO  Executor:208 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 15:50:33 INFO  Executor:158 - 13213
+2021-07-22 15:50:33 INFO  Executor:159 - =============
+2021-07-22 15:50:35 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 15:50:35 INFO  Executor:166 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 15:50:35 INFO  Executor:167 - ================
+2021-07-22 15:50:35 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:50:35 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:50:35 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 15:50:35 INFO  Executor:177 - Name from POJO: Jack
+2021-07-22 15:50:35 INFO  Executor:178 - Name place from POJO: North America
+2021-07-22 15:50:35 INFO  Executor:186 - ====================================
+2021-07-22 15:50:35 INFO  Executor:187 - Json Part
+2021-07-22 15:50:35 INFO  Executor:188 - ====================================
+2021-07-22 15:50:35 INFO  Executor:205 - =============
+2021-07-22 15:50:35 INFO  Executor:206 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 15:50:35 INFO  Executor:207 - =============
+2021-07-22 15:50:35 INFO  Executor:208 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 15:52:54 INFO  Executor:156 - =======================================
+2021-07-22 15:52:54 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 15:52:54 INFO  Executor:158 - =======================================
+2021-07-22 15:52:54 INFO  Executor:159 - 13213
+2021-07-22 15:52:54 INFO  Executor:160 - =============
+2021-07-22 15:52:56 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 15:52:56 INFO  Executor:167 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 15:52:56 INFO  Executor:168 - ================
+2021-07-22 15:52:56 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:52:56 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:52:56 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 15:52:56 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 15:52:56 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 15:52:56 INFO  Executor:187 - =======================================
+2021-07-22 15:52:56 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 15:52:56 INFO  Executor:189 - =======================================
+2021-07-22 15:52:56 INFO  Executor:206 - =============
+2021-07-22 15:52:56 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 15:52:56 INFO  Executor:208 - =============
+2021-07-22 15:52:56 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 15:52:56 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 15:53:32 INFO  Executor:156 - =======================================
+2021-07-22 15:53:32 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 15:53:32 INFO  Executor:158 - =======================================
+2021-07-22 15:53:32 INFO  Executor:159 - 13213
+2021-07-22 15:53:32 INFO  Executor:160 - =============
+2021-07-22 15:53:32 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 15:53:32 INFO  Executor:167 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 15:53:32 INFO  Executor:168 - ================
+2021-07-22 15:53:32 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:53:32 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 15:53:32 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 15:53:32 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 15:53:32 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 15:53:32 INFO  Executor:186 - 
+
+
+
+2021-07-22 15:53:32 INFO  Executor:187 - =======================================
+2021-07-22 15:53:32 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 15:53:32 INFO  Executor:189 - =======================================
+2021-07-22 15:53:32 INFO  Executor:206 - =============
+2021-07-22 15:53:32 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 15:53:32 INFO  Executor:208 - =============
+2021-07-22 15:53:32 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 15:53:32 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 16:13:16 INFO  Executor:156 - =======================================
+2021-07-22 16:13:17 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 16:13:17 INFO  Executor:158 - =======================================
+2021-07-22 16:13:17 INFO  Executor:159 - 13213
+2021-07-22 16:13:17 INFO  Executor:160 - =============
+2021-07-22 16:13:19 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 16:13:19 INFO  Executor:167 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 16:13:19 INFO  Executor:168 - ================
+2021-07-22 16:13:19 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 16:13:19 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 16:13:19 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 16:13:19 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 16:13:19 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 16:13:19 INFO  Executor:186 - 
+
+
+
+2021-07-22 16:13:19 INFO  Executor:187 - =======================================
+2021-07-22 16:13:19 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 16:13:19 INFO  Executor:189 - =======================================
+2021-07-22 16:13:19 INFO  Executor:206 - =============
+2021-07-22 16:13:19 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 16:13:19 INFO  Executor:208 - =============
+2021-07-22 16:13:19 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 16:13:19 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 17:20:02 INFO  Executor:156 - =======================================
+2021-07-22 17:20:02 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 17:20:02 INFO  Executor:158 - =======================================
+2021-07-22 17:20:02 INFO  Executor:159 - 13213
+2021-07-22 17:20:02 INFO  Executor:160 - =============
+2021-07-22 17:20:03 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 17:20:03 INFO  Executor:167 - {"name":"Rex","id":13213,"place":{"title":"World"}}
+2021-07-22 17:20:03 INFO  Executor:168 - ================
+2021-07-22 17:20:03 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 17:20:03 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 17:20:03 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 17:20:03 INFO  Executor:186 - 
+
+
+
+2021-07-22 17:20:03 INFO  Executor:187 - =======================================
+2021-07-22 17:20:03 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 17:20:03 INFO  Executor:189 - =======================================
+2021-07-22 17:20:03 INFO  Executor:206 - =============
+2021-07-22 17:20:03 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 17:20:03 INFO  Executor:208 - =============
+2021-07-22 17:20:03 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 17:20:03 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 17:23:02 INFO  Executor:156 - =======================================
+2021-07-22 17:23:02 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 17:23:02 INFO  Executor:158 - =======================================
+2021-07-22 17:23:02 INFO  Executor:159 - 13213
+2021-07-22 17:23:02 INFO  Executor:160 - =============
+2021-07-22 17:23:03 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 17:23:03 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worlddd"}}
+2021-07-22 17:23:03 INFO  Executor:168 - ================
+2021-07-22 17:23:03 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 17:23:03 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 17:23:03 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 17:23:03 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 17:23:03 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 17:23:03 INFO  Executor:186 - 
+
+
+
+2021-07-22 17:23:03 INFO  Executor:187 - =======================================
+2021-07-22 17:23:03 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 17:23:03 INFO  Executor:189 - =======================================
+2021-07-22 17:23:03 INFO  Executor:206 - =============
+2021-07-22 17:23:03 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 17:23:03 INFO  Executor:208 - =============
+2021-07-22 17:23:03 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 17:23:03 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 17:24:42 INFO  Executor:156 - =======================================
+2021-07-22 17:24:42 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 17:24:42 INFO  Executor:158 - =======================================
+2021-07-22 17:24:42 INFO  Executor:159 - 13213
+2021-07-22 17:24:42 INFO  Executor:160 - =============
+2021-07-22 17:24:43 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 17:24:43 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 17:24:43 INFO  Executor:168 - ================
+2021-07-22 17:24:43 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 17:24:43 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 17:24:43 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 17:24:43 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 17:24:43 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 17:24:43 INFO  Executor:186 - 
+
+
+
+2021-07-22 17:24:43 INFO  Executor:187 - =======================================
+2021-07-22 17:24:43 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 17:24:43 INFO  Executor:189 - =======================================
+2021-07-22 17:24:43 INFO  Executor:206 - =============
+2021-07-22 17:24:43 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 17:24:43 INFO  Executor:208 - =============
+2021-07-22 17:24:43 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 17:24:43 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 17:26:27 INFO  Executor:156 - =======================================
+2021-07-22 17:26:27 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 17:26:27 INFO  Executor:158 - =======================================
+2021-07-22 17:26:27 INFO  Executor:159 - 13213
+2021-07-22 17:26:27 INFO  Executor:160 - =============
+2021-07-22 17:26:28 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 17:26:28 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 17:26:28 INFO  Executor:168 - ================
+2021-07-22 17:26:28 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 17:26:28 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 17:26:28 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 17:26:28 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 17:26:28 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 17:26:28 INFO  Executor:186 - 
+
+
+
+2021-07-22 17:26:28 INFO  Executor:187 - =======================================
+2021-07-22 17:26:28 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 17:26:28 INFO  Executor:189 - =======================================
+2021-07-22 17:27:00 INFO  Executor:156 - =======================================
+2021-07-22 17:27:00 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 17:27:00 INFO  Executor:158 - =======================================
+2021-07-22 17:27:00 INFO  Executor:159 - 13213
+2021-07-22 17:27:00 INFO  Executor:160 - =============
+2021-07-22 17:27:00 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 17:27:00 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 17:27:00 INFO  Executor:168 - ================
+2021-07-22 17:27:00 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 17:27:00 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 17:27:00 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 17:27:00 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 17:27:00 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 17:27:00 INFO  Executor:186 - 
+
+
+
+2021-07-22 17:27:00 INFO  Executor:187 - =======================================
+2021-07-22 17:27:00 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 17:27:00 INFO  Executor:189 - =======================================
+2021-07-22 17:27:00 INFO  Executor:206 - =============
+2021-07-22 17:27:00 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 17:27:00 INFO  Executor:208 - =============
+2021-07-22 17:27:00 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 17:27:00 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 19:08:05 INFO  Executor:156 - =======================================
+2021-07-22 19:08:05 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:08:05 INFO  Executor:158 - =======================================
+2021-07-22 19:08:05 INFO  Executor:159 - 13213
+2021-07-22 19:08:05 INFO  Executor:160 - =============
+2021-07-22 19:08:05 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:08:05 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:08:05 INFO  Executor:168 - ================
+2021-07-22 19:08:05 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:08:05 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:08:05 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:08:05 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:08:05 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:08:05 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:08:05 INFO  Executor:187 - =======================================
+2021-07-22 19:08:06 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:08:06 INFO  Executor:189 - =======================================
+2021-07-22 19:08:06 INFO  Executor:206 - =============
+2021-07-22 19:08:06 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:08:06 INFO  Executor:208 - =============
+2021-07-22 19:08:06 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:08:06 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:08:59 INFO  Executor:156 - =======================================
+2021-07-22 19:08:59 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:08:59 INFO  Executor:158 - =======================================
+2021-07-22 19:08:59 INFO  Executor:159 - 13213
+2021-07-22 19:08:59 INFO  Executor:160 - =============
+2021-07-22 19:08:59 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:08:59 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:08:59 INFO  Executor:168 - ================
+2021-07-22 19:08:59 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:08:59 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:09:00 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:09:00 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:09:00 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:09:00 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:09:00 INFO  Executor:187 - =======================================
+2021-07-22 19:09:00 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:09:00 INFO  Executor:189 - =======================================
+2021-07-22 19:09:00 INFO  Executor:206 - =============
+2021-07-22 19:09:00 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:09:00 INFO  Executor:208 - =============
+2021-07-22 19:09:00 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:09:00 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:09:00 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:09:00 INFO  JsonExec:28 - Convertation to string encountered some problems!
+2021-07-22 19:09:00 INFO  Executor:218 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-22 19:09:00 INFO  Executor:219 - {"salary":3000,"age":46,"sex":"m"}
+2021-07-22 19:09:00 INFO  Executor:220 - 
+2021-07-22 19:10:20 INFO  Executor:156 - =======================================
+2021-07-22 19:10:20 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:10:20 INFO  Executor:158 - =======================================
+2021-07-22 19:10:20 INFO  Executor:159 - 13213
+2021-07-22 19:10:20 INFO  Executor:160 - =============
+2021-07-22 19:10:20 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:10:20 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:10:20 INFO  Executor:168 - ================
+2021-07-22 19:10:20 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:10:20 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:10:20 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:10:20 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:10:20 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:10:20 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:10:20 INFO  Executor:187 - =======================================
+2021-07-22 19:10:20 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:10:20 INFO  Executor:189 - =======================================
+2021-07-22 19:10:20 INFO  Executor:206 - =============
+2021-07-22 19:10:20 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:10:20 INFO  Executor:208 - =============
+2021-07-22 19:10:20 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:10:20 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:10:20 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:10:20 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:10:20 INFO  Executor:218 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-22 19:10:20 INFO  Executor:219 - {"salary":3000,"age":46,"sex":"m"}
+2021-07-22 19:10:20 INFO  Executor:220 - {"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}
+2021-07-22 19:10:49 INFO  Executor:156 - =======================================
+2021-07-22 19:10:49 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:10:49 INFO  Executor:158 - =======================================
+2021-07-22 19:10:49 INFO  Executor:159 - 13213
+2021-07-22 19:10:49 INFO  Executor:160 - =============
+2021-07-22 19:10:50 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:10:50 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:10:50 INFO  Executor:168 - ================
+2021-07-22 19:10:50 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:10:50 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:10:50 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:10:50 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:10:50 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:10:50 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:10:50 INFO  Executor:187 - =======================================
+2021-07-22 19:10:50 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:10:50 INFO  Executor:189 - =======================================
+2021-07-22 19:10:50 INFO  Executor:206 - =============
+2021-07-22 19:10:50 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:10:50 INFO  Executor:208 - =============
+2021-07-22 19:10:50 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:10:50 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:10:50 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:10:50 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:10:50 INFO  Executor:218 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-22 19:10:50 INFO  Executor:219 - {"salary":3000,"age":46,"sex":"m","status":"boss","power":"power"}
+2021-07-22 19:10:50 INFO  Executor:220 - {"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}
+2021-07-22 19:11:19 INFO  Executor:156 - =======================================
+2021-07-22 19:11:19 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:11:19 INFO  Executor:158 - =======================================
+2021-07-22 19:11:19 INFO  Executor:159 - 13213
+2021-07-22 19:11:19 INFO  Executor:160 - =============
+2021-07-22 19:11:19 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:11:19 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:11:19 INFO  Executor:168 - ================
+2021-07-22 19:11:19 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:11:19 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:11:19 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:11:19 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:11:19 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:12:32 INFO  Executor:156 - =======================================
+2021-07-22 19:12:32 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:12:32 INFO  Executor:158 - =======================================
+2021-07-22 19:12:32 INFO  Executor:159 - 13213
+2021-07-22 19:12:32 INFO  Executor:160 - =============
+2021-07-22 19:12:33 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:12:33 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:12:33 INFO  Executor:168 - ================
+2021-07-22 19:12:33 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:12:33 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:12:33 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:12:33 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:12:33 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:12:33 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:12:33 INFO  Executor:187 - =======================================
+2021-07-22 19:12:33 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:12:33 INFO  Executor:189 - =======================================
+2021-07-22 19:12:33 INFO  Executor:206 - =============
+2021-07-22 19:12:33 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:12:33 INFO  Executor:208 - =============
+2021-07-22 19:12:33 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:12:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:12:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:12:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:12:33 INFO  Executor:218 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-22 19:12:33 INFO  Executor:219 - {"salary":3000,"age":46,"sex":"m","status":"boss","power":"power"}
+2021-07-22 19:12:33 INFO  Executor:220 - {"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}
+2021-07-22 19:12:33 INFO  Executor:222 - ================================================================
+2021-07-22 19:12:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:12:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:12:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:12:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:13:20 INFO  Executor:156 - =======================================
+2021-07-22 19:13:20 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:13:20 INFO  Executor:158 - =======================================
+2021-07-22 19:13:20 INFO  Executor:159 - 13213
+2021-07-22 19:13:20 INFO  Executor:160 - =============
+2021-07-22 19:13:20 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:13:20 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:13:20 INFO  Executor:168 - ================
+2021-07-22 19:13:20 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:13:20 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:13:20 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:13:20 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:13:20 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:13:20 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:13:20 INFO  Executor:187 - =======================================
+2021-07-22 19:13:20 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:13:20 INFO  Executor:189 - =======================================
+2021-07-22 19:13:20 INFO  Executor:206 - =============
+2021-07-22 19:13:20 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:13:20 INFO  Executor:208 - =============
+2021-07-22 19:13:20 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:13:20 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:13:20 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:13:20 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:13:20 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:13:20 INFO  Executor:219 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-22 19:13:20 INFO  Executor:220 - {"salary":3000,"age":46,"sex":"m","status":"boss","power":"power"}
+2021-07-22 19:13:20 INFO  Executor:221 - {"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}
+2021-07-22 19:13:20 INFO  Executor:223 - ================================================================
+2021-07-22 19:13:20 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:13:20 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:13:20 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:13:20 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:13:38 INFO  Executor:156 - =======================================
+2021-07-22 19:13:38 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:13:38 INFO  Executor:158 - =======================================
+2021-07-22 19:13:38 INFO  Executor:159 - 13213
+2021-07-22 19:13:38 INFO  Executor:160 - =============
+2021-07-22 19:13:38 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:13:38 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:13:38 INFO  Executor:168 - ================
+2021-07-22 19:13:38 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:13:38 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:13:39 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:13:39 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:13:39 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:13:39 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:13:39 INFO  Executor:187 - =======================================
+2021-07-22 19:13:39 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:13:39 INFO  Executor:189 - =======================================
+2021-07-22 19:13:39 INFO  Executor:206 - =============
+2021-07-22 19:13:39 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:13:39 INFO  Executor:208 - =============
+2021-07-22 19:13:39 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:13:39 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:13:39 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:13:39 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:13:39 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:13:39 INFO  Executor:219 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-22 19:13:39 INFO  Executor:220 - {"salary":3000,"age":46,"sex":"m","status":"boss","power":"power"}
+2021-07-22 19:13:39 INFO  Executor:221 - {"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}
+2021-07-22 19:13:39 INFO  Executor:222 - [{"salary":2000,"age":26,"sex":"f","status":"employee"},{"salary":3000,"age":46,"sex":"m","status":"boss","power":"power"},{"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}]
+2021-07-22 19:13:39 INFO  Executor:224 - ================================================================
+2021-07-22 19:13:39 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:13:39 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:13:39 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:13:39 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:17:32 INFO  Executor:156 - =======================================
+2021-07-22 19:17:32 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:17:32 INFO  Executor:158 - =======================================
+2021-07-22 19:17:32 INFO  Executor:159 - 13213
+2021-07-22 19:17:32 INFO  Executor:160 - =============
+2021-07-22 19:17:33 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:17:33 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:17:33 INFO  Executor:168 - ================
+2021-07-22 19:17:33 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:17:33 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:17:33 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:17:33 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:17:33 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:17:33 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:17:33 INFO  Executor:187 - =======================================
+2021-07-22 19:17:33 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:17:33 INFO  Executor:189 - =======================================
+2021-07-22 19:17:33 INFO  Executor:206 - =============
+2021-07-22 19:17:33 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:17:33 INFO  Executor:208 - =============
+2021-07-22 19:17:33 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:17:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:17:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:17:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:17:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:17:33 INFO  Executor:219 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-22 19:17:33 INFO  Executor:220 - {"salary":3000,"age":46,"sex":"m","status":"boss","power":"power"}
+2021-07-22 19:17:33 INFO  Executor:221 - {"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}
+2021-07-22 19:17:33 INFO  Executor:222 - [{"salary":2000,"age":26,"sex":"f","status":"employee"},{"salary":3000,"age":46,"sex":"m","status":"boss","power":"power"},{"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}]
+2021-07-22 19:17:33 INFO  Executor:224 - ================================================================
+2021-07-22 19:17:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:17:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:17:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:17:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:33:41 INFO  Executor:156 - =======================================
+2021-07-22 19:33:41 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:33:41 INFO  Executor:158 - =======================================
+2021-07-22 19:33:41 INFO  Executor:159 - 13213
+2021-07-22 19:33:41 INFO  Executor:160 - =============
+2021-07-22 19:33:41 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:33:41 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:33:41 INFO  Executor:168 - ================
+2021-07-22 19:33:41 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:33:41 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:33:42 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:33:42 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:33:42 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:33:42 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:33:42 INFO  Executor:187 - =======================================
+2021-07-22 19:33:42 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:33:42 INFO  Executor:189 - =======================================
+2021-07-22 19:33:42 INFO  Executor:206 - =============
+2021-07-22 19:33:42 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:33:42 INFO  Executor:208 - =============
+2021-07-22 19:33:42 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:33:42 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:33:42 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:33:42 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:33:42 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:33:42 INFO  Executor:219 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-22 19:33:42 INFO  Executor:220 - {"salary":3000,"age":46,"sex":"m","status":"boss"}
+2021-07-22 19:33:42 INFO  Executor:221 - {"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}
+2021-07-22 19:33:42 INFO  Executor:222 - [{"salary":2000,"age":26,"sex":"f","status":"employee"},{"salary":3000,"age":46,"sex":"m","status":"boss"},{"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}]
+2021-07-22 19:33:42 INFO  Executor:224 - ================================================================
+2021-07-22 19:33:42 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:33:42 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:33:42 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:33:42 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:33:42 INFO  JsonExec:58 - Convertation to POJO finished!
+2021-07-22 19:33:42 INFO  JsonExec:73 - Convertation to POJO finished!
+2021-07-22 19:33:42 INFO  JsonExec:88 - Convertation to POJO finished!
+2021-07-22 19:33:42 INFO  JsonExec:88 - Convertation to POJO finished!
+2021-07-22 19:33:42 INFO  Executor:241 - I am a(an)_ employee
+I am_  27  _years old
+My sex is_ trans
+My salary is_ 2500
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:33:42 INFO  Executor:242 - I am a(an)_ boss
+I am_  37  _years old
+My sex is_ f
+My salary is_ 3500
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!
+2021-07-22 19:33:42 INFO  Executor:243 - I am a(an)_ expirienced applicant
+I am_  15  _years old
+My sex is_ m
+My salary is_ 1700
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!
+2021-07-22 19:33:42 INFO  Executor:244 - I am a(an)_ expirienced applicant
+I am_  15  _years old
+My sex is_ m
+My salary is_ 1700
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!
