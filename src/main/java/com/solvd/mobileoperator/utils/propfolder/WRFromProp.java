@@ -1,4 +1,4 @@
-package com.solvd.mobileoperator.utils;
+package com.solvd.mobileoperator.utils.propfolder;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

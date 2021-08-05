@@ -1,10 +1,10 @@
 package com.solvd.mobileoperator.staff;
 
 public class ExpiriencedApplicant extends Unemployed implements Staff {
-	
-	public int salary;
+
 	public int age; 
 	public String sex; 
+	public int salary;
 	public String status = "expirienced applicant"; 
 		
 	public ExpiriencedApplicant() {
@@ -125,18 +125,43 @@ public class ExpiriencedApplicant extends Unemployed implements Staff {
 	} 
 		
 	@Override
-	public void setSex(String sex) {
-		this.sex = sex;	
+	public void setAge(int ageArg) {
+		age = ageArg;	
 	}
 	
 	@Override
-	public void setAge(int age) {
-		this.age = age;	
+	public void setSex(String sexArg) {
+		sex = sexArg;	
+	}
+		
+	@Override
+	public void setSalary(int salaryArg) {
+		salary = salaryArg;	
 	}
 	
 	@Override
-	public void setSalary(int salary) {
-		this.salary = salary;	
+	public void setStatus(String statusArg) {
+		status = statusArg;	
+	}
+	
+	@Override
+	public int getAge() {
+		return age;
+	}
+	
+	@Override
+	public String getSex() {
+		return sex;
+	}
+	
+	@Override
+	public int getSalary() {
+		return salary;
+	}
+	
+	@Override
+	public String getStatus() {
+		return status;
 	}
 	
 	@Override

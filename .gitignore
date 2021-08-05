@@ -8,3 +8,4 @@ module-info.java
 target/*
 mobile_outputfile
 second_outputfile
+/target/

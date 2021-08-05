@@ -3197,3 +3197,396 @@ My salary is_ 1700
 I can aquire new skills!
 I can work 8 hours every day!
 I'm looking for job!
+2021-07-22 19:47:40 INFO  Executor:156 - =======================================
+2021-07-22 19:47:40 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:47:40 INFO  Executor:158 - =======================================
+2021-07-22 19:47:40 INFO  Executor:159 - 13213
+2021-07-22 19:47:40 INFO  Executor:160 - =============
+2021-07-22 19:47:40 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:47:40 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:47:40 INFO  Executor:168 - ================
+2021-07-22 19:47:40 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:47:40 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:47:40 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:47:40 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:47:40 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:47:40 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:47:40 INFO  Executor:187 - =======================================
+2021-07-22 19:47:40 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:47:40 INFO  Executor:189 - =======================================
+2021-07-22 19:47:40 INFO  Executor:206 - =============
+2021-07-22 19:47:40 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:47:40 INFO  Executor:208 - =============
+2021-07-22 19:47:40 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:47:40 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:47:40 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:47:40 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:47:40 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:47:40 INFO  Executor:219 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-22 19:47:40 INFO  Executor:220 - {"salary":3000,"age":46,"sex":"m","status":"boss"}
+2021-07-22 19:47:40 INFO  Executor:221 - {"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}
+2021-07-22 19:47:40 INFO  Executor:222 - [{"salary":2000,"age":26,"sex":"f","status":"employee"},{"salary":3000,"age":46,"sex":"m","status":"boss"},{"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}]
+2021-07-22 19:47:40 INFO  Executor:224 - ================================================================
+2021-07-22 19:47:40 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:47:40 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:47:40 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:47:40 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:47:40 INFO  JsonExec:58 - Convertation to POJO finished!
+2021-07-22 19:47:40 INFO  JsonExec:73 - Convertation to POJO finished!
+2021-07-22 19:47:40 INFO  JsonExec:88 - Convertation to POJO finished!
+2021-07-22 19:47:40 INFO  JsonExec:91 - Convertation to POJO encountered some problems!
+2021-07-22 19:47:40 INFO  Executor:241 - I am a(an)_ employee
+I am_  27  _years old
+My sex is_ trans
+My salary is_ 2500
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:47:40 INFO  Executor:242 - I am a(an)_ boss
+I am_  37  _years old
+My sex is_ f
+My salary is_ 3500
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!
+2021-07-22 19:47:40 INFO  Executor:243 - I am a(an)_ expirienced applicant
+I am_  15  _years old
+My sex is_ m
+My salary is_ 1700
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!
+2021-07-22 19:47:40 INFO  Executor:244 - 
+2021-07-22 19:48:33 INFO  Executor:156 - =======================================
+2021-07-22 19:48:33 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-22 19:48:33 INFO  Executor:158 - =======================================
+2021-07-22 19:48:33 INFO  Executor:159 - 13213
+2021-07-22 19:48:33 INFO  Executor:160 - =============
+2021-07-22 19:48:33 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-22 19:48:33 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-22 19:48:33 INFO  Executor:168 - ================
+2021-07-22 19:48:33 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:48:33 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-22 19:48:33 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-22 19:48:33 INFO  Executor:178 - Name from POJO: Jack
+2021-07-22 19:48:33 INFO  Executor:179 - Name place from POJO: North America
+2021-07-22 19:48:33 INFO  Executor:186 - 
+
+
+
+2021-07-22 19:48:33 INFO  Executor:187 - =======================================
+2021-07-22 19:48:33 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-22 19:48:33 INFO  Executor:189 - =======================================
+2021-07-22 19:48:33 INFO  Executor:206 - =============
+2021-07-22 19:48:33 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:48:33 INFO  Executor:208 - =============
+2021-07-22 19:48:33 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-22 19:48:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:48:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:48:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:48:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-22 19:48:33 INFO  Executor:219 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-22 19:48:33 INFO  Executor:220 - {"salary":3000,"age":46,"sex":"m","status":"boss"}
+2021-07-22 19:48:33 INFO  Executor:221 - {"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}
+2021-07-22 19:48:33 INFO  Executor:222 - [{"salary":2000,"age":26,"sex":"f","status":"employee"},{"salary":3000,"age":46,"sex":"m","status":"boss"},{"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}]
+2021-07-22 19:48:33 INFO  Executor:224 - ================================================================
+2021-07-22 19:48:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:48:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:48:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:48:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-22 19:48:33 INFO  JsonExec:58 - Convertation to POJO finished!
+2021-07-22 19:48:33 INFO  JsonExec:73 - Convertation to POJO finished!
+2021-07-22 19:48:33 INFO  JsonExec:88 - Convertation to POJO finished!
+2021-07-22 19:48:33 INFO  JsonExec:107 - Convertation to POJO encountered some problems!
+2021-07-22 19:48:33 INFO  Executor:241 - I am a(an)_ employee
+I am_  27  _years old
+My sex is_ trans
+My salary is_ 2500
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-22 19:48:33 INFO  Executor:242 - I am a(an)_ boss
+I am_  37  _years old
+My sex is_ f
+My salary is_ 3500
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!
+2021-07-22 19:48:33 INFO  Executor:243 - I am a(an)_ expirienced applicant
+I am_  15  _years old
+My sex is_ m
+My salary is_ 1700
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!
+2021-07-22 19:48:33 INFO  Executor:244 - 
+2021-07-24 17:22:32 INFO  Executor:156 - =======================================
+2021-07-24 17:22:32 INFO  Executor:157 - ======showJsonTestCodeAnimal()========
+2021-07-24 17:22:32 INFO  Executor:158 - =======================================
+2021-07-24 17:22:32 INFO  Executor:159 - 13213
+2021-07-24 17:22:32 INFO  Executor:160 - =============
+2021-07-24 17:22:33 INFO  JsonExecAnimal:24 - convert to string, finished!
+2021-07-24 17:22:33 INFO  Executor:167 - {"name":"Rex_Rexie","id":13213,"place":{"title":"Worldd"}}
+2021-07-24 17:22:33 INFO  Executor:168 - ================
+2021-07-24 17:22:33 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-24 17:22:33 INFO  JsonExecAnimal:39 - write to file, finished!
+2021-07-24 17:22:33 INFO  JsonExecAnimal:58 - convert to POJO, finished!
+2021-07-24 17:22:33 INFO  Executor:178 - Name from POJO: Jack
+2021-07-24 17:22:33 INFO  Executor:179 - Name place from POJO: North America
+2021-07-24 17:22:33 INFO  Executor:186 - 
+
+
+
+2021-07-24 17:22:33 INFO  Executor:187 - =======================================
+2021-07-24 17:22:33 INFO  Executor:188 - ======showJsonTestCodeStaff()========
+2021-07-24 17:22:33 INFO  Executor:189 - =======================================
+2021-07-24 17:22:33 INFO  Executor:206 - =============
+2021-07-24 17:22:33 INFO  Executor:207 - 
+I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-24 17:22:33 INFO  Executor:208 - =============
+2021-07-24 17:22:33 INFO  Executor:209 - 
+[I am a(an)_ employee
+I am_  26  _years old
+My sex is_ f
+My salary is_ 2000
+I can aquire new skills!
+I can work 8 hours every day!, I am a(an)_ boss
+I am_  46  _years old
+My sex is_ m
+My salary is_ 3000
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!, I am a(an)_ expirienced applicant
+I am_  16  _years old
+My sex is_ trans
+My salary is_ 1500
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!]
+2021-07-24 17:22:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-24 17:22:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-24 17:22:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-24 17:22:33 INFO  JsonExec:24 - Convertation to string finished!
+2021-07-24 17:22:33 INFO  Executor:219 - {"salary":2000,"age":26,"sex":"f","status":"employee"}
+2021-07-24 17:22:33 INFO  Executor:220 - {"salary":3000,"age":46,"sex":"m","status":"boss"}
+2021-07-24 17:22:33 INFO  Executor:221 - {"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}
+2021-07-24 17:22:33 INFO  Executor:222 - [{"salary":2000,"age":26,"sex":"f","status":"employee"},{"salary":3000,"age":46,"sex":"m","status":"boss"},{"salary":1500,"age":16,"sex":"trans","status":"expirienced applicant"}]
+2021-07-24 17:22:33 INFO  Executor:224 - ================================================================
+2021-07-24 17:22:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-24 17:22:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-24 17:22:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-24 17:22:33 INFO  JsonExec:39 - Writing to file finished!
+2021-07-24 17:22:33 INFO  JsonExec:58 - Convertation to POJO finished!
+2021-07-24 17:22:33 INFO  JsonExec:73 - Convertation to POJO finished!
+2021-07-24 17:22:33 INFO  JsonExec:88 - Convertation to POJO finished!
+2021-07-24 17:22:33 INFO  JsonExec:107 - Convertation to POJO encountered some problems!
+2021-07-24 17:22:33 INFO  Executor:241 - I am a(an)_ employee
+I am_  27  _years old
+My sex is_ trans
+My salary is_ 2500
+I can aquire new skills!
+I can work 8 hours every day!
+2021-07-24 17:22:33 INFO  Executor:242 - I am a(an)_ boss
+I am_  37  _years old
+My sex is_ f
+My salary is_ 3500
+I can aquire a lot of new skills!
+I can work 16 hours every day!
+I can hire people!
+I can fire out people!
+2021-07-24 17:22:33 INFO  Executor:243 - I am a(an)_ expirienced applicant
+I am_  15  _years old
+My sex is_ m
+My salary is_ 1700
+I can aquire new skills!
+I can work 8 hours every day!
+I'm looking for job!
+2021-07-24 17:22:33 INFO  Executor:244 - 
+2021-08-02 20:32:21 INFO  Executor:113 - user5
+2021-08-02 20:32:21 INFO  Executor:115 - Alligator5
+2021-08-02 20:32:21 INFO  Executor:117 - 55
+2021-08-02 20:32:22 INFO  Executor:131 - user2
+2021-08-02 20:32:22 INFO  Executor:133 - Alligator2
+2021-08-02 20:32:22 INFO  Executor:135 - 22
+2021-08-02 20:32:22 INFO  Executor:139 - user3
+2021-08-02 20:32:22 INFO  Executor:141 - Alligator3
+2021-08-02 20:32:22 INFO  Executor:143 - 
+2021-08-02 20:32:22 INFO  Executor:147 - user4
+2021-08-02 20:32:22 INFO  Executor:149 - 
+2021-08-02 20:32:22 INFO  Executor:151 - 
+2021-08-02 20:32:22 INFO  Executor:155 - user5
+2021-08-02 20:32:22 INFO  Executor:157 - Alligator5
+2021-08-02 20:32:22 INFO  Executor:159 - 55
+2021-08-02 20:46:01 INFO  Executor:113 - user5
+2021-08-02 20:46:01 INFO  Executor:115 - Alligator5
+2021-08-02 20:46:01 INFO  Executor:117 - 55
+2021-08-02 20:46:01 INFO  Executor:131 - user2
+2021-08-02 20:46:01 INFO  Executor:133 - Alligator2
+2021-08-02 20:46:01 INFO  Executor:135 - 22
+2021-08-02 20:46:01 INFO  Executor:139 - user3
+2021-08-02 20:46:01 INFO  Executor:141 - Alligator3
+2021-08-02 20:46:01 INFO  Executor:143 - 
+2021-08-02 20:46:01 INFO  Executor:147 - user4
+2021-08-02 20:46:01 INFO  Executor:149 - 
+2021-08-02 20:46:01 INFO  Executor:151 - 
+2021-08-02 20:46:01 INFO  Executor:155 - user5
+2021-08-02 20:46:01 INFO  Executor:157 - Alligator5
+2021-08-02 20:46:01 INFO  Executor:159 - 55
+2021-08-03 21:15:07 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:08:37 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:10:02 INFO  Executor:67 - Chrome driver has been finished successfully
+2021-08-04 02:12:57 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:13:41 INFO  Executor:69 - Chrome driver has been finished successfully
+2021-08-04 02:16:46 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:18:39 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:19:47 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:21:59 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:23:19 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:24:01 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:26:20 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:27:46 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:29:48 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:31:32 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:35:59 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:37:28 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:38:53 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:44:23 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:47:58 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:50:50 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:51:53 INFO  Executor:77 - Chrome driver has been finished successfully
+2021-08-04 02:54:17 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:58:57 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 02:59:29 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 03:00:38 INFO  Executor:72 - Chrome driver has been finished successfully
+2021-08-04 03:02:02 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 03:09:32 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 03:12:24 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 03:13:28 INFO  Executor:70 - Chrome driver has been finished successfully
+2021-08-04 03:14:56 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 03:15:51 INFO  Executor:76 - Chrome driver has been launched successfully
+2021-08-04 03:19:05 INFO  Executor:76 - Firefox driver has been launched successfully
+2021-08-04 03:21:29 INFO  Executor:76 - Firefox driver has been launched successfully
+2021-08-04 03:22:54 INFO  Executor:96 - Edge driver has been launched successfully
+2021-08-04 03:25:05 INFO  Executor:96 - Edge driver has been launched successfully
+2021-08-04 03:26:34 INFO  Executor:111 - Edge driver has been finished successfully
+2021-08-04 03:29:55 INFO  Executor:117 - IE driver has been launched successfully
+2021-08-04 03:30:29 INFO  Executor:117 - IE driver has been launched successfully
+2021-08-04 14:23:02 INFO  Executor:21 - Chrome driver has been launched successfully
+2021-08-04 14:24:54 INFO  Executor:70 - Chrome driver has been finished successfully
+2021-08-05 15:12:43 INFO  Executor:81 - The Select 1 function has been launched.
+2021-08-05 15:12:43 INFO  Executor:20 - Connection to PostgreSQL started.
+2021-08-05 15:12:47 INFO  Executor:24 - Connection to PostgreSQL occured successfully.
+2021-08-05 15:12:47 INFO  Executor:30 - Connection to PostgreSQL finished.
+2021-08-05 15:12:47 INFO  Executor:91 - 1, 34, f, 1000, employee
+2021-08-05 15:12:47 INFO  Executor:91 - 2, 34, f, 1500, employee
+2021-08-05 15:12:47 INFO  Executor:91 - 3, 29, m, 2500, boss
+2021-08-05 15:12:47 INFO  Executor:91 - 4, 19, trans, 1000, expiriencedApplicant
+2021-08-05 15:12:47 INFO  Executor:91 - 5, 34, f, 1500, employee
+2021-08-05 15:12:47 INFO  Executor:91 - 6, 29, m, 2500, boss
+2021-08-05 15:12:47 INFO  Executor:91 - 7, 19, trans, 1000, expiriencedApplicant
+2021-08-05 15:12:47 INFO  Executor:91 - 8, 34, f, 1500, employee
+2021-08-05 15:12:47 INFO  Executor:91 - 9, 29, m, 2500, boss
+2021-08-05 15:12:47 INFO  Executor:91 - 10, 19, trans, 1000, expiriencedApplicant
+2021-08-05 15:12:47 INFO  Executor:91 - 11, 34, f, 1500, employee
+2021-08-05 15:12:47 INFO  Executor:91 - 12, 29, m, 2500, boss
+2021-08-05 15:12:47 INFO  Executor:91 - 13, 19, trans, 1000, expiriencedApplicant
+2021-08-05 15:12:47 INFO  Executor:91 - 14, 34, f, 1500, employee
+2021-08-05 15:12:47 INFO  Executor:91 - 15, 29, m, 2500, boss
+2021-08-05 15:12:47 INFO  Executor:91 - 16, 19, trans, 1000, expiriencedApplicant
+2021-08-05 15:12:47 INFO  Executor:91 - 17, 45, m, 3500, boss
+2021-08-05 15:12:47 INFO  Executor:93 - Data have been selected.
+2021-08-05 15:12:47 INFO  Executor:98 - The Select 1 function has been finished.
+2021-08-05 15:12:47 INFO  Executor:109 - The Select 2 function has been launched.
+2021-08-05 15:12:47 INFO  Executor:20 - Connection to PostgreSQL started.
+2021-08-05 15:12:47 INFO  Executor:24 - Connection to PostgreSQL occured successfully.
+2021-08-05 15:12:47 INFO  Executor:30 - Connection to PostgreSQL finished.
+2021-08-05 15:12:47 INFO  Executor:122 - A new row has been inserted.
+2021-08-05 15:12:47 INFO  Executor:127 - The Select 2 function has been finished.
+2021-08-05 15:14:12 INFO  Executor:81 - The Select 1 function has been launched.
+2021-08-05 15:14:12 INFO  Executor:20 - Connection to PostgreSQL started.
+2021-08-05 15:14:16 INFO  Executor:24 - Connection to PostgreSQL occured successfully.
+2021-08-05 15:14:16 INFO  Executor:30 - Connection to PostgreSQL finished.
+2021-08-05 15:14:16 INFO  Executor:91 - 1, 34, f, 1000, employee
+2021-08-05 15:14:16 INFO  Executor:91 - 2, 34, f, 1500, employee
+2021-08-05 15:14:16 INFO  Executor:91 - 3, 29, m, 2500, boss
+2021-08-05 15:14:16 INFO  Executor:91 - 4, 19, trans, 1000, expiriencedApplicant
+2021-08-05 15:14:16 INFO  Executor:91 - 5, 34, f, 1500, employee
+2021-08-05 15:14:16 INFO  Executor:91 - 6, 29, m, 2500, boss
+2021-08-05 15:14:16 INFO  Executor:91 - 7, 19, trans, 1000, expiriencedApplicant
+2021-08-05 15:14:16 INFO  Executor:91 - 8, 34, f, 1500, employee
+2021-08-05 15:14:16 INFO  Executor:91 - 9, 29, m, 2500, boss
+2021-08-05 15:14:17 INFO  Executor:91 - 10, 19, trans, 1000, expiriencedApplicant
+2021-08-05 15:14:17 INFO  Executor:91 - 11, 34, f, 1500, employee
+2021-08-05 15:14:17 INFO  Executor:91 - 12, 29, m, 2500, boss
+2021-08-05 15:14:17 INFO  Executor:91 - 13, 19, trans, 1000, expiriencedApplicant
+2021-08-05 15:14:17 INFO  Executor:91 - 14, 34, f, 1500, employee
+2021-08-05 15:14:17 INFO  Executor:91 - 15, 29, m, 2500, boss
+2021-08-05 15:14:17 INFO  Executor:91 - 16, 19, trans, 1000, expiriencedApplicant
+2021-08-05 15:14:17 INFO  Executor:91 - 17, 45, m, 3500, boss
+2021-08-05 15:14:17 INFO  Executor:93 - Data have been selected.
+2021-08-05 15:14:17 INFO  Executor:98 - The Select 1 function has been finished.
+2021-08-05 15:14:17 INFO  Executor:109 - The Select 2 function has been launched.
+2021-08-05 15:14:17 INFO  Executor:20 - Connection to PostgreSQL started.
+2021-08-05 15:14:17 INFO  Executor:24 - Connection to PostgreSQL occured successfully.
+2021-08-05 15:14:17 INFO  Executor:30 - Connection to PostgreSQL finished.
+2021-08-05 15:14:17 INFO  Executor:122 - A new row has been inserted.
+2021-08-05 15:14:17 INFO  Executor:127 - The Select 2 function has been finished.

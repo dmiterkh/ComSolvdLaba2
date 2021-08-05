@@ -1,56 +1,39 @@
 package com.solvd.mobileoperator.menu;
 
-import com.solvd.mobileoperator.staff.Employee;               // Initial Interface Trainee, Extension, Implementation: 
+import com.solvd.mobileoperator.staff.Employee;                
 import com.solvd.mobileoperator.staff.Boss;         		 
-import com.solvd.mobileoperator.staff.ExpiriencedApplicant;   // Class ExpiriencedApplicant extends Abstract Class Unemployed and implements Interface Staff
-   
-import com.solvd.mobileoperator.storage.Colleague;            // Polymorphizm: Interface Staff Ar, Li, HS, HM
-import com.solvd.mobileoperator.storage.ColleagueAr;
-import com.solvd.mobileoperator.storage.ColleagueColl;
+import com.solvd.mobileoperator.staff.ExpiriencedApplicant;   
 import com.solvd.mobileoperator.staff.Staff; 
-import com.solvd.mobileoperator.comparator.StatusCompare;            // Polymorphizm: Interface Staff 
-import com.solvd.mobileoperator.comparator.SexCompare;
+import com.solvd.mobileoperator.storage.ColleagueAr;
 
-import com.solvd.mobileoperator.exception.EntryCheck;
-import com.solvd.mobileoperator.exception.EntryIsEmptyException;
-import com.solvd.mobileoperator.exception.EntryIsNegativeIntegerException;
-import com.solvd.mobileoperator.exception.EntryIsNotAnIntegerException;
-import com.solvd.mobileoperator.exception.EntryIsNotANumberException;
-import com.solvd.mobileoperator.exception.ListCheck;
-import com.solvd.mobileoperator.exception.ListIsEmptyException;
-import com.solvd.mobileoperator.exception.ListIsNullException;
-import com.solvd.mobileoperator.executor.Executor;
+//import com.solvd.mobileoperator.exception.EntryCheck;
+//import com.solvd.mobileoperator.exception.EntryIsEmptyException;
+//import com.solvd.mobileoperator.exception.EntryIsNegativeIntegerException;
+//import com.solvd.mobileoperator.exception.EntryIsNotAnIntegerException;
+//import com.solvd.mobileoperator.exception.EntryIsNotANumberException;
+//import com.solvd.mobileoperator.exception.ListCheck;
+//import com.solvd.mobileoperator.exception.ListIsEmptyException;
+//import com.solvd.mobileoperator.exception.ListIsNullException;
+//import com.solvd.mobileoperator.executor.Executor;
 
 import java.util.*; // Scanner, Arrays, List(etc), Set(etc), Map (etc), Collection, Collections, Comparator, Iterator, ListIterator  
-
-import org.apache.log4j.Logger;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.PrintWriter;
-
-import com.solvd.mobileoperator.utils.WRFromProp;
-import com.solvd.mobileoperator.utils.ColleagueArrayProp;
 import java.io.*;
+import java.io.IOException;
+import java.io.PrintWriter;
+//import java.io.InputStreamReader;
+//import java.io.BufferedReader;
 
-import com.solvd.mobileoperator.utils.JsonExecAnimal;
-import com.solvd.mobileoperator.staff.Animal;
-import com.solvd.mobileoperator.staff.AnimalPlace;
-import java.util.ArrayList;
-import java.util.List;
 import org.apache.log4j.Logger;
+import com.solvd.mobileoperator.executor.Executor;
 
-import com.solvd.mobileoperator.utils.JsonExec;
-import com.fasterxml.jackson.core.JsonGenerator;
+import com.solvd.mobileoperator.utils.propfolder.SecondProperties;
+import com.solvd.mobileoperator.utils.propfolder.ColleagueArrayProperties;
+import com.solvd.mobileoperator.utils.jsonfolder.ColleagueArrayJson;
+import com.solvd.mobileoperator.utils.AnimalJson;
+import com.solvd.mobileoperator.utils.SeleniumWebdriver;
 
-import com.fasterxml.jackson.databind.*;
-import com.fasterxml.jackson.databind.ser.impl.BeanAsArraySerializer;
-import com.fasterxml.jackson.databind.ser.impl.ObjectIdWriter;
-import com.fasterxml.jackson.databind.ser.impl.UnwrappingBeanSerializer;
-import com.fasterxml.jackson.databind.ser.std.BeanSerializerBase;
-import com.fasterxml.jackson.databind.util.NameTransformer;
-import java.lang.Object.*;
+import com.solvd.mobileoperator.database.Connector;
+import com.solvd.mobileoperator.database.ConnectionRaviDao;
 
 public class Menu {
 	
@@ -60,210 +43,51 @@ public class Menu {
 
 	}	 
 	
-	
-	public void showPropertiesTestCode() {	
-	
-		WRFromProp wrhp = new WRFromProp();
-		String valueProp = wrhp.getValueFromProperties("second.properties","login");
-		LOGGER.info(valueProp);
-		String valueProp1 = wrhp.getValueFromProperties("second.properties","password");
-		LOGGER.info(valueProp1);
-		String valueProp2 = wrhp.getValueFromProperties("second.properties","age");
-		LOGGER.info(valueProp2);
+	public void showConnectionRaviDaoFunctions() {	
 		
-		PrintWriter outPutFile;
-		try {
-			outPutFile = new PrintWriter(new FileWriter("src/main/resources/second_outputfile.txt"));
-			outPutFile.println(valueProp + "\n" + valueProp1 + "\n" + valueProp2 + "\n" + "======");
-			outPutFile.close();		
-		} catch (IOException e) {
-			LOGGER.info("An error occurs: file second_outputfile.txt is not found!!!");
-			e.printStackTrace();	
-		}
-		
-		wrhp.setThreeValueToProperties("second.properties","login","user2","password","Alligator2","age","22");
-		valueProp = wrhp.getValueFromProperties("second.properties","login");
-		LOGGER.info(valueProp);
-		valueProp1 = wrhp.getValueFromProperties("second.properties","password");
-		LOGGER.info(valueProp1);
-		valueProp2 = wrhp.getValueFromProperties("second.properties","age");
-		LOGGER.info(valueProp2);
-		
-		wrhp.setTwoValueToProperties("second.properties","login","user3","password","Alligator3");
-		valueProp = wrhp.getValueFromProperties("second.properties","login");
-		LOGGER.info(valueProp);
-		valueProp1 = wrhp.getValueFromProperties("second.properties","password");
-		LOGGER.info(valueProp1);
-		valueProp2 = wrhp.getValueFromProperties("second.properties","age");
-		LOGGER.info(valueProp2);
-		
-		wrhp.setValueToProperties("second.properties","login","user4");
-		valueProp = wrhp.getValueFromProperties("second.properties","login");
-		LOGGER.info(valueProp);
-		valueProp1 = wrhp.getValueFromProperties("second.properties","password");
-		LOGGER.info(valueProp1);	
-		valueProp2 = wrhp.getValueFromProperties("second.properties","age");
-		LOGGER.info(valueProp2);	
-		
-		wrhp.setThreeValueToProperties("second.properties","login","user5","password","Alligator5","age","55");
-		valueProp = wrhp.getValueFromProperties("second.properties","login");
-		LOGGER.info(valueProp);
-		valueProp1 = wrhp.getValueFromProperties("second.properties","password");
-		LOGGER.info(valueProp1);
-		valueProp2 = wrhp.getValueFromProperties("second.properties","age");
-		LOGGER.info(valueProp2);
-			
+		ConnectionRaviDao crd = new ConnectionRaviDao();
+		//crd.functionInsertDao1();
+		//crd.functionInsertDao2();
+		crd.functionSelectDao1();
+		crd.functionSelectDao2();
 	}
 	
 	
-	public void showJsonTestCodeAnimal() {	
-		
-		AnimalPlace place = new AnimalPlace();
-		place.setTitle("Worldd");
-		
-		AnimalPlace place1 = new AnimalPlace();
-		place1.setTitle("Europee");
-		
-		AnimalPlace place2 = new AnimalPlace();
-		place2.setTitle("Asiaa");
-		
-		Animal animal = new Animal();
-		animal.setId(13213);
-		animal.setName("Rex_Rexie");
-		animal.getName();
-		animal.setPlace(place);
-		
-		
-		Animal animal1 = new Animal();
-		animal1.setId(14324);
-		animal1.setName("Rex1_Rexie");
-		animal1.getName();
-		animal1.setPlace(place1);
-		
-		Animal animal2 = new Animal();
-		animal2.setId(15435);
-		animal2.setName("Rex2_Rexie");
-		animal2.getName();
-		animal2.setPlace(place2);
-		
-		
-		
-		List<Animal> animals = new ArrayList<Animal>();
-		
-		animals.add(animal);
-		animals.add(animal1);
-		animals.add(animal2);
-		LOGGER.info("=======================================");
-		LOGGER.info("======showJsonTestCodeAnimal()========");
-		LOGGER.info("=======================================");
-		LOGGER.info(animal.getId());
-		LOGGER.info("=============");
-		
-		
-		JsonExecAnimal jsonAction = new JsonExecAnimal();
-		
-		String jsonSrt = jsonAction.convertJavaToJsonStr(animal);
-		
-		LOGGER.info(jsonSrt);
-		LOGGER.info("================");
-		jsonAction.convertJavaToJsonFile(animal, "src/main/resources/animal.json");
-		
-		jsonAction.convertJavaToJsonFile(animals, "src/main/resources/animals.json");
-		
-		
-		String jsonStr1 = "{\"name\":\"Jack\",\"id\":90987,\"place\":{\"title\":\"North America\"}}";
-		
-		Animal animal4 = jsonAction.convertJsonStrToAnimalPOJO(jsonStr1);
-		
-		LOGGER.info("Name from POJO: " + animal4.getName());
-		LOGGER.info("Name place from POJO: " + animal4.getPlace().getTitle());		
-		
-			
-	}
-		
 	
-	public void showJsonTestCodeStaff() {
-		LOGGER.info("\n\n\n");
-		LOGGER.info("=======================================");
-		LOGGER.info("======showJsonTestCodeStaff()========");
-		LOGGER.info("=======================================");
+	
+	public void showSeleniumDriverFunctions() {	
+	
+		SeleniumWebdriver swd = new SeleniumWebdriver();
+		swd.showSeleniumDriverChrome();
+	}
+	
+	
+	public void showPropertiesFunctions() {	
+		SecondProperties sp = new SecondProperties();
+		sp.showSecondPropertiesTestCode();
 		
-		
-		Employee employee = new Employee(25, "f"); 
-		employee.setInfoAgain(26, "f", 2000, "employee");
-		Boss boss = new Boss(76, "m"); 
-		boss.setInfoAgain(46, "m", 3000, "boss");
-		ExpiriencedApplicant expiriencedApplicant = new ExpiriencedApplicant(56, "trans");
-		expiriencedApplicant.setInfoAgain(16, "trans", 1500, "expirienced applicant");
+		ColleagueArrayProperties cap = new ColleagueArrayProperties();
+		cap.showColleagueArrayPropertiesTestCode();		
+	}
 
+	public void showJsonFunctions() {	
+		AnimalJson aj = new AnimalJson();
+		aj.showAnimalJsonTestCode();
 		
-		List<Staff> staff = new ArrayList<Staff>();
-		
-		staff.add(employee);
-		staff.add(boss);
-		staff.add(expiriencedApplicant);
-				
-		LOGGER.info("=============");
-		LOGGER.info("\n" + employee);
-		LOGGER.info("=============");
-		LOGGER.info("\n" + staff);
-		
-		JsonExec jsonAction = new JsonExec();
-//		JsonExecAnimal jsonAction = new JsonExecAnimal();
-		
-		String jsonSrt = jsonAction.convertJavaToJsonStr(employee);
-		String jsonSrt1 = jsonAction.convertJavaToJsonStr(boss);
-		String jsonSrt2 = jsonAction.convertJavaToJsonStr(expiriencedApplicant);
-		String jsonSrt3 = jsonAction.convertJavaToJsonStr(staff);
-		
-		LOGGER.info(jsonSrt);
-		LOGGER.info(jsonSrt1);
-		LOGGER.info(jsonSrt2);
-		LOGGER.info(jsonSrt3);
-		
-		LOGGER.info("================================================================");
-		
-		jsonAction.convertJavaToJsonFile(employee, "src/main/resources/employee.json");
-		jsonAction.convertJavaToJsonFile(boss, "src/main/resources/boss.json");
-		jsonAction.convertJavaToJsonFile(expiriencedApplicant, "src/main/resources/expiriencedApplicant.json");
-		jsonAction.convertJavaToJsonFile(staff, "src/main/resources/staff.json");
-				
-		String jsonStrEmp = "{\"salary\":2500,\"age\":27,\"sex\":\"trans\",\"status\":\"employee\"}";
-		String jsonStrBos = "{\"salary\":3500,\"age\":37,\"sex\":\"f\",\"status\":\"boss\"}";
-		String jsonStrExp = "{\"salary\":1700,\"age\":15,\"sex\":\"m\",\"status\":\"expirienced applicant\"}";
-		String jsonStrSta = "[{\"salary\":2500,\"age\":26,\"sex\":\"trans\",\"status\":\"employee\"},{\"salary\":3500,\"age\":37,\"sex\":\"f\",\"status\":\"boss\"},{\"salary\":1700,\"age\":15,\"sex\":\"m\",\"status\":\"expirienced applicant\"}]";
-		
-		Employee employee2 = jsonAction.convertJsonStrToEmployeePOJO(jsonStrEmp);
-		Boss boss2 = jsonAction.convertJsonStrToBossPOJO(jsonStrBos);
-		ExpiriencedApplicant experiencedApplicant2 = jsonAction.convertJsonStrToExpiriencedApplicantPOJO(jsonStrExp);
-		Staff staff2 = jsonAction.convertJsonStrToExpiriencedApplicantPOJO(jsonStrExp);
-		
-		LOGGER.info(employee2);
-		LOGGER.info(boss2);
-		LOGGER.info(experiencedApplicant2);
-		LOGGER.info(staff2);
-		
-																
-//		LOGGER.info("Name from POJO: " + employee2.showStatus());
-//		LOGGER.info("Name from POJO: " + employee2.showAge());
-//		LOGGER.info("Name from POJO: " + employee2.showSex());
-//		LOGGER.info("Name from POJO: " + employee2.showSalary());
-
-//		
-//		LOGGER.info("Name from POJO: " + boss2.showStatus());
-//		LOGGER.info("Name from POJO: " + boss2.showAge());
-//		LOGGER.info("Name from POJO: " + boss2.showSex());
-//		LOGGER.info("Name from POJO: " + boss2.showSalary());
-
-//		
-//		LOGGER.info("Name from POJO: " + experiencedApplicant2.showStatus());
-//		LOGGER.info("Name from POJO: " + experiencedApplicant2.showAge());
-//		LOGGER.info("Name from POJO: " + experiencedApplicant2.showSex());
-//		LOGGER.info("Name from POJO: " + experiencedApplicant2.showSalary());
-
-		
-	}	
-		
+		ColleagueArrayJson caj = new ColleagueArrayJson();
+		caj.showColleagueArrayJsonTestCode();		
+	}
+	
+	public void showConnectorFunctions() {	
+		Connector con = new Connector();
+		con.connect();	
+	}
+	
+	
+	
+	
+	
+	
 	
 	public void showArrayListOperations() {			
 

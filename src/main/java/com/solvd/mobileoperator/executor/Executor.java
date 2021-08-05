@@ -12,9 +12,11 @@ public class Executor {
 	public static void main(String[] args) {
 		
 		Menu menu = new Menu();
-//		menu.showPropertiesTestCode();
-		menu.showJsonTestCodeAnimal();	
-		menu.showJsonTestCodeStaff();		
+		menu.showConnectionRaviDaoFunctions();
+//		menu.showConnectorFunctions();
+//		menu.showSeleniumDriverFunctions();
+//		menu.showPropertiesFunctions();
+//		menu.showJsonFunctions();		
 //		menu.showArrayListOperations();
 //		menu.showColletionOperations();
 		

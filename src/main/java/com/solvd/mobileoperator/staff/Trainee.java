@@ -29,12 +29,21 @@ public interface Trainee {
 	
 //OverLoading
 	public String showStatus(String status);
-		
-	public void setSex(String sex);
 
 	public void setAge(int age);	
 	
+	public void setSex(String sex);
+	
 	public void setSalary(int age);
-
+	
+	public void setStatus(String status);
+	
+	public int getAge();
+	
+	public String getSex();
+	
+	public int getSalary();
+	
+	public String getStatus();
 		
 }

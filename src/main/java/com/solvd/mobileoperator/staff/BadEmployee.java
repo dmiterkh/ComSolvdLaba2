@@ -119,18 +119,43 @@ public class BadEmployee implements Staff , BadTrainee {
 	}
 	
 	@Override
-	public void setSex(String sexArg) {
-		sex = sexArg;	
-	}
-	
-	@Override
 	public void setAge(int ageArg) {
 		age = ageArg;	
 	}
 	
 	@Override
+	public void setSex(String sexArg) {
+		sex = sexArg;	
+	}
+		
+	@Override
 	public void setSalary(int salaryArg) {
 		salary = salaryArg;	
+	}
+	
+	@Override
+	public void setStatus(String statusArg) {
+		status = statusArg;	
+	}
+	
+	@Override
+	public int getAge() {
+		return age;
+	}
+	
+	@Override
+	public String getSex() {
+		return sex;
+	}
+	
+	@Override
+	public int getSalary() {
+		return salary;
+	}
+	
+	@Override
+	public String getStatus() {
+		return status;
 	}
 	
 	@Override
