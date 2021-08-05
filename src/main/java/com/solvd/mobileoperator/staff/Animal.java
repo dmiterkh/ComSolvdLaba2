@@ -16,6 +16,7 @@ public class Animal {
 	}
 	
 	public void setName(String name) {
+		LOGGER.info("My name has been set");
 		this.name = name;
 	}
 	
@@ -24,6 +25,7 @@ public class Animal {
 	}
 	
 	public void setId(int id) {
+		LOGGER.info("My id has been set");
 		this.id = id;
 	}
 
@@ -32,6 +34,7 @@ public class Animal {
 	}
 
 	public void setPlace(AnimalPlace animalPlace) {
+		LOGGER.info("My place has been set");
 		this.animalPlace = animalPlace;
 	}
 	

@@ -1,4 +1,4 @@
-package com.solvd.mobileoperator.utils;
+package com.solvd.mobileoperator.utils.jsonfolder;
 
 import java.io.IOException;
 import java.nio.file.Paths;

@@ -1,7 +1,11 @@
 package com.solvd.mobileoperator.staff;
 
+import org.apache.log4j.Logger;
+
 public class Boss extends Employee {
 
+	private final static Logger LOGGER = Logger.getLogger(Boss.class);
+	
 	public String status = "boss";
 	private String power = "power";
 	

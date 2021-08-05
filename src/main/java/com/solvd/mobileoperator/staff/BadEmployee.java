@@ -2,9 +2,11 @@ package com.solvd.mobileoperator.staff;
 
 public class BadEmployee implements Staff , BadTrainee {
 
-	private int salary;
+	
+	private int id; 
 	private int age; 
-	private String sex; 
+	private String sex;
+	private int salary; 
 	private String status = "bad employee"; 
 	
 	public BadEmployee() {
@@ -119,8 +121,8 @@ public class BadEmployee implements Staff , BadTrainee {
 	}
 	
 	@Override
-	public void setSex(String sexArg) {
-		sex = sexArg;	
+	public void setId(int idArg) {
+		id = idArg;	
 	}
 	
 	@Override
@@ -129,8 +131,43 @@ public class BadEmployee implements Staff , BadTrainee {
 	}
 	
 	@Override
+	public void setSex(String sexArg) {
+		sex = sexArg;	
+	}
+		
+	@Override
 	public void setSalary(int salaryArg) {
 		salary = salaryArg;	
+	}
+	
+	@Override
+	public void setStatus(String statusArg) {
+		status = statusArg;	
+	}
+	
+	@Override
+	public int getId() {
+		return id;
+	}
+	
+	@Override
+	public int getAge() {
+		return age;
+	}
+	
+	@Override
+	public String getSex() {
+		return sex;
+	}
+	
+	@Override
+	public int getSalary() {
+		return salary;
+	}
+	
+	@Override
+	public String getStatus() {
+		return status;
 	}
 	
 	@Override

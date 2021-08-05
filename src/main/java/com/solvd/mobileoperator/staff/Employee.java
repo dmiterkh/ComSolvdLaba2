@@ -8,11 +8,12 @@ import com.solvd.mobileoperator.utils.*;
 
 public class Employee implements Staff {
 
-	private final static Logger LOGGER = Logger.getLogger(Animal.class);
+	private final static Logger LOGGER = Logger.getLogger(Employee.class);
 	
-	public int salary;
+	public int id; 
 	public int age; 
 	public String sex; 
+	public int salary;
 	public String status = "employee"; 
 		
 	public Employee() {
@@ -124,22 +125,62 @@ public class Employee implements Staff {
 	public String showStatus(String statusArg) {
 		return statusArg;
 	}
-	
+		
 	@Override
-	public void setSex(String sexArg) {
-		sex = sexArg;	
+	public void setId(int idArg) {
+		LOGGER.info("My id has been set");
+		id = idArg;	
 	}
 	
 	@Override
 	public void setAge(int ageArg) {
+		LOGGER.info("My age has been set");
 		age = ageArg;	
 	}
 	
 	@Override
+	public void setSex(String sexArg) {
+		LOGGER.info("My sex has been set");
+		sex = sexArg;	
+	}
+		
+	@Override
 	public void setSalary(int salaryArg) {
+		LOGGER.info("My salary has been set");
 		salary = salaryArg;	
 	}
 	
+	@Override
+	public void setStatus(String statusArg) {
+		LOGGER.info("My status has been set");
+		status = statusArg;	
+	}
+	
+	@Override
+	public int getId() {
+		return id;
+	}
+	
+	@Override
+	public int getAge() {
+		return age;
+	}
+	
+	@Override
+	public String getSex() {
+		return sex;
+	}
+	
+	@Override
+	public int getSalary() {
+		return salary;
+	}
+	
+	@Override
+	public String getStatus() {
+		return status;
+	}
+		
 	@Override
 	public String work() {
 		return "I can work 8 hours every day!";
